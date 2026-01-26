@@ -8,8 +8,12 @@ function directoryApp() {
     showToast: false,
     items: [],
     filteredItems: [],
+    displayedItems: [],
     allTags: [],
     categories: DIRECTORY_DATA.categories,
+    itemsPerPage: 50,
+    currentPage: 1,
+    loading: false,
     
     init() {
       // Load theme from localStorage or system preference
@@ -17,7 +21,6 @@ function directoryApp() {
       if (savedTheme) {
         this.isDark = savedTheme === 'dark';
       } else {
-        // Check system preference
         this.isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
       }
       this.applyTheme();
@@ -25,12 +28,18 @@ function directoryApp() {
       // Load items
       this.items = DIRECTORY_DATA.items;
       
-      // Extract all unique tags
-      const tagSet = new Set();
+      // Extract all unique tags (limit to top 50 for performance)
+      const tagCounts = {};
       this.items.forEach(item => {
-        item.tags.forEach(tag => tagSet.add(tag));
+        item.tags.forEach(tag => {
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+        });
       });
-      this.allTags = Array.from(tagSet).sort();
+      this.allTags = Object.entries(tagCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 50)
+        .map(([tag]) => tag)
+        .sort();
       
       // Initial filter
       this.filterItems();
@@ -38,6 +47,34 @@ function directoryApp() {
       // Listen for URL hash changes for category deep linking
       this.handleHashChange();
       window.addEventListener('hashchange', () => this.handleHashChange());
+      
+      // Infinite scroll
+      window.addEventListener('scroll', () => this.handleScroll());
+    },
+    
+    handleScroll() {
+      if (this.loading) return;
+      const scrollY = window.scrollY;
+      const windowHeight = window.innerHeight;
+      const docHeight = document.documentElement.scrollHeight;
+      
+      if (scrollY + windowHeight >= docHeight - 500) {
+        this.loadMore();
+      }
+    },
+    
+    loadMore() {
+      if (this.displayedItems.length >= this.filteredItems.length) return;
+      
+      this.loading = true;
+      const start = this.displayedItems.length;
+      const end = Math.min(start + this.itemsPerPage, this.filteredItems.length);
+      
+      // Use setTimeout to prevent UI freeze
+      setTimeout(() => {
+        this.displayedItems = this.filteredItems.slice(0, end);
+        this.loading = false;
+      }, 10);
     },
     
     handleHashChange() {
@@ -50,6 +87,10 @@ function directoryApp() {
     get currentCategoryName() {
       const cat = this.categories.find(c => c.id === this.activeCategory);
       return cat ? (cat.id === 'all' ? 'All Tools' : cat.name) : 'All Tools';
+    },
+    
+    get totalCount() {
+      return this.filteredItems.length;
     },
     
     toggleTheme() {
@@ -68,13 +109,14 @@ function directoryApp() {
     
     setCategory(categoryId) {
       this.activeCategory = categoryId;
-      // Update URL hash without scrolling
+      this.currentPage = 1;
       history.replaceState(null, '', categoryId === 'all' ? '#' : `#${categoryId}`);
       this.filterItems();
     },
     
     setTag(tag) {
-      this.activeTag = tag;
+      this.activeTag = this.activeTag === tag ? null : tag;
+      this.currentPage = 1;
       this.filterItems();
     },
     
@@ -110,6 +152,8 @@ function directoryApp() {
       }
       
       this.filteredItems = result;
+      // Only display first batch
+      this.displayedItems = result.slice(0, this.itemsPerPage);
     },
     
     copyToClipboard(text) {
@@ -120,7 +164,6 @@ function directoryApp() {
         }, 2000);
       }).catch(err => {
         console.error('Failed to copy:', err);
-        // Fallback for older browsers
         const textArea = document.createElement('textarea');
         textArea.value = text;
         document.body.appendChild(textArea);
