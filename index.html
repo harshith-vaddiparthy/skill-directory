@@ -330,9 +330,9 @@
                 <div class="relative group/code">
                   <div class="flex items-center gap-2 px-3 py-2.5 rounded-lg dark:bg-dark-950/60 bg-dark-100 border dark:border-dark-800/50 border-dark-200">
                     <span class="dark:text-dark-600 text-dark-400 text-xs">$</span>
-                    <code class="text-xs font-mono dark:text-dark-300 text-dark-700 truncate flex-1" x-text="item.install"></code>
+                    <code class="text-xs font-mono dark:text-dark-300 text-dark-700 truncate flex-1" x-text="item.installCommand"></code>
                     <button 
-                      @click="copyToClipboard(item.install)"
+                      @click="copyToClipboard(item.installCommand)"
                       class="p-1.5 rounded dark:hover:bg-dark-700 hover:bg-dark-200 text-dark-500 dark:hover:text-dark-300 hover:text-dark-700 transition-all opacity-0 group-hover/code:opacity-100"
                       title="Copy command"
                     >
