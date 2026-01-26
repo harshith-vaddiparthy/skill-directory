@@ -1,0 +1,23 @@
+{
+  "name": "skill-directory",
+  "version": "1.0.0",
+  "description": "A curated collection of skills, extensions, and tools for Claude Code and Clawdbot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshith-vaddiparthy/skill-directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshith-vaddiparthy/skill-directory/issues"
+  },
+  "homepage": "https://github.com/harshith-vaddiparthy/skill-directory#readme",
+  "dependencies": {
+    "puppeteer": "^24.36.0"
+  }
+}
