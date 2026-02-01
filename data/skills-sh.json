@@ -1,13 +1,13 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-01-31T06:01:33.405Z",
+  "scrapedAt": "2026-02-01T06:01:34.133Z",
   "count": 349,
   "skills": [
     {
       "id": "vercel-labs/vercel-react-best-practices",
       "name": "vercel-react-best-practices",
       "repo": "vercel-labs/agent-skills",
-      "installs": 74300,
+      "installs": 77900,
       "rank": 1,
       "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices"
     },
@@ -15,7 +15,7 @@
       "id": "vercel-labs/find-skills",
       "name": "find-skills",
       "repo": "vercel-labs/skills",
-      "installs": 60500,
+      "installs": 69500,
       "rank": 2,
       "url": "https://skills.sh/vercel-labs/skills/find-skills"
     },
@@ -23,7 +23,7 @@
       "id": "vercel-labs/web-design-guidelines",
       "name": "web-design-guidelines",
       "repo": "vercel-labs/agent-skills",
-      "installs": 56300,
+      "installs": 59000,
       "rank": 3,
       "url": "https://skills.sh/vercel-labs/agent-skills/web-design-guidelines"
     },
@@ -31,7 +31,7 @@
       "id": "remotion-dev/remotion-best-practices",
       "name": "remotion-best-practices",
       "repo": "remotion-dev/skills",
-      "installs": 53700,
+      "installs": 56200,
       "rank": 4,
       "url": "https://skills.sh/remotion-dev/skills/remotion-best-practices"
     },
@@ -39,7 +39,7 @@
       "id": "anthropics/frontend-design",
       "name": "frontend-design",
       "repo": "anthropics/skills",
-      "installs": 28000,
+      "installs": 30100,
       "rank": 5,
       "url": "https://skills.sh/anthropics/skills/frontend-design"
     },
@@ -47,7 +47,7 @@
       "id": "vercel-labs/agent-browser",
       "name": "agent-browser",
       "repo": "vercel-labs/agent-browser",
-      "installs": 16400,
+      "installs": 17400,
       "rank": 6,
       "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser"
     },
@@ -55,7 +55,7 @@
       "id": "anthropics/skill-creator",
       "name": "skill-creator",
       "repo": "anthropics/skills",
-      "installs": 13900,
+      "installs": 14900,
       "rank": 7,
       "url": "https://skills.sh/anthropics/skills/skill-creator"
     },
@@ -63,7 +63,7 @@
       "id": "vercel-labs/vercel-composition-patterns",
       "name": "vercel-composition-patterns",
       "repo": "vercel-labs/agent-skills",
-      "installs": 11900,
+      "installs": 13800,
       "rank": 8,
       "url": "https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns"
     },
@@ -71,7 +71,7 @@
       "id": "vercel-labs/vercel-react-native-skills",
       "name": "vercel-react-native-skills",
       "repo": "vercel-labs/agent-skills",
-      "installs": 9100,
+      "installs": 10400,
       "rank": 9,
       "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills"
     },
@@ -79,7 +79,7 @@
       "id": "coreyhaines31/seo-audit",
       "name": "seo-audit",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 8700,
+      "installs": 9400,
       "rank": 10,
       "url": "https://skills.sh/coreyhaines31/marketingskills/seo-audit"
     },
@@ -87,7 +87,7 @@
       "id": "squirrelscan/audit-website",
       "name": "audit-website",
       "repo": "squirrelscan/skills",
-      "installs": 8600,
+      "installs": 9200,
       "rank": 11,
       "url": "https://skills.sh/squirrelscan/skills/audit-website"
     },
@@ -95,7 +95,7 @@
       "id": "nextlevelbuilder/ui-ux-pro-max",
       "name": "ui-ux-pro-max",
       "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "installs": 8000,
+      "installs": 8900,
       "rank": 12,
       "url": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max"
     },
@@ -103,7 +103,7 @@
       "id": "supabase/supabase-postgres-best-practices",
       "name": "supabase-postgres-best-practices",
       "repo": "supabase/agent-skills",
-      "installs": 7800,
+      "installs": 8400,
       "rank": 13,
       "url": "https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices"
     },
@@ -111,7 +111,7 @@
       "id": "browser-use/browser-use",
       "name": "browser-use",
       "repo": "browser-use/browser-use",
-      "installs": 6600,
+      "installs": 6700,
       "rank": 14,
       "url": "https://skills.sh/browser-use/browser-use/browser-use"
     },
@@ -119,7 +119,7 @@
       "id": "coreyhaines31/copywriting",
       "name": "copywriting",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 6200,
+      "installs": 6600,
       "rank": 15,
       "url": "https://skills.sh/coreyhaines31/marketingskills/copywriting"
     },
@@ -127,31 +127,31 @@
       "id": "expo/building-native-ui",
       "name": "building-native-ui",
       "repo": "expo/skills",
-      "installs": 5800,
+      "installs": 6100,
       "rank": 16,
       "url": "https://skills.sh/expo/skills/building-native-ui"
-    },
-    {
-      "id": "better-auth/better-auth-best-practices",
-      "name": "better-auth-best-practices",
-      "repo": "better-auth/skills",
-      "installs": 5600,
-      "rank": 17,
-      "url": "https://skills.sh/better-auth/skills/better-auth-best-practices"
     },
     {
       "id": "anthropics/pdf",
       "name": "pdf",
       "repo": "anthropics/skills",
-      "installs": 5500,
-      "rank": 18,
+      "installs": 6000,
+      "rank": 17,
       "url": "https://skills.sh/anthropics/skills/pdf"
+    },
+    {
+      "id": "better-auth/better-auth-best-practices",
+      "name": "better-auth-best-practices",
+      "repo": "better-auth/skills",
+      "installs": 6000,
+      "rank": 18,
+      "url": "https://skills.sh/better-auth/skills/better-auth-best-practices"
     },
     {
       "id": "obra/brainstorming",
       "name": "brainstorming",
       "repo": "obra/superpowers",
-      "installs": 5400,
+      "installs": 5900,
       "rank": 19,
       "url": "https://skills.sh/obra/superpowers/brainstorming"
     },
@@ -159,7 +159,7 @@
       "id": "coreyhaines31/marketing-psychology",
       "name": "marketing-psychology",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 4800,
+      "installs": 5100,
       "rank": 20,
       "url": "https://skills.sh/coreyhaines31/marketingskills/marketing-psychology"
     },
@@ -167,7 +167,7 @@
       "id": "anthropics/pptx",
       "name": "pptx",
       "repo": "anthropics/skills",
-      "installs": 4500,
+      "installs": 5000,
       "rank": 21,
       "url": "https://skills.sh/anthropics/skills/pptx"
     },
@@ -175,7 +175,7 @@
       "id": "anthropics/xlsx",
       "name": "xlsx",
       "repo": "anthropics/skills",
-      "installs": 4300,
+      "installs": 4700,
       "rank": 22,
       "url": "https://skills.sh/anthropics/skills/xlsx"
     },
@@ -183,7 +183,7 @@
       "id": "anthropics/docx",
       "name": "docx",
       "repo": "anthropics/skills",
-      "installs": 4100,
+      "installs": 4500,
       "rank": 23,
       "url": "https://skills.sh/anthropics/skills/docx"
     },
@@ -191,79 +191,79 @@
       "id": "coreyhaines31/programmatic-seo",
       "name": "programmatic-seo",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 4000,
+      "installs": 4300,
       "rank": 24,
       "url": "https://skills.sh/coreyhaines31/marketingskills/programmatic-seo"
+    },
+    {
+      "id": "anthropics/webapp-testing",
+      "name": "webapp-testing",
+      "repo": "anthropics/skills",
+      "installs": 4200,
+      "rank": 25,
+      "url": "https://skills.sh/anthropics/skills/webapp-testing"
     },
     {
       "id": "expo/upgrading-expo",
       "name": "upgrading-expo",
       "repo": "expo/skills",
-      "installs": 4000,
-      "rank": 25,
+      "installs": 4200,
+      "rank": 26,
       "url": "https://skills.sh/expo/skills/upgrading-expo"
     },
     {
       "id": "expo/native-data-fetching",
       "name": "native-data-fetching",
       "repo": "expo/skills",
-      "installs": 4000,
-      "rank": 26,
-      "url": "https://skills.sh/expo/skills/native-data-fetching"
-    },
-    {
-      "id": "anthropics/webapp-testing",
-      "name": "webapp-testing",
-      "repo": "anthropics/skills",
-      "installs": 3800,
+      "installs": 4100,
       "rank": 27,
-      "url": "https://skills.sh/anthropics/skills/webapp-testing"
-    },
-    {
-      "id": "hyf0/vue-best-practices",
-      "name": "vue-best-practices",
-      "repo": "hyf0/vue-skills",
-      "installs": 3800,
-      "rank": 28,
-      "url": "https://skills.sh/hyf0/vue-skills/vue-best-practices"
-    },
-    {
-      "id": "coreyhaines31/marketing-ideas",
-      "name": "marketing-ideas",
-      "repo": "coreyhaines31/marketingskills",
-      "installs": 3700,
-      "rank": 29,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/marketing-ideas"
+      "url": "https://skills.sh/expo/skills/native-data-fetching"
     },
     {
       "id": "anthropics/mcp-builder",
       "name": "mcp-builder",
       "repo": "anthropics/skills",
-      "installs": 3700,
-      "rank": 30,
+      "installs": 4000,
+      "rank": 28,
       "url": "https://skills.sh/anthropics/skills/mcp-builder"
     },
     {
-      "id": "expo/expo-dev-client",
-      "name": "expo-dev-client",
-      "repo": "expo/skills",
-      "installs": 3500,
-      "rank": 31,
-      "url": "https://skills.sh/expo/skills/expo-dev-client"
+      "id": "coreyhaines31/marketing-ideas",
+      "name": "marketing-ideas",
+      "repo": "coreyhaines31/marketingskills",
+      "installs": 3900,
+      "rank": 29,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/marketing-ideas"
+    },
+    {
+      "id": "hyf0/vue-best-practices",
+      "name": "vue-best-practices",
+      "repo": "hyf0/vue-skills",
+      "installs": 3900,
+      "rank": 30,
+      "url": "https://skills.sh/hyf0/vue-skills/vue-best-practices"
     },
     {
       "id": "coreyhaines31/pricing-strategy",
       "name": "pricing-strategy",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 3500,
-      "rank": 32,
+      "installs": 3700,
+      "rank": 31,
       "url": "https://skills.sh/coreyhaines31/marketingskills/pricing-strategy"
+    },
+    {
+      "id": "expo/expo-dev-client",
+      "name": "expo-dev-client",
+      "repo": "expo/skills",
+      "installs": 3700,
+      "rank": 32,
+      "url": "https://skills.sh/expo/skills/expo-dev-client"
     },
     {
       "id": "coreyhaines31/social-content",
       "name": "social-content",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 3500,
+      "installs": 3700,
       "rank": 33,
       "url": "https://skills.sh/coreyhaines31/marketingskills/social-content"
     },
@@ -271,271 +271,271 @@
       "id": "expo/expo-deployment",
       "name": "expo-deployment",
       "repo": "expo/skills",
-      "installs": 3500,
+      "installs": 3600,
       "rank": 34,
       "url": "https://skills.sh/expo/skills/expo-deployment"
-    },
-    {
-      "id": "callstackincubator/react-native-best-practices",
-      "name": "react-native-best-practices",
-      "repo": "callstackincubator/agent-skills",
-      "installs": 3400,
-      "rank": 35,
-      "url": "https://skills.sh/callstackincubator/agent-skills/react-native-best-practices"
     },
     {
       "id": "expo/expo-tailwind-setup",
       "name": "expo-tailwind-setup",
       "repo": "expo/skills",
-      "installs": 3400,
-      "rank": 36,
+      "installs": 3600,
+      "rank": 35,
       "url": "https://skills.sh/expo/skills/expo-tailwind-setup"
-    },
-    {
-      "id": "expo/expo-api-routes",
-      "name": "expo-api-routes",
-      "repo": "expo/skills",
-      "installs": 3300,
-      "rank": 37,
-      "url": "https://skills.sh/expo/skills/expo-api-routes"
     },
     {
       "id": "obra/systematic-debugging",
       "name": "systematic-debugging",
       "repo": "obra/superpowers",
-      "installs": 3300,
-      "rank": 38,
+      "installs": 3500,
+      "rank": 36,
       "url": "https://skills.sh/obra/superpowers/systematic-debugging"
     },
     {
-      "id": "coreyhaines31/copy-editing",
-      "name": "copy-editing",
-      "repo": "coreyhaines31/marketingskills",
-      "installs": 3300,
-      "rank": 39,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/copy-editing"
+      "id": "callstackincubator/react-native-best-practices",
+      "name": "react-native-best-practices",
+      "repo": "callstackincubator/agent-skills",
+      "installs": 3500,
+      "rank": 37,
+      "url": "https://skills.sh/callstackincubator/agent-skills/react-native-best-practices"
     },
     {
       "id": "anthropics/canvas-design",
       "name": "canvas-design",
       "repo": "anthropics/skills",
-      "installs": 3200,
-      "rank": 40,
+      "installs": 3500,
+      "rank": 38,
       "url": "https://skills.sh/anthropics/skills/canvas-design"
+    },
+    {
+      "id": "expo/expo-api-routes",
+      "name": "expo-api-routes",
+      "repo": "expo/skills",
+      "installs": 3500,
+      "rank": 39,
+      "url": "https://skills.sh/expo/skills/expo-api-routes"
+    },
+    {
+      "id": "vercel-labs/next-best-practices",
+      "name": "next-best-practices",
+      "repo": "vercel-labs/next-skills",
+      "installs": 3500,
+      "rank": 40,
+      "url": "https://skills.sh/vercel-labs/next-skills/next-best-practices"
+    },
+    {
+      "id": "coreyhaines31/copy-editing",
+      "name": "copy-editing",
+      "repo": "coreyhaines31/marketingskills",
+      "installs": 3400,
+      "rank": 41,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/copy-editing"
+    },
+    {
+      "id": "obra/test-driven-development",
+      "name": "test-driven-development",
+      "repo": "obra/superpowers",
+      "installs": 3300,
+      "rank": 42,
+      "url": "https://skills.sh/obra/superpowers/test-driven-development"
     },
     {
       "id": "coreyhaines31/launch-strategy",
       "name": "launch-strategy",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 3100,
-      "rank": 41,
+      "installs": 3300,
+      "rank": 43,
       "url": "https://skills.sh/coreyhaines31/marketingskills/launch-strategy"
     },
     {
       "id": "coreyhaines31/page-cro",
       "name": "page-cro",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 3100,
-      "rank": 42,
+      "installs": 3300,
+      "rank": 44,
       "url": "https://skills.sh/coreyhaines31/marketingskills/page-cro"
-    },
-    {
-      "id": "obra/test-driven-development",
-      "name": "test-driven-development",
-      "repo": "obra/superpowers",
-      "installs": 3100,
-      "rank": 43,
-      "url": "https://skills.sh/obra/superpowers/test-driven-development"
     },
     {
       "id": "coreyhaines31/analytics-tracking",
       "name": "analytics-tracking",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 3000,
-      "rank": 44,
+      "installs": 3200,
+      "rank": 45,
       "url": "https://skills.sh/coreyhaines31/marketingskills/analytics-tracking"
     },
     {
       "id": "coreyhaines31/onboarding-cro",
       "name": "onboarding-cro",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 3000,
-      "rank": 45,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/onboarding-cro"
-    },
-    {
-      "id": "expo/expo-cicd-workflows",
-      "name": "expo-cicd-workflows",
-      "repo": "expo/skills",
-      "installs": 3000,
+      "installs": 3100,
       "rank": 46,
-      "url": "https://skills.sh/expo/skills/expo-cicd-workflows"
-    },
-    {
-      "id": "vercel-labs/next-best-practices",
-      "name": "next-best-practices",
-      "repo": "vercel-labs/next-skills",
-      "installs": 3000,
-      "rank": 47,
-      "url": "https://skills.sh/vercel-labs/next-skills/next-best-practices"
+      "url": "https://skills.sh/coreyhaines31/marketingskills/onboarding-cro"
     },
     {
       "id": "coreyhaines31/schema-markup",
       "name": "schema-markup",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 3000,
-      "rank": 48,
+      "installs": 3100,
+      "rank": 47,
       "url": "https://skills.sh/coreyhaines31/marketingskills/schema-markup"
-    },
-    {
-      "id": "expo/use-dom",
-      "name": "use-dom",
-      "repo": "expo/skills",
-      "installs": 2900,
-      "rank": 49,
-      "url": "https://skills.sh/expo/skills/use-dom"
     },
     {
       "id": "coreyhaines31/competitor-alternatives",
       "name": "competitor-alternatives",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 2900,
-      "rank": 50,
+      "installs": 3100,
+      "rank": 48,
       "url": "https://skills.sh/coreyhaines31/marketingskills/competitor-alternatives"
-    },
-    {
-      "id": "coreyhaines31/paid-ads",
-      "name": "paid-ads",
-      "repo": "coreyhaines31/marketingskills",
-      "installs": 2800,
-      "rank": 51,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/paid-ads"
     },
     {
       "id": "obra/writing-plans",
       "name": "writing-plans",
       "repo": "obra/superpowers",
-      "installs": 2800,
-      "rank": 52,
+      "installs": 3100,
+      "rank": 49,
       "url": "https://skills.sh/obra/superpowers/writing-plans"
     },
     {
-      "id": "coreyhaines31/email-sequence",
-      "name": "email-sequence",
-      "repo": "coreyhaines31/marketingskills",
-      "installs": 2800,
-      "rank": 53,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/email-sequence"
+      "id": "expo/expo-cicd-workflows",
+      "name": "expo-cicd-workflows",
+      "repo": "expo/skills",
+      "installs": 3100,
+      "rank": 50,
+      "url": "https://skills.sh/expo/skills/expo-cicd-workflows"
+    },
+    {
+      "id": "expo/use-dom",
+      "name": "use-dom",
+      "repo": "expo/skills",
+      "installs": 3000,
+      "rank": 51,
+      "url": "https://skills.sh/expo/skills/use-dom"
     },
     {
       "id": "anthropics/doc-coauthoring",
       "name": "doc-coauthoring",
       "repo": "anthropics/skills",
-      "installs": 2700,
-      "rank": 54,
+      "installs": 3000,
+      "rank": 52,
       "url": "https://skills.sh/anthropics/skills/doc-coauthoring"
     },
     {
-      "id": "coreyhaines31/free-tool-strategy",
-      "name": "free-tool-strategy",
+      "id": "coreyhaines31/email-sequence",
+      "name": "email-sequence",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 2700,
-      "rank": 55,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/free-tool-strategy"
+      "installs": 3000,
+      "rank": 53,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/email-sequence"
     },
     {
-      "id": "coreyhaines31/signup-flow-cro",
-      "name": "signup-flow-cro",
+      "id": "coreyhaines31/paid-ads",
+      "name": "paid-ads",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 2700,
-      "rank": 56,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/signup-flow-cro"
+      "installs": 3000,
+      "rank": 54,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/paid-ads"
     },
     {
       "id": "anthropics/theme-factory",
       "name": "theme-factory",
       "repo": "anthropics/skills",
-      "installs": 2700,
-      "rank": 57,
+      "installs": 2900,
+      "rank": 55,
       "url": "https://skills.sh/anthropics/skills/theme-factory"
     },
     {
       "id": "obra/executing-plans",
       "name": "executing-plans",
       "repo": "obra/superpowers",
-      "installs": 2700,
-      "rank": 58,
+      "installs": 2900,
+      "rank": 56,
       "url": "https://skills.sh/obra/superpowers/executing-plans"
+    },
+    {
+      "id": "coreyhaines31/free-tool-strategy",
+      "name": "free-tool-strategy",
+      "repo": "coreyhaines31/marketingskills",
+      "installs": 2900,
+      "rank": 57,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/free-tool-strategy"
+    },
+    {
+      "id": "coreyhaines31/signup-flow-cro",
+      "name": "signup-flow-cro",
+      "repo": "coreyhaines31/marketingskills",
+      "installs": 2800,
+      "rank": 58,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/signup-flow-cro"
+    },
+    {
+      "id": "anthropics/web-artifacts-builder",
+      "name": "web-artifacts-builder",
+      "repo": "anthropics/skills",
+      "installs": 2800,
+      "rank": 59,
+      "url": "https://skills.sh/anthropics/skills/web-artifacts-builder"
     },
     {
       "id": "coreyhaines31/paywall-upgrade-cro",
       "name": "paywall-upgrade-cro",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 2600,
-      "rank": 59,
+      "installs": 2700,
+      "rank": 60,
       "url": "https://skills.sh/coreyhaines31/marketingskills/paywall-upgrade-cro"
     },
     {
       "id": "coreyhaines31/referral-program",
       "name": "referral-program",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 2600,
-      "rank": 60,
+      "installs": 2700,
+      "rank": 61,
       "url": "https://skills.sh/coreyhaines31/marketingskills/referral-program"
     },
     {
       "id": "coreyhaines31/form-cro",
       "name": "form-cro",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 2600,
-      "rank": 61,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/form-cro"
-    },
-    {
-      "id": "anthropics/web-artifacts-builder",
-      "name": "web-artifacts-builder",
-      "repo": "anthropics/skills",
-      "installs": 2600,
+      "installs": 2700,
       "rank": 62,
-      "url": "https://skills.sh/anthropics/skills/web-artifacts-builder"
-    },
-    {
-      "id": "coreyhaines31/popup-cro",
-      "name": "popup-cro",
-      "repo": "coreyhaines31/marketingskills",
-      "installs": 2500,
-      "rank": 63,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/popup-cro"
-    },
-    {
-      "id": "coreyhaines31/ab-test-setup",
-      "name": "ab-test-setup",
-      "repo": "coreyhaines31/marketingskills",
-      "installs": 2500,
-      "rank": 64,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/ab-test-setup"
+      "url": "https://skills.sh/coreyhaines31/marketingskills/form-cro"
     },
     {
       "id": "anthropics/algorithmic-art",
       "name": "algorithmic-art",
       "repo": "anthropics/skills",
-      "installs": 2500,
-      "rank": 65,
+      "installs": 2700,
+      "rank": 63,
       "url": "https://skills.sh/anthropics/skills/algorithmic-art"
+    },
+    {
+      "id": "coreyhaines31/popup-cro",
+      "name": "popup-cro",
+      "repo": "coreyhaines31/marketingskills",
+      "installs": 2700,
+      "rank": 64,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/popup-cro"
     },
     {
       "id": "obra/subagent-driven-development",
       "name": "subagent-driven-development",
       "repo": "obra/superpowers",
-      "installs": 2400,
-      "rank": 66,
+      "installs": 2600,
+      "rank": 65,
       "url": "https://skills.sh/obra/superpowers/subagent-driven-development"
+    },
+    {
+      "id": "coreyhaines31/ab-test-setup",
+      "name": "ab-test-setup",
+      "repo": "coreyhaines31/marketingskills",
+      "installs": 2600,
+      "rank": 66,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/ab-test-setup"
     },
     {
       "id": "obra/requesting-code-review",
       "name": "requesting-code-review",
       "repo": "obra/superpowers",
-      "installs": 2400,
+      "installs": 2600,
       "rank": 67,
       "url": "https://skills.sh/obra/superpowers/requesting-code-review"
     },
@@ -543,7 +543,7 @@
       "id": "anthropics/brand-guidelines",
       "name": "brand-guidelines",
       "repo": "anthropics/skills",
-      "installs": 2400,
+      "installs": 2600,
       "rank": 68,
       "url": "https://skills.sh/anthropics/skills/brand-guidelines"
     },
@@ -551,7 +551,7 @@
       "id": "obra/using-superpowers",
       "name": "using-superpowers",
       "repo": "obra/superpowers",
-      "installs": 2400,
+      "installs": 2500,
       "rank": 69,
       "url": "https://skills.sh/obra/superpowers/using-superpowers"
     },
@@ -559,7 +559,7 @@
       "id": "obra/verification-before-completion",
       "name": "verification-before-completion",
       "repo": "obra/superpowers",
-      "installs": 2300,
+      "installs": 2500,
       "rank": 70,
       "url": "https://skills.sh/obra/superpowers/verification-before-completion"
     },
@@ -567,760 +567,784 @@
       "id": "anthropics/template-skill",
       "name": "template-skill",
       "repo": "anthropics/skills",
-      "installs": 2300,
+      "installs": 2500,
       "rank": 71,
       "url": "https://skills.sh/anthropics/skills/template-skill"
-    },
-    {
-      "id": "obra/writing-skills",
-      "name": "writing-skills",
-      "repo": "obra/superpowers",
-      "installs": 2300,
-      "rank": 72,
-      "url": "https://skills.sh/obra/superpowers/writing-skills"
     },
     {
       "id": "anthropics/internal-comms",
       "name": "internal-comms",
       "repo": "anthropics/skills",
-      "installs": 2300,
-      "rank": 73,
+      "installs": 2500,
+      "rank": 72,
       "url": "https://skills.sh/anthropics/skills/internal-comms"
+    },
+    {
+      "id": "obra/writing-skills",
+      "name": "writing-skills",
+      "repo": "obra/superpowers",
+      "installs": 2400,
+      "rank": 73,
+      "url": "https://skills.sh/obra/superpowers/writing-skills"
+    },
+    {
+      "id": "obra/using-git-worktrees",
+      "name": "using-git-worktrees",
+      "repo": "obra/superpowers",
+      "installs": 2300,
+      "rank": 74,
+      "url": "https://skills.sh/obra/superpowers/using-git-worktrees"
     },
     {
       "id": "better-auth/create-auth-skill",
       "name": "create-auth-skill",
       "repo": "better-auth/skills",
-      "installs": 2200,
-      "rank": 74,
+      "installs": 2300,
+      "rank": 75,
       "url": "https://skills.sh/better-auth/skills/create-auth-skill"
     },
     {
       "id": "obra/dispatching-parallel-agents",
       "name": "dispatching-parallel-agents",
       "repo": "obra/superpowers",
-      "installs": 2200,
-      "rank": 75,
-      "url": "https://skills.sh/obra/superpowers/dispatching-parallel-agents"
-    },
-    {
-      "id": "obra/using-git-worktrees",
-      "name": "using-git-worktrees",
-      "repo": "obra/superpowers",
-      "installs": 2200,
+      "installs": 2300,
       "rank": 76,
-      "url": "https://skills.sh/obra/superpowers/using-git-worktrees"
-    },
-    {
-      "id": "obra/receiving-code-review",
-      "name": "receiving-code-review",
-      "repo": "obra/superpowers",
-      "installs": 2200,
-      "rank": 77,
-      "url": "https://skills.sh/obra/superpowers/receiving-code-review"
+      "url": "https://skills.sh/obra/superpowers/dispatching-parallel-agents"
     },
     {
       "id": "anthropics/slack-gif-creator",
       "name": "slack-gif-creator",
       "repo": "anthropics/skills",
-      "installs": 2100,
-      "rank": 78,
+      "installs": 2300,
+      "rank": 77,
       "url": "https://skills.sh/anthropics/skills/slack-gif-creator"
     },
     {
-      "id": "jimliu/baoyu-slide-deck",
-      "name": "baoyu-slide-deck",
-      "repo": "jimliu/baoyu-skills",
-      "installs": 2100,
+      "id": "obra/receiving-code-review",
+      "name": "receiving-code-review",
+      "repo": "obra/superpowers",
+      "installs": 2300,
+      "rank": 78,
+      "url": "https://skills.sh/obra/superpowers/receiving-code-review"
+    },
+    {
+      "id": "napoleond/instaclaw",
+      "name": "instaclaw",
+      "repo": "napoleond/instaclaw",
+      "installs": 2300,
       "rank": 79,
-      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-slide-deck"
+      "url": "https://skills.sh/napoleond/instaclaw/instaclaw"
+    },
+    {
+      "id": "napoleond/clawdirect-dev",
+      "name": "clawdirect-dev",
+      "repo": "napoleond/clawdirect",
+      "installs": 2200,
+      "rank": 80,
+      "url": "https://skills.sh/napoleond/clawdirect/clawdirect-dev"
     },
     {
       "id": "atxp-dev/atxp",
       "name": "atxp",
       "repo": "atxp-dev/cli",
-      "installs": 2000,
-      "rank": 80,
+      "installs": 2200,
+      "rank": 81,
       "url": "https://skills.sh/atxp-dev/cli/atxp"
     },
     {
-      "id": "jimliu/baoyu-article-illustrator",
-      "name": "baoyu-article-illustrator",
-      "repo": "jimliu/baoyu-skills",
-      "installs": 2000,
-      "rank": 81,
-      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-article-illustrator"
+      "id": "wshobson/tailwind-design-system",
+      "name": "tailwind-design-system",
+      "repo": "wshobson/agents",
+      "installs": 2200,
+      "rank": 82,
+      "url": "https://skills.sh/wshobson/agents/tailwind-design-system"
     },
     {
       "id": "vercel/ai-sdk",
       "name": "ai-sdk",
       "repo": "vercel/ai",
-      "installs": 2000,
-      "rank": 82,
+      "installs": 2200,
+      "rank": 83,
       "url": "https://skills.sh/vercel/ai/ai-sdk"
+    },
+    {
+      "id": "jimliu/baoyu-slide-deck",
+      "name": "baoyu-slide-deck",
+      "repo": "jimliu/baoyu-skills",
+      "installs": 2200,
+      "rank": 84,
+      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-slide-deck"
+    },
+    {
+      "id": "napoleond/clawdirect",
+      "name": "clawdirect",
+      "repo": "napoleond/clawdirect",
+      "installs": 2200,
+      "rank": 85,
+      "url": "https://skills.sh/napoleond/clawdirect/clawdirect"
     },
     {
       "id": "softaworks/agent-md-refactor",
       "name": "agent-md-refactor",
       "repo": "softaworks/agent-toolkit",
-      "installs": 2000,
-      "rank": 83,
+      "installs": 2100,
+      "rank": 86,
       "url": "https://skills.sh/softaworks/agent-toolkit/agent-md-refactor"
     },
     {
       "id": "softaworks/commit-work",
       "name": "commit-work",
       "repo": "softaworks/agent-toolkit",
-      "installs": 2000,
-      "rank": 84,
+      "installs": 2100,
+      "rank": 87,
       "url": "https://skills.sh/softaworks/agent-toolkit/commit-work"
     },
     {
-      "id": "wshobson/tailwind-design-system",
-      "name": "tailwind-design-system",
-      "repo": "wshobson/agents",
-      "installs": 2000,
-      "rank": 85,
-      "url": "https://skills.sh/wshobson/agents/tailwind-design-system"
+      "id": "jimliu/baoyu-article-illustrator",
+      "name": "baoyu-article-illustrator",
+      "repo": "jimliu/baoyu-skills",
+      "installs": 2100,
+      "rank": 88,
+      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-article-illustrator"
     },
     {
       "id": "softaworks/mermaid-diagrams",
       "name": "mermaid-diagrams",
       "repo": "softaworks/agent-toolkit",
-      "installs": 2000,
-      "rank": 86,
+      "installs": 2100,
+      "rank": 89,
       "url": "https://skills.sh/softaworks/agent-toolkit/mermaid-diagrams"
     },
     {
       "id": "softaworks/session-handoff",
       "name": "session-handoff",
       "repo": "softaworks/agent-toolkit",
-      "installs": 2000,
-      "rank": 87,
+      "installs": 2100,
+      "rank": 90,
       "url": "https://skills.sh/softaworks/agent-toolkit/session-handoff"
-    },
-    {
-      "id": "softaworks/daily-meeting-update",
-      "name": "daily-meeting-update",
-      "repo": "softaworks/agent-toolkit",
-      "installs": 2000,
-      "rank": 88,
-      "url": "https://skills.sh/softaworks/agent-toolkit/daily-meeting-update"
     },
     {
       "id": "softaworks/qa-test-planner",
       "name": "qa-test-planner",
       "repo": "softaworks/agent-toolkit",
-      "installs": 2000,
-      "rank": 89,
+      "installs": 2100,
+      "rank": 91,
       "url": "https://skills.sh/softaworks/agent-toolkit/qa-test-planner"
     },
     {
-      "id": "softaworks/codex",
-      "name": "codex",
+      "id": "softaworks/daily-meeting-update",
+      "name": "daily-meeting-update",
       "repo": "softaworks/agent-toolkit",
-      "installs": 2000,
-      "rank": 90,
-      "url": "https://skills.sh/softaworks/agent-toolkit/codex"
+      "installs": 2100,
+      "rank": 92,
+      "url": "https://skills.sh/softaworks/agent-toolkit/daily-meeting-update"
     },
     {
       "id": "softaworks/writing-clearly-and-concisely",
       "name": "writing-clearly-and-concisely",
       "repo": "softaworks/agent-toolkit",
-      "installs": 2000,
-      "rank": 91,
+      "installs": 2100,
+      "rank": 93,
       "url": "https://skills.sh/softaworks/agent-toolkit/writing-clearly-and-concisely"
     },
     {
       "id": "softaworks/gemini",
       "name": "gemini",
       "repo": "softaworks/agent-toolkit",
-      "installs": 2000,
-      "rank": 92,
+      "installs": 2100,
+      "rank": 94,
       "url": "https://skills.sh/softaworks/agent-toolkit/gemini"
     },
     {
-      "id": "softaworks/meme-factory",
-      "name": "meme-factory",
+      "id": "softaworks/codex",
+      "name": "codex",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 93,
-      "url": "https://skills.sh/softaworks/agent-toolkit/meme-factory"
+      "installs": 2100,
+      "rank": 95,
+      "url": "https://skills.sh/softaworks/agent-toolkit/codex"
     },
     {
       "id": "softaworks/dependency-updater",
       "name": "dependency-updater",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 94,
+      "installs": 2100,
+      "rank": 96,
       "url": "https://skills.sh/softaworks/agent-toolkit/dependency-updater"
+    },
+    {
+      "id": "softaworks/meme-factory",
+      "name": "meme-factory",
+      "repo": "softaworks/agent-toolkit",
+      "installs": 2100,
+      "rank": 97,
+      "url": "https://skills.sh/softaworks/agent-toolkit/meme-factory"
+    },
+    {
+      "id": "wshobson/typescript-advanced-types",
+      "name": "typescript-advanced-types",
+      "repo": "wshobson/agents",
+      "installs": 2100,
+      "rank": 98,
+      "url": "https://skills.sh/wshobson/agents/typescript-advanced-types"
     },
     {
       "id": "softaworks/domain-name-brainstormer",
       "name": "domain-name-brainstormer",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 95,
+      "installs": 2100,
+      "rank": 99,
       "url": "https://skills.sh/softaworks/agent-toolkit/domain-name-brainstormer"
-    },
-    {
-      "id": "jimliu/baoyu-cover-image",
-      "name": "baoyu-cover-image",
-      "repo": "jimliu/baoyu-skills",
-      "installs": 1900,
-      "rank": 96,
-      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-cover-image"
     },
     {
       "id": "softaworks/ship-learn-next",
       "name": "ship-learn-next",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 97,
+      "installs": 2100,
+      "rank": 100,
       "url": "https://skills.sh/softaworks/agent-toolkit/ship-learn-next"
-    },
-    {
-      "id": "softaworks/gepetto",
-      "name": "gepetto",
-      "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 98,
-      "url": "https://skills.sh/softaworks/agent-toolkit/gepetto"
     },
     {
       "id": "softaworks/crafting-effective-readmes",
       "name": "crafting-effective-readmes",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 99,
+      "installs": 2100,
+      "rank": 101,
       "url": "https://skills.sh/softaworks/agent-toolkit/crafting-effective-readmes"
-    },
-    {
-      "id": "obra/finishing-a-development-branch",
-      "name": "finishing-a-development-branch",
-      "repo": "obra/superpowers",
-      "installs": 1900,
-      "rank": 100,
-      "url": "https://skills.sh/obra/superpowers/finishing-a-development-branch"
     },
     {
       "id": "subsy/ralph-tui-prd",
       "name": "ralph-tui-prd",
       "repo": "subsy/ralph-tui",
-      "installs": 1900,
-      "rank": 101,
+      "installs": 2100,
+      "rank": 102,
       "url": "https://skills.sh/subsy/ralph-tui/ralph-tui-prd"
+    },
+    {
+      "id": "softaworks/gepetto",
+      "name": "gepetto",
+      "repo": "softaworks/agent-toolkit",
+      "installs": 2100,
+      "rank": 103,
+      "url": "https://skills.sh/softaworks/agent-toolkit/gepetto"
+    },
+    {
+      "id": "obra/finishing-a-development-branch",
+      "name": "finishing-a-development-branch",
+      "repo": "obra/superpowers",
+      "installs": 2000,
+      "rank": 104,
+      "url": "https://skills.sh/obra/superpowers/finishing-a-development-branch"
     },
     {
       "id": "softaworks/skill-judge",
       "name": "skill-judge",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 102,
+      "installs": 2000,
+      "rank": 105,
       "url": "https://skills.sh/softaworks/agent-toolkit/skill-judge"
     },
     {
       "id": "softaworks/reducing-entropy",
       "name": "reducing-entropy",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 103,
+      "installs": 2000,
+      "rank": 106,
       "url": "https://skills.sh/softaworks/agent-toolkit/reducing-entropy"
-    },
-    {
-      "id": "jimliu/baoyu-xhs-images",
-      "name": "baoyu-xhs-images",
-      "repo": "jimliu/baoyu-skills",
-      "installs": 1900,
-      "rank": 104,
-      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-xhs-images"
-    },
-    {
-      "id": "wshobson/typescript-advanced-types",
-      "name": "typescript-advanced-types",
-      "repo": "wshobson/agents",
-      "installs": 1900,
-      "rank": 105,
-      "url": "https://skills.sh/wshobson/agents/typescript-advanced-types"
     },
     {
       "id": "softaworks/professional-communication",
       "name": "professional-communication",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 106,
+      "installs": 2000,
+      "rank": 107,
       "url": "https://skills.sh/softaworks/agent-toolkit/professional-communication"
     },
     {
       "id": "softaworks/command-creator",
       "name": "command-creator",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 107,
+      "installs": 2000,
+      "rank": 108,
       "url": "https://skills.sh/softaworks/agent-toolkit/command-creator"
     },
     {
       "id": "softaworks/difficult-workplace-conversations",
       "name": "difficult-workplace-conversations",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 108,
+      "installs": 2000,
+      "rank": 109,
       "url": "https://skills.sh/softaworks/agent-toolkit/difficult-workplace-conversations"
+    },
+    {
+      "id": "jimliu/baoyu-cover-image",
+      "name": "baoyu-cover-image",
+      "repo": "jimliu/baoyu-skills",
+      "installs": 2000,
+      "rank": 110,
+      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-cover-image"
     },
     {
       "id": "softaworks/plugin-forge",
       "name": "plugin-forge",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 109,
+      "installs": 2000,
+      "rank": 111,
       "url": "https://skills.sh/softaworks/agent-toolkit/plugin-forge"
     },
     {
       "id": "softaworks/feedback-mastery",
       "name": "feedback-mastery",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 110,
+      "installs": 2000,
+      "rank": 112,
       "url": "https://skills.sh/softaworks/agent-toolkit/feedback-mastery"
     },
     {
       "id": "softaworks/marp-slide",
       "name": "marp-slide",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1900,
-      "rank": 111,
+      "installs": 2000,
+      "rank": 113,
       "url": "https://skills.sh/softaworks/agent-toolkit/marp-slide"
     },
     {
       "id": "vercel/turborepo",
       "name": "turborepo",
       "repo": "vercel/turborepo",
-      "installs": 1900,
-      "rank": 112,
+      "installs": 2000,
+      "rank": 114,
       "url": "https://skills.sh/vercel/turborepo/turborepo"
     },
     {
       "id": "softaworks/humanizer",
       "name": "humanizer",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1800,
-      "rank": 113,
+      "installs": 2000,
+      "rank": 115,
       "url": "https://skills.sh/softaworks/agent-toolkit/humanizer"
+    },
+    {
+      "id": "giuseppe-trisciuoglio/shadcn-ui",
+      "name": "shadcn-ui",
+      "repo": "giuseppe-trisciuoglio/developer-kit",
+      "installs": 2000,
+      "rank": 116,
+      "url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/shadcn-ui"
+    },
+    {
+      "id": "jimliu/baoyu-xhs-images",
+      "name": "baoyu-xhs-images",
+      "repo": "jimliu/baoyu-skills",
+      "installs": 2000,
+      "rank": 117,
+      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-xhs-images"
     },
     {
       "id": "softaworks/c4-architecture",
       "name": "c4-architecture",
       "repo": "softaworks/agent-toolkit",
-      "installs": 1800,
-      "rank": 114,
+      "installs": 2000,
+      "rank": 118,
       "url": "https://skills.sh/softaworks/agent-toolkit/c4-architecture"
     },
     {
       "id": "jimliu/baoyu-comic",
       "name": "baoyu-comic",
       "repo": "jimliu/baoyu-skills",
-      "installs": 1800,
-      "rank": 115,
+      "installs": 1900,
+      "rank": 119,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-comic"
+    },
+    {
+      "id": "antfu/vite",
+      "name": "vite",
+      "repo": "antfu/skills",
+      "installs": 1900,
+      "rank": 120,
+      "url": "https://skills.sh/antfu/skills/vite"
+    },
+    {
+      "id": "subsy/ralph-tui-create-json",
+      "name": "ralph-tui-create-json",
+      "repo": "subsy/ralph-tui",
+      "installs": 1900,
+      "rank": 121,
+      "url": "https://skills.sh/subsy/ralph-tui/ralph-tui-create-json"
     },
     {
       "id": "benjitaylor/agentation",
       "name": "agentation",
       "repo": "benjitaylor/agentation",
       "installs": 1800,
-      "rank": 116,
+      "rank": 122,
       "url": "https://skills.sh/benjitaylor/agentation/agentation"
-    },
-    {
-      "id": "giuseppe-trisciuoglio/shadcn-ui",
-      "name": "shadcn-ui",
-      "repo": "giuseppe-trisciuoglio/developer-kit",
-      "installs": 1800,
-      "rank": 117,
-      "url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/shadcn-ui"
-    },
-    {
-      "id": "subsy/ralph-tui-create-json",
-      "name": "ralph-tui-create-json",
-      "repo": "subsy/ralph-tui",
-      "installs": 1700,
-      "rank": 118,
-      "url": "https://skills.sh/subsy/ralph-tui/ralph-tui-create-json"
-    },
-    {
-      "id": "antfu/vite",
-      "name": "vite",
-      "repo": "antfu/skills",
-      "installs": 1700,
-      "rank": 119,
-      "url": "https://skills.sh/antfu/skills/vite"
-    },
-    {
-      "id": "jimliu/baoyu-post-to-wechat",
-      "name": "baoyu-post-to-wechat",
-      "repo": "jimliu/baoyu-skills",
-      "installs": 1700,
-      "rank": 120,
-      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat"
     },
     {
       "id": "google-labs-code/react:components",
       "name": "react:components",
       "repo": "google-labs-code/stitch-skills",
-      "installs": 1600,
-      "rank": 121,
+      "installs": 1800,
+      "rank": 123,
       "url": "https://skills.sh/google-labs-code/stitch-skills/react:components"
     },
     {
       "id": "antfu/vue",
       "name": "vue",
       "repo": "antfu/skills",
-      "installs": 1600,
-      "rank": 122,
+      "installs": 1800,
+      "rank": 124,
       "url": "https://skills.sh/antfu/skills/vue"
+    },
+    {
+      "id": "jimliu/baoyu-post-to-wechat",
+      "name": "baoyu-post-to-wechat",
+      "repo": "jimliu/baoyu-skills",
+      "installs": 1800,
+      "rank": 125,
+      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat"
     },
     {
       "id": "jimliu/baoyu-post-to-x",
       "name": "baoyu-post-to-x",
       "repo": "jimliu/baoyu-skills",
-      "installs": 1600,
-      "rank": 123,
+      "installs": 1700,
+      "rank": 126,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-post-to-x"
+    },
+    {
+      "id": "wshobson/api-design-principles",
+      "name": "api-design-principles",
+      "repo": "wshobson/agents",
+      "installs": 1700,
+      "rank": 127,
+      "url": "https://skills.sh/wshobson/agents/api-design-principles"
+    },
+    {
+      "id": "subsy/ralph-tui-create-beads",
+      "name": "ralph-tui-create-beads",
+      "repo": "subsy/ralph-tui",
+      "installs": 1700,
+      "rank": 128,
+      "url": "https://skills.sh/subsy/ralph-tui/ralph-tui-create-beads"
     },
     {
       "id": "jimliu/baoyu-compress-image",
       "name": "baoyu-compress-image",
       "repo": "jimliu/baoyu-skills",
-      "installs": 1600,
-      "rank": 124,
+      "installs": 1700,
+      "rank": 129,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-compress-image"
     },
     {
-      "id": "jimliu/baoyu-danger-gemini-web",
-      "name": "baoyu-danger-gemini-web",
-      "repo": "jimliu/baoyu-skills",
+      "id": "subsy/ralph-tui-create-beads-rust",
+      "name": "ralph-tui-create-beads-rust",
+      "repo": "subsy/ralph-tui",
       "installs": 1600,
-      "rank": 125,
-      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-danger-gemini-web"
+      "rank": 130,
+      "url": "https://skills.sh/subsy/ralph-tui/ralph-tui-create-beads-rust"
     },
     {
       "id": "jimliu/release-skills",
       "name": "release-skills",
       "repo": "jimliu/baoyu-skills",
       "installs": 1600,
-      "rank": 126,
+      "rank": 131,
       "url": "https://skills.sh/jimliu/baoyu-skills/release-skills"
     },
     {
-      "id": "subsy/ralph-tui-create-beads",
-      "name": "ralph-tui-create-beads",
-      "repo": "subsy/ralph-tui",
-      "installs": 1600,
-      "rank": 127,
-      "url": "https://skills.sh/subsy/ralph-tui/ralph-tui-create-beads"
-    },
-    {
-      "id": "subsy/ralph-tui-create-beads-rust",
-      "name": "ralph-tui-create-beads-rust",
-      "repo": "subsy/ralph-tui",
-      "installs": 1500,
-      "rank": 128,
-      "url": "https://skills.sh/subsy/ralph-tui/ralph-tui-create-beads-rust"
-    },
-    {
-      "id": "wshobson/api-design-principles",
-      "name": "api-design-principles",
-      "repo": "wshobson/agents",
-      "installs": 1500,
-      "rank": 129,
-      "url": "https://skills.sh/wshobson/agents/api-design-principles"
-    },
-    {
-      "id": "jimliu/baoyu-danger-x-to-markdown",
-      "name": "baoyu-danger-x-to-markdown",
+      "id": "jimliu/baoyu-danger-gemini-web",
+      "name": "baoyu-danger-gemini-web",
       "repo": "jimliu/baoyu-skills",
-      "installs": 1500,
-      "rank": 131,
-      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-danger-x-to-markdown"
+      "installs": 1600,
+      "rank": 132,
+      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-danger-gemini-web"
+    },
+    {
+      "id": "antfu/vitest",
+      "name": "vitest",
+      "repo": "antfu/skills",
+      "installs": 1600,
+      "rank": 133,
+      "url": "https://skills.sh/antfu/skills/vitest"
     },
     {
       "id": "antfu/vue-best-practices",
       "name": "vue-best-practices",
       "repo": "antfu/skills",
-      "installs": 1500,
-      "rank": 132,
+      "installs": 1600,
+      "rank": 134,
       "url": "https://skills.sh/antfu/skills/vue-best-practices"
     },
     {
       "id": "antfu/pnpm",
       "name": "pnpm",
       "repo": "antfu/skills",
-      "installs": 1500,
-      "rank": 133,
+      "installs": 1600,
+      "rank": 135,
       "url": "https://skills.sh/antfu/skills/pnpm"
+    },
+    {
+      "id": "google-labs-code/design-md",
+      "name": "design-md",
+      "repo": "google-labs-code/stitch-skills",
+      "installs": 1600,
+      "rank": 136,
+      "url": "https://skills.sh/google-labs-code/stitch-skills/design-md"
+    },
+    {
+      "id": "wshobson/python-performance-optimization",
+      "name": "python-performance-optimization",
+      "repo": "wshobson/agents",
+      "installs": 1600,
+      "rank": 138,
+      "url": "https://skills.sh/wshobson/agents/python-performance-optimization"
+    },
+    {
+      "id": "antfu/vueuse-functions",
+      "name": "vueuse-functions",
+      "repo": "antfu/skills",
+      "installs": 1500,
+      "rank": 139,
+      "url": "https://skills.sh/antfu/skills/vueuse-functions"
+    },
+    {
+      "id": "jimliu/baoyu-danger-x-to-markdown",
+      "name": "baoyu-danger-x-to-markdown",
+      "repo": "jimliu/baoyu-skills",
+      "installs": 1500,
+      "rank": 140,
+      "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-danger-x-to-markdown"
     },
     {
       "id": "jimliu/baoyu-infographic",
       "name": "baoyu-infographic",
       "repo": "jimliu/baoyu-skills",
       "installs": 1500,
-      "rank": 134,
+      "rank": 141,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-infographic"
-    },
-    {
-      "id": "antfu/vitest",
-      "name": "vitest",
-      "repo": "antfu/skills",
-      "installs": 1400,
-      "rank": 135,
-      "url": "https://skills.sh/antfu/skills/vitest"
-    },
-    {
-      "id": "antfu/vueuse-functions",
-      "name": "vueuse-functions",
-      "repo": "antfu/skills",
-      "installs": 1400,
-      "rank": 136,
-      "url": "https://skills.sh/antfu/skills/vueuse-functions"
-    },
-    {
-      "id": "wshobson/python-performance-optimization",
-      "name": "python-performance-optimization",
-      "repo": "wshobson/agents",
-      "installs": 1400,
-      "rank": 137,
-      "url": "https://skills.sh/wshobson/agents/python-performance-optimization"
     },
     {
       "id": "wshobson/architecture-patterns",
       "name": "architecture-patterns",
       "repo": "wshobson/agents",
-      "installs": 1400,
-      "rank": 138,
+      "installs": 1500,
+      "rank": 142,
       "url": "https://skills.sh/wshobson/agents/architecture-patterns"
     },
     {
       "id": "jimliu/baoyu-image-gen",
       "name": "baoyu-image-gen",
       "repo": "jimliu/baoyu-skills",
-      "installs": 1400,
-      "rank": 139,
+      "installs": 1500,
+      "rank": 143,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-image-gen"
-    },
-    {
-      "id": "antfu/antfu",
-      "name": "antfu",
-      "repo": "antfu/skills",
-      "installs": 1400,
-      "rank": 140,
-      "url": "https://skills.sh/antfu/skills/antfu"
     },
     {
       "id": "antfu/web-design-guidelines",
       "name": "web-design-guidelines",
       "repo": "antfu/skills",
-      "installs": 1400,
-      "rank": 141,
+      "installs": 1500,
+      "rank": 144,
       "url": "https://skills.sh/antfu/skills/web-design-guidelines"
     },
     {
-      "id": "google-labs-code/design-md",
-      "name": "design-md",
-      "repo": "google-labs-code/stitch-skills",
-      "installs": 1400,
-      "rank": 142,
-      "url": "https://skills.sh/google-labs-code/stitch-skills/design-md"
+      "id": "antfu/antfu",
+      "name": "antfu",
+      "repo": "antfu/skills",
+      "installs": 1500,
+      "rank": 145,
+      "url": "https://skills.sh/antfu/skills/antfu"
     },
     {
       "id": "antfu/pinia",
       "name": "pinia",
       "repo": "antfu/skills",
-      "installs": 1400,
-      "rank": 143,
+      "installs": 1500,
+      "rank": 146,
       "url": "https://skills.sh/antfu/skills/pinia"
-    },
-    {
-      "id": "wshobson/postgresql-table-design",
-      "name": "postgresql-table-design",
-      "repo": "wshobson/agents",
-      "installs": 1300,
-      "rank": 144,
-      "url": "https://skills.sh/wshobson/agents/postgresql-table-design"
     },
     {
       "id": "wshobson/nextjs-app-router-patterns",
       "name": "nextjs-app-router-patterns",
       "repo": "wshobson/agents",
-      "installs": 1300,
-      "rank": 145,
+      "installs": 1500,
+      "rank": 147,
       "url": "https://skills.sh/wshobson/agents/nextjs-app-router-patterns"
+    },
+    {
+      "id": "wshobson/postgresql-table-design",
+      "name": "postgresql-table-design",
+      "repo": "wshobson/agents",
+      "installs": 1400,
+      "rank": 148,
+      "url": "https://skills.sh/wshobson/agents/postgresql-table-design"
     },
     {
       "id": "wshobson/nodejs-backend-patterns",
       "name": "nodejs-backend-patterns",
       "repo": "wshobson/agents",
-      "installs": 1300,
-      "rank": 146,
+      "installs": 1400,
+      "rank": 149,
       "url": "https://skills.sh/wshobson/agents/nodejs-backend-patterns"
+    },
+    {
+      "id": "wshobson/code-review-excellence",
+      "name": "code-review-excellence",
+      "repo": "wshobson/agents",
+      "installs": 1400,
+      "rank": 150,
+      "url": "https://skills.sh/wshobson/agents/code-review-excellence"
+    },
+    {
+      "id": "avdlee/swiftui-expert-skill",
+      "name": "swiftui-expert-skill",
+      "repo": "avdlee/swiftui-agent-skill",
+      "installs": 1400,
+      "rank": 151,
+      "url": "https://skills.sh/avdlee/swiftui-agent-skill/swiftui-expert-skill"
+    },
+    {
+      "id": "wshobson/responsive-design",
+      "name": "responsive-design",
+      "repo": "wshobson/agents",
+      "installs": 1400,
+      "rank": 152,
+      "url": "https://skills.sh/wshobson/agents/responsive-design"
+    },
+    {
+      "id": "vercel-labs/next-cache-components",
+      "name": "next-cache-components",
+      "repo": "vercel-labs/next-skills",
+      "installs": 1400,
+      "rank": 153,
+      "url": "https://skills.sh/vercel-labs/next-skills/next-cache-components"
     },
     {
       "id": "jimliu/baoyu-url-to-markdown",
       "name": "baoyu-url-to-markdown",
       "repo": "jimliu/baoyu-skills",
       "installs": 1300,
-      "rank": 147,
+      "rank": 154,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-url-to-markdown"
-    },
-    {
-      "id": "wshobson/responsive-design",
-      "name": "responsive-design",
-      "repo": "wshobson/agents",
-      "installs": 1300,
-      "rank": 148,
-      "url": "https://skills.sh/wshobson/agents/responsive-design"
-    },
-    {
-      "id": "wshobson/code-review-excellence",
-      "name": "code-review-excellence",
-      "repo": "wshobson/agents",
-      "installs": 1300,
-      "rank": 149,
-      "url": "https://skills.sh/wshobson/agents/code-review-excellence"
     },
     {
       "id": "op7418/humanizer-zh",
       "name": "humanizer-zh",
       "repo": "op7418/humanizer-zh",
       "installs": 1300,
-      "rank": 150,
+      "rank": 155,
       "url": "https://skills.sh/op7418/humanizer-zh/humanizer-zh"
-    },
-    {
-      "id": "vercel-labs/next-cache-components",
-      "name": "next-cache-components",
-      "repo": "vercel-labs/next-skills",
-      "installs": 1200,
-      "rank": 151,
-      "url": "https://skills.sh/vercel-labs/next-skills/next-cache-components"
-    },
-    {
-      "id": "antfu/unocss",
-      "name": "unocss",
-      "repo": "antfu/skills",
-      "installs": 1200,
-      "rank": 152,
-      "url": "https://skills.sh/antfu/skills/unocss"
-    },
-    {
-      "id": "avdlee/swiftui-expert-skill",
-      "name": "swiftui-expert-skill",
-      "repo": "avdlee/swiftui-agent-skill",
-      "installs": 1200,
-      "rank": 153,
-      "url": "https://skills.sh/avdlee/swiftui-agent-skill/swiftui-expert-skill"
     },
     {
       "id": "wshobson/fastapi-templates",
       "name": "fastapi-templates",
       "repo": "wshobson/agents",
-      "installs": 1200,
-      "rank": 154,
+      "installs": 1300,
+      "rank": 156,
       "url": "https://skills.sh/wshobson/agents/fastapi-templates"
     },
     {
       "id": "antfu/nuxt",
       "name": "nuxt",
       "repo": "antfu/skills",
-      "installs": 1200,
-      "rank": 155,
+      "installs": 1300,
+      "rank": 157,
       "url": "https://skills.sh/antfu/skills/nuxt"
+    },
+    {
+      "id": "antfu/unocss",
+      "name": "unocss",
+      "repo": "antfu/skills",
+      "installs": 1300,
+      "rank": 158,
+      "url": "https://skills.sh/antfu/skills/unocss"
     },
     {
       "id": "wshobson/prompt-engineering-patterns",
       "name": "prompt-engineering-patterns",
       "repo": "wshobson/agents",
-      "installs": 1100,
-      "rank": 156,
+      "installs": 1200,
+      "rank": 159,
       "url": "https://skills.sh/wshobson/agents/prompt-engineering-patterns"
     },
     {
       "id": "wshobson/python-testing-patterns",
       "name": "python-testing-patterns",
       "repo": "wshobson/agents",
-      "installs": 1100,
-      "rank": 157,
+      "installs": 1200,
+      "rank": 160,
       "url": "https://skills.sh/wshobson/agents/python-testing-patterns"
+    },
+    {
+      "id": "coreyhaines31/content-strategy",
+      "name": "content-strategy",
+      "repo": "coreyhaines31/marketingskills",
+      "installs": 1200,
+      "rank": 161,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/content-strategy"
     },
     {
       "id": "kadajett/nestjs-best-practices",
       "name": "nestjs-best-practices",
       "repo": "kadajett/agent-nestjs-skills",
-      "installs": 1100,
-      "rank": 158,
+      "installs": 1200,
+      "rank": 162,
       "url": "https://skills.sh/kadajett/agent-nestjs-skills/nestjs-best-practices"
     },
     {
       "id": "wshobson/mobile-ios-design",
       "name": "mobile-ios-design",
       "repo": "wshobson/agents",
-      "installs": 1100,
-      "rank": 159,
+      "installs": 1200,
+      "rank": 163,
       "url": "https://skills.sh/wshobson/agents/mobile-ios-design"
     },
     {
-      "id": "antfu/tsdown",
-      "name": "tsdown",
-      "repo": "antfu/skills",
-      "installs": 1100,
-      "rank": 160,
-      "url": "https://skills.sh/antfu/skills/tsdown"
+      "id": "coreyhaines31/product-marketing-context",
+      "name": "product-marketing-context",
+      "repo": "coreyhaines31/marketingskills",
+      "installs": 1200,
+      "rank": 164,
+      "url": "https://skills.sh/coreyhaines31/marketingskills/product-marketing-context"
     },
     {
       "id": "intellectronica/context7",
       "name": "context7",
       "repo": "intellectronica/agent-skills",
-      "installs": 1100,
-      "rank": 161,
+      "installs": 1200,
+      "rank": 165,
       "url": "https://skills.sh/intellectronica/agent-skills/context7"
-    },
-    {
-      "id": "langgenius/frontend-code-review",
-      "name": "frontend-code-review",
-      "repo": "langgenius/dify",
-      "installs": 1100,
-      "rank": 162,
-      "url": "https://skills.sh/langgenius/dify/frontend-code-review"
-    },
-    {
-      "id": "wshobson/sql-optimization-patterns",
-      "name": "sql-optimization-patterns",
-      "repo": "wshobson/agents",
-      "installs": 1100,
-      "rank": 163,
-      "url": "https://skills.sh/wshobson/agents/sql-optimization-patterns"
-    },
-    {
-      "id": "coreyhaines31/content-strategy",
-      "name": "content-strategy",
-      "repo": "coreyhaines31/marketingskills",
-      "installs": 1100,
-      "rank": 164,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/content-strategy"
     },
     {
       "id": "wshobson/e2e-testing-patterns",
       "name": "e2e-testing-patterns",
       "repo": "wshobson/agents",
-      "installs": 1100,
-      "rank": 165,
+      "installs": 1200,
+      "rank": 166,
       "url": "https://skills.sh/wshobson/agents/e2e-testing-patterns"
+    },
+    {
+      "id": "wshobson/sql-optimization-patterns",
+      "name": "sql-optimization-patterns",
+      "repo": "wshobson/agents",
+      "installs": 1200,
+      "rank": 167,
+      "url": "https://skills.sh/wshobson/agents/sql-optimization-patterns"
+    },
+    {
+      "id": "antfu/tsdown",
+      "name": "tsdown",
+      "repo": "antfu/skills",
+      "installs": 1200,
+      "rank": 168,
+      "url": "https://skills.sh/antfu/skills/tsdown"
     },
     {
       "id": "resend/email-best-practices",
       "name": "email-best-practices",
       "repo": "resend/email-best-practices",
       "installs": 1100,
-      "rank": 166,
+      "rank": 169,
       "url": "https://skills.sh/resend/email-best-practices/email-best-practices"
     },
     {
@@ -1328,758 +1352,734 @@
       "name": "turborepo",
       "repo": "antfu/skills",
       "installs": 1100,
-      "rank": 167,
+      "rank": 170,
       "url": "https://skills.sh/antfu/skills/turborepo"
     },
     {
       "id": "antfu/vitepress",
       "name": "vitepress",
       "repo": "antfu/skills",
-      "installs": 1000,
-      "rank": 168,
+      "installs": 1100,
+      "rank": 171,
       "url": "https://skills.sh/antfu/skills/vitepress"
     },
     {
-      "id": "coreyhaines31/product-marketing-context",
-      "name": "product-marketing-context",
-      "repo": "coreyhaines31/marketingskills",
-      "installs": 1000,
-      "rank": 169,
-      "url": "https://skills.sh/coreyhaines31/marketingskills/product-marketing-context"
-    },
-    {
-      "id": "f/skill-lookup",
-      "name": "skill-lookup",
-      "repo": "f/awesome-chatgpt-prompts",
-      "installs": 1000,
-      "rank": 170,
-      "url": "https://skills.sh/f/awesome-chatgpt-prompts/skill-lookup"
-    },
-    {
-      "id": "antfu/slidev",
-      "name": "slidev",
-      "repo": "antfu/skills",
-      "installs": 1000,
-      "rank": 171,
-      "url": "https://skills.sh/antfu/skills/slidev"
+      "id": "langgenius/frontend-code-review",
+      "name": "frontend-code-review",
+      "repo": "langgenius/dify",
+      "installs": 1100,
+      "rank": 172,
+      "url": "https://skills.sh/langgenius/dify/frontend-code-review"
     },
     {
       "id": "wshobson/async-python-patterns",
       "name": "async-python-patterns",
       "repo": "wshobson/agents",
-      "installs": 1000,
-      "rank": 172,
+      "installs": 1100,
+      "rank": 173,
       "url": "https://skills.sh/wshobson/agents/async-python-patterns"
     },
     {
       "id": "jezweb/tanstack-query",
       "name": "tanstack-query",
       "repo": "jezweb/claude-skills",
-      "installs": 991,
-      "rank": 173,
-      "url": "https://skills.sh/jezweb/claude-skills/tanstack-query"
-    },
-    {
-      "id": "wshobson/error-handling-patterns",
-      "name": "error-handling-patterns",
-      "repo": "wshobson/agents",
-      "installs": 983,
+      "installs": 1100,
       "rank": 174,
-      "url": "https://skills.sh/wshobson/agents/error-handling-patterns"
+      "url": "https://skills.sh/jezweb/claude-skills/tanstack-query"
     },
     {
       "id": "wshobson/github-actions-templates",
       "name": "github-actions-templates",
       "repo": "wshobson/agents",
-      "installs": 981,
+      "installs": 1100,
       "rank": 175,
       "url": "https://skills.sh/wshobson/agents/github-actions-templates"
+    },
+    {
+      "id": "antfu/slidev",
+      "name": "slidev",
+      "repo": "antfu/skills",
+      "installs": 1100,
+      "rank": 176,
+      "url": "https://skills.sh/antfu/skills/slidev"
+    },
+    {
+      "id": "wshobson/error-handling-patterns",
+      "name": "error-handling-patterns",
+      "repo": "wshobson/agents",
+      "installs": 1100,
+      "rank": 177,
+      "url": "https://skills.sh/wshobson/agents/error-handling-patterns"
     },
     {
       "id": "wshobson/design-system-patterns",
       "name": "design-system-patterns",
       "repo": "wshobson/agents",
-      "installs": 969,
-      "rank": 176,
+      "installs": 1100,
+      "rank": 178,
       "url": "https://skills.sh/wshobson/agents/design-system-patterns"
     },
     {
-      "id": "onmax/nuxt",
-      "name": "nuxt",
-      "repo": "onmax/nuxt-skills",
-      "installs": 940,
-      "rank": 177,
-      "url": "https://skills.sh/onmax/nuxt-skills/nuxt"
-    },
-    {
-      "id": "wshobson/monorepo-management",
-      "name": "monorepo-management",
-      "repo": "wshobson/agents",
-      "installs": 936,
-      "rank": 178,
-      "url": "https://skills.sh/wshobson/agents/monorepo-management"
-    },
-    {
-      "id": "onmax/vue",
-      "name": "vue",
-      "repo": "onmax/nuxt-skills",
-      "installs": 932,
+      "id": "f/skill-lookup",
+      "name": "skill-lookup",
+      "repo": "f/awesome-chatgpt-prompts",
+      "installs": 1000,
       "rank": 179,
-      "url": "https://skills.sh/onmax/nuxt-skills/vue"
+      "url": "https://skills.sh/f/awesome-chatgpt-prompts/skill-lookup"
+    },
+    {
+      "id": "vercel-labs/next-upgrade",
+      "name": "next-upgrade",
+      "repo": "vercel-labs/next-skills",
+      "installs": 1000,
+      "rank": 180,
+      "url": "https://skills.sh/vercel-labs/next-skills/next-upgrade"
+    },
+    {
+      "id": "softaworks/react-dev",
+      "name": "react-dev",
+      "repo": "softaworks/agent-toolkit",
+      "installs": 1000,
+      "rank": 181,
+      "url": "https://skills.sh/softaworks/agent-toolkit/react-dev"
+    },
+    {
+      "id": "softaworks/database-schema-designer",
+      "name": "database-schema-designer",
+      "repo": "softaworks/agent-toolkit",
+      "installs": 1000,
+      "rank": 182,
+      "url": "https://skills.sh/softaworks/agent-toolkit/database-schema-designer"
     },
     {
       "id": "wshobson/modern-javascript-patterns",
       "name": "modern-javascript-patterns",
       "repo": "wshobson/agents",
-      "installs": 927,
-      "rank": 180,
+      "installs": 1000,
+      "rank": 183,
       "url": "https://skills.sh/wshobson/agents/modern-javascript-patterns"
+    },
+    {
+      "id": "wshobson/monorepo-management",
+      "name": "monorepo-management",
+      "repo": "wshobson/agents",
+      "installs": 1000,
+      "rank": 184,
+      "url": "https://skills.sh/wshobson/agents/monorepo-management"
     },
     {
       "id": "wshobson/react-native-architecture",
       "name": "react-native-architecture",
       "repo": "wshobson/agents",
-      "installs": 915,
-      "rank": 181,
+      "installs": 1000,
+      "rank": 185,
       "url": "https://skills.sh/wshobson/agents/react-native-architecture"
     },
     {
       "id": "wshobson/mobile-android-design",
       "name": "mobile-android-design",
       "repo": "wshobson/agents",
-      "installs": 914,
-      "rank": 182,
+      "installs": 1000,
+      "rank": 186,
       "url": "https://skills.sh/wshobson/agents/mobile-android-design"
     },
     {
-      "id": "vercel-labs/next-upgrade",
-      "name": "next-upgrade",
-      "repo": "vercel-labs/next-skills",
-      "installs": 908,
-      "rank": 183,
-      "url": "https://skills.sh/vercel-labs/next-skills/next-upgrade"
+      "id": "softaworks/game-changing-features",
+      "name": "game-changing-features",
+      "repo": "softaworks/agent-toolkit",
+      "installs": 997,
+      "rank": 187,
+      "url": "https://skills.sh/softaworks/agent-toolkit/game-changing-features"
+    },
+    {
+      "id": "firecrawl/firecrawl",
+      "name": "firecrawl",
+      "repo": "firecrawl/cli",
+      "installs": 993,
+      "rank": 188,
+      "url": "https://skills.sh/firecrawl/cli/firecrawl"
+    },
+    {
+      "id": "softaworks/naming-analyzer",
+      "name": "naming-analyzer",
+      "repo": "softaworks/agent-toolkit",
+      "installs": 993,
+      "rank": 189,
+      "url": "https://skills.sh/softaworks/agent-toolkit/naming-analyzer"
     },
     {
       "id": "wshobson/react-native-design",
       "name": "react-native-design",
       "repo": "wshobson/agents",
-      "installs": 903,
-      "rank": 184,
+      "installs": 989,
+      "rank": 190,
       "url": "https://skills.sh/wshobson/agents/react-native-design"
+    },
+    {
+      "id": "softaworks/react-useeffect",
+      "name": "react-useeffect",
+      "repo": "softaworks/agent-toolkit",
+      "installs": 988,
+      "rank": 191,
+      "url": "https://skills.sh/softaworks/agent-toolkit/react-useeffect"
+    },
+    {
+      "id": "wshobson/javascript-testing-patterns",
+      "name": "javascript-testing-patterns",
+      "repo": "wshobson/agents",
+      "installs": 985,
+      "rank": 192,
+      "url": "https://skills.sh/wshobson/agents/javascript-testing-patterns"
+    },
+    {
+      "id": "softaworks/openapi-to-typescript",
+      "name": "openapi-to-typescript",
+      "repo": "softaworks/agent-toolkit",
+      "installs": 983,
+      "rank": 193,
+      "url": "https://skills.sh/softaworks/agent-toolkit/openapi-to-typescript"
     },
     {
       "id": "wshobson/web-component-design",
       "name": "web-component-design",
       "repo": "wshobson/agents",
-      "installs": 899,
-      "rank": 185,
+      "installs": 976,
+      "rank": 194,
       "url": "https://skills.sh/wshobson/agents/web-component-design"
     },
     {
       "id": "wshobson/debugging-strategies",
       "name": "debugging-strategies",
       "repo": "wshobson/agents",
-      "installs": 895,
-      "rank": 186,
+      "installs": 974,
+      "rank": 195,
       "url": "https://skills.sh/wshobson/agents/debugging-strategies"
     },
     {
-      "id": "google-gemini/code-reviewer",
-      "name": "code-reviewer",
-      "repo": "google-gemini/gemini-cli",
-      "installs": 894,
-      "rank": 187,
-      "url": "https://skills.sh/google-gemini/gemini-cli/code-reviewer"
-    },
-    {
-      "id": "wshobson/javascript-testing-patterns",
-      "name": "javascript-testing-patterns",
-      "repo": "wshobson/agents",
-      "installs": 890,
-      "rank": 188,
-      "url": "https://skills.sh/wshobson/agents/javascript-testing-patterns"
-    },
-    {
-      "id": "wshobson/visual-design-foundations",
-      "name": "visual-design-foundations",
-      "repo": "wshobson/agents",
-      "installs": 889,
-      "rank": 189,
-      "url": "https://skills.sh/wshobson/agents/visual-design-foundations"
+      "id": "onmax/nuxt",
+      "name": "nuxt",
+      "repo": "onmax/nuxt-skills",
+      "installs": 974,
+      "rank": 196,
+      "url": "https://skills.sh/onmax/nuxt-skills/nuxt"
     },
     {
       "id": "wshobson/react-state-management",
       "name": "react-state-management",
       "repo": "wshobson/agents",
-      "installs": 886,
-      "rank": 190,
+      "installs": 972,
+      "rank": 197,
       "url": "https://skills.sh/wshobson/agents/react-state-management"
+    },
+    {
+      "id": "wshobson/visual-design-foundations",
+      "name": "visual-design-foundations",
+      "repo": "wshobson/agents",
+      "installs": 970,
+      "rank": 198,
+      "url": "https://skills.sh/wshobson/agents/visual-design-foundations"
+    },
+    {
+      "id": "onmax/vue",
+      "name": "vue",
+      "repo": "onmax/nuxt-skills",
+      "installs": 963,
+      "rank": 199,
+      "url": "https://skills.sh/onmax/nuxt-skills/vue"
+    },
+    {
+      "id": "wshobson/stripe-integration",
+      "name": "stripe-integration",
+      "repo": "wshobson/agents",
+      "installs": 962,
+      "rank": 200,
+      "url": "https://skills.sh/wshobson/agents/stripe-integration"
+    },
+    {
+      "id": "google-gemini/code-reviewer",
+      "name": "code-reviewer",
+      "repo": "google-gemini/gemini-cli",
+      "installs": 962,
+      "rank": 201,
+      "url": "https://skills.sh/google-gemini/gemini-cli/code-reviewer"
+    },
+    {
+      "id": "inference-sh/inference-sh",
+      "name": "inference-sh",
+      "repo": "inference-sh/skills",
+      "installs": 961,
+      "rank": 202,
+      "url": "https://skills.sh/inference-sh/skills/inference-sh"
+    },
+    {
+      "id": "google-labs-code/stitch-loop",
+      "name": "stitch-loop",
+      "repo": "google-labs-code/stitch-skills",
+      "installs": 960,
+      "rank": 203,
+      "url": "https://skills.sh/google-labs-code/stitch-skills/stitch-loop"
     },
     {
       "id": "wshobson/microservices-patterns",
       "name": "microservices-patterns",
       "repo": "wshobson/agents",
-      "installs": 879,
-      "rank": 191,
+      "installs": 954,
+      "rank": 204,
       "url": "https://skills.sh/wshobson/agents/microservices-patterns"
     },
     {
-      "id": "softaworks/database-schema-designer",
-      "name": "database-schema-designer",
-      "repo": "softaworks/agent-toolkit",
-      "installs": 878,
-      "rank": 192,
-      "url": "https://skills.sh/softaworks/agent-toolkit/database-schema-designer"
+      "id": "wshobson/interaction-design",
+      "name": "interaction-design",
+      "repo": "wshobson/agents",
+      "installs": 953,
+      "rank": 205,
+      "url": "https://skills.sh/wshobson/agents/interaction-design"
     },
     {
-      "id": "softaworks/react-dev",
-      "name": "react-dev",
-      "repo": "softaworks/agent-toolkit",
-      "installs": 878,
-      "rank": 193,
-      "url": "https://skills.sh/softaworks/agent-toolkit/react-dev"
+      "id": "wshobson/rag-implementation",
+      "name": "rag-implementation",
+      "repo": "wshobson/agents",
+      "installs": 936,
+      "rank": 206,
+      "url": "https://skills.sh/wshobson/agents/rag-implementation"
+    },
+    {
+      "id": "wshobson/auth-implementation-patterns",
+      "name": "auth-implementation-patterns",
+      "repo": "wshobson/agents",
+      "installs": 931,
+      "rank": 207,
+      "url": "https://skills.sh/wshobson/agents/auth-implementation-patterns"
+    },
+    {
+      "id": "wshobson/uv-package-manager",
+      "name": "uv-package-manager",
+      "repo": "wshobson/agents",
+      "installs": 919,
+      "rank": 208,
+      "url": "https://skills.sh/wshobson/agents/uv-package-manager"
+    },
+    {
+      "id": "forrestchang/karpathy-guidelines",
+      "name": "karpathy-guidelines",
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "installs": 907,
+      "rank": 209,
+      "url": "https://skills.sh/forrestchang/andrej-karpathy-skills/karpathy-guidelines"
+    },
+    {
+      "id": "wshobson/git-advanced-workflows",
+      "name": "git-advanced-workflows",
+      "repo": "wshobson/agents",
+      "installs": 888,
+      "rank": 210,
+      "url": "https://skills.sh/wshobson/agents/git-advanced-workflows"
+    },
+    {
+      "id": "wshobson/langchain-architecture",
+      "name": "langchain-architecture",
+      "repo": "wshobson/agents",
+      "installs": 885,
+      "rank": 211,
+      "url": "https://skills.sh/wshobson/agents/langchain-architecture"
+    },
+    {
+      "id": "wshobson/deployment-pipeline-design",
+      "name": "deployment-pipeline-design",
+      "repo": "wshobson/agents",
+      "installs": 880,
+      "rank": 212,
+      "url": "https://skills.sh/wshobson/agents/deployment-pipeline-design"
     },
     {
       "id": "f/prompt-lookup",
       "name": "prompt-lookup",
       "repo": "f/awesome-chatgpt-prompts",
       "installs": 876,
-      "rank": 194,
+      "rank": 213,
       "url": "https://skills.sh/f/awesome-chatgpt-prompts/prompt-lookup"
-    },
-    {
-      "id": "wshobson/interaction-design",
-      "name": "interaction-design",
-      "repo": "wshobson/agents",
-      "installs": 868,
-      "rank": 195,
-      "url": "https://skills.sh/wshobson/agents/interaction-design"
-    },
-    {
-      "id": "wshobson/auth-implementation-patterns",
-      "name": "auth-implementation-patterns",
-      "repo": "wshobson/agents",
-      "installs": 863,
-      "rank": 196,
-      "url": "https://skills.sh/wshobson/agents/auth-implementation-patterns"
-    },
-    {
-      "id": "wshobson/stripe-integration",
-      "name": "stripe-integration",
-      "repo": "wshobson/agents",
-      "installs": 863,
-      "rank": 197,
-      "url": "https://skills.sh/wshobson/agents/stripe-integration"
-    },
-    {
-      "id": "forrestchang/karpathy-guidelines",
-      "name": "karpathy-guidelines",
-      "repo": "forrestchang/andrej-karpathy-skills",
-      "installs": 856,
-      "rank": 198,
-      "url": "https://skills.sh/forrestchang/andrej-karpathy-skills/karpathy-guidelines"
-    },
-    {
-      "id": "softaworks/game-changing-features",
-      "name": "game-changing-features",
-      "repo": "softaworks/agent-toolkit",
-      "installs": 856,
-      "rank": 199,
-      "url": "https://skills.sh/softaworks/agent-toolkit/game-changing-features"
-    },
-    {
-      "id": "softaworks/naming-analyzer",
-      "name": "naming-analyzer",
-      "repo": "softaworks/agent-toolkit",
-      "installs": 852,
-      "rank": 200,
-      "url": "https://skills.sh/softaworks/agent-toolkit/naming-analyzer"
-    },
-    {
-      "id": "wshobson/rag-implementation",
-      "name": "rag-implementation",
-      "repo": "wshobson/agents",
-      "installs": 850,
-      "rank": 201,
-      "url": "https://skills.sh/wshobson/agents/rag-implementation"
-    },
-    {
-      "id": "softaworks/react-useeffect",
-      "name": "react-useeffect",
-      "repo": "softaworks/agent-toolkit",
-      "installs": 845,
-      "rank": 202,
-      "url": "https://skills.sh/softaworks/agent-toolkit/react-useeffect"
-    },
-    {
-      "id": "wshobson/uv-package-manager",
-      "name": "uv-package-manager",
-      "repo": "wshobson/agents",
-      "installs": 845,
-      "rank": 203,
-      "url": "https://skills.sh/wshobson/agents/uv-package-manager"
-    },
-    {
-      "id": "softaworks/openapi-to-typescript",
-      "name": "openapi-to-typescript",
-      "repo": "softaworks/agent-toolkit",
-      "installs": 840,
-      "rank": 204,
-      "url": "https://skills.sh/softaworks/agent-toolkit/openapi-to-typescript"
-    },
-    {
-      "id": "langgenius/component-refactoring",
-      "name": "component-refactoring",
-      "repo": "langgenius/dify",
-      "installs": 829,
-      "rank": 205,
-      "url": "https://skills.sh/langgenius/dify/component-refactoring"
-    },
-    {
-      "id": "firecrawl/firecrawl",
-      "name": "firecrawl",
-      "repo": "firecrawl/cli",
-      "installs": 824,
-      "rank": 206,
-      "url": "https://skills.sh/firecrawl/cli/firecrawl"
-    },
-    {
-      "id": "boristane/logging-best-practices",
-      "name": "logging-best-practices",
-      "repo": "boristane/agent-skills",
-      "installs": 814,
-      "rank": 207,
-      "url": "https://skills.sh/boristane/agent-skills/logging-best-practices"
-    },
-    {
-      "id": "wshobson/langchain-architecture",
-      "name": "langchain-architecture",
-      "repo": "wshobson/agents",
-      "installs": 814,
-      "rank": 208,
-      "url": "https://skills.sh/wshobson/agents/langchain-architecture"
     },
     {
       "id": "wshobson/architecture-decision-records",
       "name": "architecture-decision-records",
       "repo": "wshobson/agents",
-      "installs": 808,
-      "rank": 209,
+      "installs": 876,
+      "rank": 214,
       "url": "https://skills.sh/wshobson/agents/architecture-decision-records"
     },
     {
       "id": "wshobson/dotnet-backend-patterns",
       "name": "dotnet-backend-patterns",
       "repo": "wshobson/agents",
-      "installs": 807,
-      "rank": 210,
+      "installs": 869,
+      "rank": 215,
       "url": "https://skills.sh/wshobson/agents/dotnet-backend-patterns"
     },
     {
-      "id": "wshobson/deployment-pipeline-design",
-      "name": "deployment-pipeline-design",
+      "id": "boristane/logging-best-practices",
+      "name": "logging-best-practices",
+      "repo": "boristane/agent-skills",
+      "installs": 862,
+      "rank": 216,
+      "url": "https://skills.sh/boristane/agent-skills/logging-best-practices"
+    },
+    {
+      "id": "wshobson/kpi-dashboard-design",
+      "name": "kpi-dashboard-design",
       "repo": "wshobson/agents",
-      "installs": 806,
-      "rank": 211,
-      "url": "https://skills.sh/wshobson/agents/deployment-pipeline-design"
-    },
-    {
-      "id": "cloudai-x/threejs-animation",
-      "name": "threejs-animation",
-      "repo": "cloudai-x/threejs-skills",
-      "installs": 802,
-      "rank": 212,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-animation"
-    },
-    {
-      "id": "wshobson/git-advanced-workflows",
-      "name": "git-advanced-workflows",
-      "repo": "wshobson/agents",
-      "installs": 801,
-      "rank": 213,
-      "url": "https://skills.sh/wshobson/agents/git-advanced-workflows"
-    },
-    {
-      "id": "google-labs-code/stitch-loop",
-      "name": "stitch-loop",
-      "repo": "google-labs-code/stitch-skills",
-      "installs": 800,
-      "rank": 214,
-      "url": "https://skills.sh/google-labs-code/stitch-skills/stitch-loop"
-    },
-    {
-      "id": "langgenius/frontend-testing",
-      "name": "frontend-testing",
-      "repo": "langgenius/dify",
-      "installs": 799,
-      "rank": 215,
-      "url": "https://skills.sh/langgenius/dify/frontend-testing"
+      "installs": 855,
+      "rank": 217,
+      "url": "https://skills.sh/wshobson/agents/kpi-dashboard-design"
     },
     {
       "id": "resend/react-email",
       "name": "react-email",
       "repo": "resend/react-email",
-      "installs": 779,
-      "rank": 216,
+      "installs": 855,
+      "rank": 218,
       "url": "https://skills.sh/resend/react-email/react-email"
     },
     {
       "id": "wshobson/accessibility-compliance",
       "name": "accessibility-compliance",
       "repo": "wshobson/agents",
-      "installs": 776,
-      "rank": 217,
+      "installs": 854,
+      "rank": 219,
       "url": "https://skills.sh/wshobson/agents/accessibility-compliance"
-    },
-    {
-      "id": "wshobson/kpi-dashboard-design",
-      "name": "kpi-dashboard-design",
-      "repo": "wshobson/agents",
-      "installs": 775,
-      "rank": 218,
-      "url": "https://skills.sh/wshobson/agents/kpi-dashboard-design"
     },
     {
       "id": "wshobson/data-storytelling",
       "name": "data-storytelling",
       "repo": "wshobson/agents",
-      "installs": 775,
-      "rank": 219,
+      "installs": 846,
+      "rank": 220,
       "url": "https://skills.sh/wshobson/agents/data-storytelling"
+    },
+    {
+      "id": "langgenius/component-refactoring",
+      "name": "component-refactoring",
+      "repo": "langgenius/dify",
+      "installs": 845,
+      "rank": 221,
+      "url": "https://skills.sh/langgenius/dify/component-refactoring"
+    },
+    {
+      "id": "cloudai-x/threejs-animation",
+      "name": "threejs-animation",
+      "repo": "cloudai-x/threejs-skills",
+      "installs": 843,
+      "rank": 222,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-animation"
     },
     {
       "id": "wshobson/database-migration",
       "name": "database-migration",
       "repo": "wshobson/agents",
-      "installs": 774,
-      "rank": 220,
+      "installs": 842,
+      "rank": 223,
       "url": "https://skills.sh/wshobson/agents/database-migration"
     },
     {
       "id": "wshobson/secrets-management",
       "name": "secrets-management",
       "repo": "wshobson/agents",
-      "installs": 773,
-      "rank": 221,
+      "installs": 841,
+      "rank": 224,
       "url": "https://skills.sh/wshobson/agents/secrets-management"
-    },
-    {
-      "id": "othmanadi/planning-with-files",
-      "name": "planning-with-files",
-      "repo": "othmanadi/planning-with-files",
-      "installs": 768,
-      "rank": 222,
-      "url": "https://skills.sh/othmanadi/planning-with-files/planning-with-files"
     },
     {
       "id": "wshobson/python-packaging",
       "name": "python-packaging",
       "repo": "wshobson/agents",
-      "installs": 761,
-      "rank": 223,
+      "installs": 831,
+      "rank": 225,
       "url": "https://skills.sh/wshobson/agents/python-packaging"
+    },
+    {
+      "id": "langgenius/frontend-testing",
+      "name": "frontend-testing",
+      "repo": "langgenius/dify",
+      "installs": 823,
+      "rank": 226,
+      "url": "https://skills.sh/langgenius/dify/frontend-testing"
+    },
+    {
+      "id": "wshobson/rust-async-patterns",
+      "name": "rust-async-patterns",
+      "repo": "wshobson/agents",
+      "installs": 822,
+      "rank": 227,
+      "url": "https://skills.sh/wshobson/agents/rust-async-patterns"
+    },
+    {
+      "id": "othmanadi/planning-with-files",
+      "name": "planning-with-files",
+      "repo": "othmanadi/planning-with-files",
+      "installs": 822,
+      "rank": 228,
+      "url": "https://skills.sh/othmanadi/planning-with-files/planning-with-files"
+    },
+    {
+      "id": "jezweb/tailwind-v4-shadcn",
+      "name": "tailwind-v4-shadcn",
+      "repo": "jezweb/claude-skills",
+      "installs": 812,
+      "rank": 229,
+      "url": "https://skills.sh/jezweb/claude-skills/tailwind-v4-shadcn"
+    },
+    {
+      "id": "wshobson/react-modernization",
+      "name": "react-modernization",
+      "repo": "wshobson/agents",
+      "installs": 811,
+      "rank": 230,
+      "url": "https://skills.sh/wshobson/agents/react-modernization"
+    },
+    {
+      "id": "wshobson/gitlab-ci-patterns",
+      "name": "gitlab-ci-patterns",
+      "repo": "wshobson/agents",
+      "installs": 809,
+      "rank": 231,
+      "url": "https://skills.sh/wshobson/agents/gitlab-ci-patterns"
+    },
+    {
+      "id": "wshobson/openapi-spec-generation",
+      "name": "openapi-spec-generation",
+      "repo": "wshobson/agents",
+      "installs": 808,
+      "rank": 232,
+      "url": "https://skills.sh/wshobson/agents/openapi-spec-generation"
+    },
+    {
+      "id": "kepano/obsidian-markdown",
+      "name": "obsidian-markdown",
+      "repo": "kepano/obsidian-skills",
+      "installs": 807,
+      "rank": 233,
+      "url": "https://skills.sh/kepano/obsidian-skills/obsidian-markdown"
+    },
+    {
+      "id": "wshobson/workflow-orchestration-patterns",
+      "name": "workflow-orchestration-patterns",
+      "repo": "wshobson/agents",
+      "installs": 803,
+      "rank": 234,
+      "url": "https://skills.sh/wshobson/agents/workflow-orchestration-patterns"
+    },
+    {
+      "id": "wshobson/terraform-module-library",
+      "name": "terraform-module-library",
+      "repo": "wshobson/agents",
+      "installs": 800,
+      "rank": 235,
+      "url": "https://skills.sh/wshobson/agents/terraform-module-library"
+    },
+    {
+      "id": "wshobson/grafana-dashboards",
+      "name": "grafana-dashboards",
+      "repo": "wshobson/agents",
+      "installs": 800,
+      "rank": 236,
+      "url": "https://skills.sh/wshobson/agents/grafana-dashboards"
+    },
+    {
+      "id": "wshobson/changelog-automation",
+      "name": "changelog-automation",
+      "repo": "wshobson/agents",
+      "installs": 787,
+      "rank": 237,
+      "url": "https://skills.sh/wshobson/agents/changelog-automation"
+    },
+    {
+      "id": "op7418/youtube-clipper",
+      "name": "youtube-clipper",
+      "repo": "op7418/youtube-clipper-skill",
+      "installs": 779,
+      "rank": 238,
+      "url": "https://skills.sh/op7418/youtube-clipper-skill/youtube-clipper"
+    },
+    {
+      "id": "wshobson/godot-gdscript-patterns",
+      "name": "godot-gdscript-patterns",
+      "repo": "wshobson/agents",
+      "installs": 776,
+      "rank": 239,
+      "url": "https://skills.sh/wshobson/agents/godot-gdscript-patterns"
+    },
+    {
+      "id": "wshobson/go-concurrency-patterns",
+      "name": "go-concurrency-patterns",
+      "repo": "wshobson/agents",
+      "installs": 773,
+      "rank": 240,
+      "url": "https://skills.sh/wshobson/agents/go-concurrency-patterns"
+    },
+    {
+      "id": "wshobson/solidity-security",
+      "name": "solidity-security",
+      "repo": "wshobson/agents",
+      "installs": 772,
+      "rank": 241,
+      "url": "https://skills.sh/wshobson/agents/solidity-security"
+    },
+    {
+      "id": "wshobson/llm-evaluation",
+      "name": "llm-evaluation",
+      "repo": "wshobson/agents",
+      "installs": 771,
+      "rank": 242,
+      "url": "https://skills.sh/wshobson/agents/llm-evaluation"
+    },
+    {
+      "id": "wshobson/cost-optimization",
+      "name": "cost-optimization",
+      "repo": "wshobson/agents",
+      "installs": 770,
+      "rank": 243,
+      "url": "https://skills.sh/wshobson/agents/cost-optimization"
+    },
+    {
+      "id": "wshobson/event-store-design",
+      "name": "event-store-design",
+      "repo": "wshobson/agents",
+      "installs": 767,
+      "rank": 244,
+      "url": "https://skills.sh/wshobson/agents/event-store-design"
+    },
+    {
+      "id": "sickn33/docker-expert",
+      "name": "docker-expert",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "installs": 766,
+      "rank": 245,
+      "url": "https://skills.sh/sickn33/antigravity-awesome-skills/docker-expert"
+    },
+    {
+      "id": "ibelick/baseline-ui",
+      "name": "baseline-ui",
+      "repo": "ibelick/ui-skills",
+      "installs": 760,
+      "rank": 246,
+      "url": "https://skills.sh/ibelick/ui-skills/baseline-ui"
     },
     {
       "id": "langgenius/skill-creator",
       "name": "skill-creator",
       "repo": "langgenius/dify",
       "installs": 760,
-      "rank": 224,
+      "rank": 247,
       "url": "https://skills.sh/langgenius/dify/skill-creator"
-    },
-    {
-      "id": "wshobson/rust-async-patterns",
-      "name": "rust-async-patterns",
-      "repo": "wshobson/agents",
-      "installs": 756,
-      "rank": 225,
-      "url": "https://skills.sh/wshobson/agents/rust-async-patterns"
-    },
-    {
-      "id": "kepano/obsidian-markdown",
-      "name": "obsidian-markdown",
-      "repo": "kepano/obsidian-skills",
-      "installs": 750,
-      "rank": 226,
-      "url": "https://skills.sh/kepano/obsidian-skills/obsidian-markdown"
-    },
-    {
-      "id": "wshobson/react-modernization",
-      "name": "react-modernization",
-      "repo": "wshobson/agents",
-      "installs": 748,
-      "rank": 227,
-      "url": "https://skills.sh/wshobson/agents/react-modernization"
-    },
-    {
-      "id": "op7418/youtube-clipper",
-      "name": "youtube-clipper",
-      "repo": "op7418/youtube-clipper-skill",
-      "installs": 744,
-      "rank": 228,
-      "url": "https://skills.sh/op7418/youtube-clipper-skill/youtube-clipper"
-    },
-    {
-      "id": "wshobson/gitlab-ci-patterns",
-      "name": "gitlab-ci-patterns",
-      "repo": "wshobson/agents",
-      "installs": 742,
-      "rank": 229,
-      "url": "https://skills.sh/wshobson/agents/gitlab-ci-patterns"
-    },
-    {
-      "id": "wshobson/terraform-module-library",
-      "name": "terraform-module-library",
-      "repo": "wshobson/agents",
-      "installs": 741,
-      "rank": 230,
-      "url": "https://skills.sh/wshobson/agents/terraform-module-library"
-    },
-    {
-      "id": "wshobson/openapi-spec-generation",
-      "name": "openapi-spec-generation",
-      "repo": "wshobson/agents",
-      "installs": 740,
-      "rank": 231,
-      "url": "https://skills.sh/wshobson/agents/openapi-spec-generation"
-    },
-    {
-      "id": "wshobson/grafana-dashboards",
-      "name": "grafana-dashboards",
-      "repo": "wshobson/agents",
-      "installs": 739,
-      "rank": 232,
-      "url": "https://skills.sh/wshobson/agents/grafana-dashboards"
-    },
-    {
-      "id": "wshobson/workflow-orchestration-patterns",
-      "name": "workflow-orchestration-patterns",
-      "repo": "wshobson/agents",
-      "installs": 735,
-      "rank": 233,
-      "url": "https://skills.sh/wshobson/agents/workflow-orchestration-patterns"
-    },
-    {
-      "id": "jezweb/tailwind-v4-shadcn",
-      "name": "tailwind-v4-shadcn",
-      "repo": "jezweb/claude-skills",
-      "installs": 725,
-      "rank": 234,
-      "url": "https://skills.sh/jezweb/claude-skills/tailwind-v4-shadcn"
-    },
-    {
-      "id": "wshobson/changelog-automation",
-      "name": "changelog-automation",
-      "repo": "wshobson/agents",
-      "installs": 721,
-      "rank": 235,
-      "url": "https://skills.sh/wshobson/agents/changelog-automation"
-    },
-    {
-      "id": "wshobson/llm-evaluation",
-      "name": "llm-evaluation",
-      "repo": "wshobson/agents",
-      "installs": 711,
-      "rank": 236,
-      "url": "https://skills.sh/wshobson/agents/llm-evaluation"
-    },
-    {
-      "id": "wshobson/solidity-security",
-      "name": "solidity-security",
-      "repo": "wshobson/agents",
-      "installs": 710,
-      "rank": 237,
-      "url": "https://skills.sh/wshobson/agents/solidity-security"
-    },
-    {
-      "id": "wshobson/go-concurrency-patterns",
-      "name": "go-concurrency-patterns",
-      "repo": "wshobson/agents",
-      "installs": 708,
-      "rank": 238,
-      "url": "https://skills.sh/wshobson/agents/go-concurrency-patterns"
-    },
-    {
-      "id": "onmax/nuxt-ui",
-      "name": "nuxt-ui",
-      "repo": "onmax/nuxt-skills",
-      "installs": 708,
-      "rank": 239,
-      "url": "https://skills.sh/onmax/nuxt-skills/nuxt-ui"
-    },
-    {
-      "id": "wshobson/cost-optimization",
-      "name": "cost-optimization",
-      "repo": "wshobson/agents",
-      "installs": 707,
-      "rank": 240,
-      "url": "https://skills.sh/wshobson/agents/cost-optimization"
-    },
-    {
-      "id": "sickn33/docker-expert",
-      "name": "docker-expert",
-      "repo": "sickn33/antigravity-awesome-skills",
-      "installs": 704,
-      "rank": 241,
-      "url": "https://skills.sh/sickn33/antigravity-awesome-skills/docker-expert"
-    },
-    {
-      "id": "wshobson/event-store-design",
-      "name": "event-store-design",
-      "repo": "wshobson/agents",
-      "installs": 703,
-      "rank": 242,
-      "url": "https://skills.sh/wshobson/agents/event-store-design"
-    },
-    {
-      "id": "wshobson/godot-gdscript-patterns",
-      "name": "godot-gdscript-patterns",
-      "repo": "wshobson/agents",
-      "installs": 702,
-      "rank": 243,
-      "url": "https://skills.sh/wshobson/agents/godot-gdscript-patterns"
-    },
-    {
-      "id": "supabase/skill-creator",
-      "name": "skill-creator",
-      "repo": "supabase/agent-skills",
-      "installs": 691,
-      "rank": 244,
-      "url": "https://skills.sh/supabase/agent-skills/skill-creator"
-    },
-    {
-      "id": "langgenius/web-design-guidelines",
-      "name": "web-design-guidelines",
-      "repo": "langgenius/dify",
-      "installs": 688,
-      "rank": 245,
-      "url": "https://skills.sh/langgenius/dify/web-design-guidelines"
     },
     {
       "id": "jeffallan/golang-pro",
       "name": "golang-pro",
       "repo": "jeffallan/claude-skills",
-      "installs": 687,
-      "rank": 246,
+      "installs": 750,
+      "rank": 248,
       "url": "https://skills.sh/jeffallan/claude-skills/golang-pro"
     },
     {
       "id": "wshobson/screen-reader-testing",
       "name": "screen-reader-testing",
       "repo": "wshobson/agents",
-      "installs": 683,
-      "rank": 247,
+      "installs": 748,
+      "rank": 249,
       "url": "https://skills.sh/wshobson/agents/screen-reader-testing"
     },
     {
       "id": "wshobson/cqrs-implementation",
       "name": "cqrs-implementation",
       "repo": "wshobson/agents",
-      "installs": 682,
-      "rank": 248,
+      "installs": 745,
+      "rank": 250,
       "url": "https://skills.sh/wshobson/agents/cqrs-implementation"
     },
     {
-      "id": "ibelick/baseline-ui",
-      "name": "baseline-ui",
-      "repo": "ibelick/ui-skills",
-      "installs": 682,
-      "rank": 249,
-      "url": "https://skills.sh/ibelick/ui-skills/baseline-ui"
+      "id": "onmax/nuxt-ui",
+      "name": "nuxt-ui",
+      "repo": "onmax/nuxt-skills",
+      "installs": 743,
+      "rank": 251,
+      "url": "https://skills.sh/onmax/nuxt-skills/nuxt-ui"
     },
     {
-      "id": "napoleond/instaclaw",
-      "name": "instaclaw",
-      "repo": "napoleond/instaclaw",
-      "installs": 678,
-      "rank": 250,
-      "url": "https://skills.sh/napoleond/instaclaw/instaclaw"
+      "id": "jeffallan/flutter-expert",
+      "name": "flutter-expert",
+      "repo": "jeffallan/claude-skills",
+      "installs": 738,
+      "rank": 252,
+      "url": "https://skills.sh/jeffallan/claude-skills/flutter-expert"
     },
     {
       "id": "wshobson/startup-financial-modeling",
       "name": "startup-financial-modeling",
       "repo": "wshobson/agents",
-      "installs": 671,
-      "rank": 251,
+      "installs": 736,
+      "rank": 253,
       "url": "https://skills.sh/wshobson/agents/startup-financial-modeling"
     },
     {
       "id": "wshobson/memory-safety-patterns",
       "name": "memory-safety-patterns",
       "repo": "wshobson/agents",
-      "installs": 671,
-      "rank": 252,
+      "installs": 733,
+      "rank": 254,
       "url": "https://skills.sh/wshobson/agents/memory-safety-patterns"
-    },
-    {
-      "id": "napoleond/clawdirect-dev",
-      "name": "clawdirect-dev",
-      "repo": "napoleond/clawdirect",
-      "installs": 670,
-      "rank": 253,
-      "url": "https://skills.sh/napoleond/clawdirect/clawdirect-dev"
     },
     {
       "id": "wshobson/workflow-patterns",
       "name": "workflow-patterns",
       "repo": "wshobson/agents",
-      "installs": 668,
-      "rank": 254,
-      "url": "https://skills.sh/wshobson/agents/workflow-patterns"
-    },
-    {
-      "id": "wshobson/context-driven-development",
-      "name": "context-driven-development",
-      "repo": "wshobson/agents",
-      "installs": 667,
+      "installs": 730,
       "rank": 255,
-      "url": "https://skills.sh/wshobson/agents/context-driven-development"
+      "url": "https://skills.sh/wshobson/agents/workflow-patterns"
     },
     {
       "id": "wshobson/projection-patterns",
       "name": "projection-patterns",
       "repo": "wshobson/agents",
-      "installs": 666,
+      "installs": 728,
       "rank": 256,
       "url": "https://skills.sh/wshobson/agents/projection-patterns"
+    },
+    {
+      "id": "wshobson/context-driven-development",
+      "name": "context-driven-development",
+      "repo": "wshobson/agents",
+      "installs": 727,
+      "rank": 257,
+      "url": "https://skills.sh/wshobson/agents/context-driven-development"
+    },
+    {
+      "id": "wshobson/wcag-audit-patterns",
+      "name": "wcag-audit-patterns",
+      "repo": "wshobson/agents",
+      "installs": 726,
+      "rank": 258,
+      "url": "https://skills.sh/wshobson/agents/wcag-audit-patterns"
     },
     {
       "id": "wshobson/dependency-upgrade",
       "name": "dependency-upgrade",
       "repo": "wshobson/agents",
-      "installs": 666,
-      "rank": 257,
+      "installs": 726,
+      "rank": 259,
       "url": "https://skills.sh/wshobson/agents/dependency-upgrade"
     },
     {
       "id": "wshobson/embedding-strategies",
       "name": "embedding-strategies",
       "repo": "wshobson/agents",
-      "installs": 664,
-      "rank": 258,
-      "url": "https://skills.sh/wshobson/agents/embedding-strategies"
-    },
-    {
-      "id": "wshobson/wcag-audit-patterns",
-      "name": "wcag-audit-patterns",
-      "repo": "wshobson/agents",
-      "installs": 664,
-      "rank": 259,
-      "url": "https://skills.sh/wshobson/agents/wcag-audit-patterns"
-    },
-    {
-      "id": "cloudai-x/threejs-fundamentals",
-      "name": "threejs-fundamentals",
-      "repo": "cloudai-x/threejs-skills",
-      "installs": 663,
+      "installs": 722,
       "rank": 260,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-fundamentals"
+      "url": "https://skills.sh/wshobson/agents/embedding-strategies"
     },
     {
       "id": "wshobson/temporal-python-testing",
       "name": "temporal-python-testing",
       "repo": "wshobson/agents",
-      "installs": 659,
+      "installs": 720,
       "rank": 261,
       "url": "https://skills.sh/wshobson/agents/temporal-python-testing"
     },
@@ -2087,7 +2087,7 @@
       "id": "wshobson/gdpr-data-handling",
       "name": "gdpr-data-handling",
       "repo": "wshobson/agents",
-      "installs": 659,
+      "installs": 717,
       "rank": 262,
       "url": "https://skills.sh/wshobson/agents/gdpr-data-handling"
     },
@@ -2095,39 +2095,39 @@
       "id": "wshobson/market-sizing-analysis",
       "name": "market-sizing-analysis",
       "repo": "wshobson/agents",
-      "installs": 658,
+      "installs": 716,
       "rank": 263,
       "url": "https://skills.sh/wshobson/agents/market-sizing-analysis"
     },
     {
-      "id": "wshobson/prometheus-configuration",
-      "name": "prometheus-configuration",
+      "id": "wshobson/backtesting-frameworks",
+      "name": "backtesting-frameworks",
       "repo": "wshobson/agents",
-      "installs": 658,
+      "installs": 715,
       "rank": 264,
-      "url": "https://skills.sh/wshobson/agents/prometheus-configuration"
+      "url": "https://skills.sh/wshobson/agents/backtesting-frameworks"
     },
     {
       "id": "wshobson/bash-defensive-patterns",
       "name": "bash-defensive-patterns",
       "repo": "wshobson/agents",
-      "installs": 656,
+      "installs": 715,
       "rank": 265,
       "url": "https://skills.sh/wshobson/agents/bash-defensive-patterns"
     },
     {
-      "id": "wshobson/k8s-security-policies",
-      "name": "k8s-security-policies",
+      "id": "wshobson/prometheus-configuration",
+      "name": "prometheus-configuration",
       "repo": "wshobson/agents",
-      "installs": 655,
+      "installs": 715,
       "rank": 266,
-      "url": "https://skills.sh/wshobson/agents/k8s-security-policies"
+      "url": "https://skills.sh/wshobson/agents/prometheus-configuration"
     },
     {
       "id": "wshobson/data-quality-frameworks",
       "name": "data-quality-frameworks",
       "repo": "wshobson/agents",
-      "installs": 654,
+      "installs": 711,
       "rank": 267,
       "url": "https://skills.sh/wshobson/agents/data-quality-frameworks"
     },
@@ -2135,295 +2135,295 @@
       "id": "wshobson/vector-index-tuning",
       "name": "vector-index-tuning",
       "repo": "wshobson/agents",
-      "installs": 653,
+      "installs": 710,
       "rank": 268,
       "url": "https://skills.sh/wshobson/agents/vector-index-tuning"
     },
     {
-      "id": "wshobson/backtesting-frameworks",
-      "name": "backtesting-frameworks",
+      "id": "wshobson/k8s-security-policies",
+      "name": "k8s-security-policies",
       "repo": "wshobson/agents",
-      "installs": 650,
+      "installs": 710,
       "rank": 269,
-      "url": "https://skills.sh/wshobson/agents/backtesting-frameworks"
+      "url": "https://skills.sh/wshobson/agents/k8s-security-policies"
     },
     {
       "id": "wshobson/startup-metrics-framework",
       "name": "startup-metrics-framework",
       "repo": "wshobson/agents",
-      "installs": 650,
+      "installs": 709,
       "rank": 270,
       "url": "https://skills.sh/wshobson/agents/startup-metrics-framework"
-    },
-    {
-      "id": "jeffallan/flutter-expert",
-      "name": "flutter-expert",
-      "repo": "jeffallan/claude-skills",
-      "installs": 649,
-      "rank": 271,
-      "url": "https://skills.sh/jeffallan/claude-skills/flutter-expert"
-    },
-    {
-      "id": "wshobson/similarity-search-patterns",
-      "name": "similarity-search-patterns",
-      "repo": "wshobson/agents",
-      "installs": 649,
-      "rank": 272,
-      "url": "https://skills.sh/wshobson/agents/similarity-search-patterns"
     },
     {
       "id": "wshobson/turborepo-caching",
       "name": "turborepo-caching",
       "repo": "wshobson/agents",
-      "installs": 649,
-      "rank": 273,
+      "installs": 707,
+      "rank": 271,
       "url": "https://skills.sh/wshobson/agents/turborepo-caching"
+    },
+    {
+      "id": "wshobson/similarity-search-patterns",
+      "name": "similarity-search-patterns",
+      "repo": "wshobson/agents",
+      "installs": 706,
+      "rank": 272,
+      "url": "https://skills.sh/wshobson/agents/similarity-search-patterns"
     },
     {
       "id": "wshobson/nx-workspace-patterns",
       "name": "nx-workspace-patterns",
       "repo": "wshobson/agents",
-      "installs": 643,
-      "rank": 274,
+      "installs": 704,
+      "rank": 273,
       "url": "https://skills.sh/wshobson/agents/nx-workspace-patterns"
     },
     {
       "id": "wshobson/competitive-landscape",
       "name": "competitive-landscape",
       "repo": "wshobson/agents",
-      "installs": 642,
-      "rank": 275,
+      "installs": 698,
+      "rank": 274,
       "url": "https://skills.sh/wshobson/agents/competitive-landscape"
     },
     {
       "id": "wshobson/k8s-manifest-generator",
       "name": "k8s-manifest-generator",
       "repo": "wshobson/agents",
-      "installs": 640,
-      "rank": 276,
+      "installs": 697,
+      "rank": 275,
       "url": "https://skills.sh/wshobson/agents/k8s-manifest-generator"
     },
     {
       "id": "wshobson/web3-testing",
       "name": "web3-testing",
       "repo": "wshobson/agents",
-      "installs": 638,
-      "rank": 277,
+      "installs": 696,
+      "rank": 276,
       "url": "https://skills.sh/wshobson/agents/web3-testing"
-    },
-    {
-      "id": "wshobson/ml-pipeline-workflow",
-      "name": "ml-pipeline-workflow",
-      "repo": "wshobson/agents",
-      "installs": 638,
-      "rank": 278,
-      "url": "https://skills.sh/wshobson/agents/ml-pipeline-workflow"
     },
     {
       "id": "wshobson/saga-orchestration",
       "name": "saga-orchestration",
       "repo": "wshobson/agents",
-      "installs": 637,
-      "rank": 279,
+      "installs": 695,
+      "rank": 277,
       "url": "https://skills.sh/wshobson/agents/saga-orchestration"
-    },
-    {
-      "id": "wshobson/multi-cloud-architecture",
-      "name": "multi-cloud-architecture",
-      "repo": "wshobson/agents",
-      "installs": 634,
-      "rank": 280,
-      "url": "https://skills.sh/wshobson/agents/multi-cloud-architecture"
     },
     {
       "id": "wshobson/hybrid-search-implementation",
       "name": "hybrid-search-implementation",
       "repo": "wshobson/agents",
-      "installs": 633,
-      "rank": 281,
+      "installs": 694,
+      "rank": 278,
       "url": "https://skills.sh/wshobson/agents/hybrid-search-implementation"
     },
     {
-      "id": "wshobson/dbt-transformation-patterns",
-      "name": "dbt-transformation-patterns",
+      "id": "wshobson/ml-pipeline-workflow",
+      "name": "ml-pipeline-workflow",
       "repo": "wshobson/agents",
-      "installs": 633,
-      "rank": 282,
-      "url": "https://skills.sh/wshobson/agents/dbt-transformation-patterns"
+      "installs": 693,
+      "rank": 279,
+      "url": "https://skills.sh/wshobson/agents/ml-pipeline-workflow"
     },
     {
-      "id": "wshobson/security-requirement-extraction",
-      "name": "security-requirement-extraction",
-      "repo": "wshobson/agents",
-      "installs": 632,
-      "rank": 283,
-      "url": "https://skills.sh/wshobson/agents/security-requirement-extraction"
-    },
-    {
-      "id": "sickn33/clean-code",
-      "name": "clean-code",
-      "repo": "sickn33/antigravity-awesome-skills",
-      "installs": 630,
-      "rank": 284,
-      "url": "https://skills.sh/sickn33/antigravity-awesome-skills/clean-code"
-    },
-    {
-      "id": "wshobson/helm-chart-scaffolding",
-      "name": "helm-chart-scaffolding",
-      "repo": "wshobson/agents",
-      "installs": 627,
-      "rank": 285,
-      "url": "https://skills.sh/wshobson/agents/helm-chart-scaffolding"
+      "id": "cloudai-x/threejs-fundamentals",
+      "name": "threejs-fundamentals",
+      "repo": "cloudai-x/threejs-skills",
+      "installs": 693,
+      "rank": 280,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-fundamentals"
     },
     {
       "id": "ibelick/fixing-motion-performance",
       "name": "fixing-motion-performance",
       "repo": "ibelick/ui-skills",
-      "installs": 627,
-      "rank": 286,
+      "installs": 692,
+      "rank": 281,
       "url": "https://skills.sh/ibelick/ui-skills/fixing-motion-performance"
     },
     {
-      "id": "wshobson/paypal-integration",
-      "name": "paypal-integration",
+      "id": "wshobson/multi-cloud-architecture",
+      "name": "multi-cloud-architecture",
       "repo": "wshobson/agents",
-      "installs": 626,
-      "rank": 287,
-      "url": "https://skills.sh/wshobson/agents/paypal-integration"
+      "installs": 691,
+      "rank": 282,
+      "url": "https://skills.sh/wshobson/agents/multi-cloud-architecture"
+    },
+    {
+      "id": "supabase/skill-creator",
+      "name": "skill-creator",
+      "repo": "supabase/agent-skills",
+      "installs": 691,
+      "rank": 283,
+      "url": "https://skills.sh/supabase/agent-skills/skill-creator"
     },
     {
       "id": "brianlovin/simplify",
       "name": "simplify",
       "repo": "brianlovin/claude-config",
-      "installs": 626,
-      "rank": 288,
+      "installs": 689,
+      "rank": 284,
       "url": "https://skills.sh/brianlovin/claude-config/simplify"
     },
     {
-      "id": "wshobson/billing-automation",
-      "name": "billing-automation",
+      "id": "langgenius/web-design-guidelines",
+      "name": "web-design-guidelines",
+      "repo": "langgenius/dify",
+      "installs": 688,
+      "rank": 285,
+      "url": "https://skills.sh/langgenius/dify/web-design-guidelines"
+    },
+    {
+      "id": "wshobson/security-requirement-extraction",
+      "name": "security-requirement-extraction",
       "repo": "wshobson/agents",
-      "installs": 624,
-      "rank": 289,
-      "url": "https://skills.sh/wshobson/agents/billing-automation"
+      "installs": 687,
+      "rank": 286,
+      "url": "https://skills.sh/wshobson/agents/security-requirement-extraction"
     },
     {
       "id": "wshobson/gitops-workflow",
       "name": "gitops-workflow",
       "repo": "wshobson/agents",
-      "installs": 624,
-      "rank": 290,
+      "installs": 685,
+      "rank": 287,
       "url": "https://skills.sh/wshobson/agents/gitops-workflow"
     },
     {
-      "id": "wshobson/unity-ecs-patterns",
-      "name": "unity-ecs-patterns",
+      "id": "wshobson/dbt-transformation-patterns",
+      "name": "dbt-transformation-patterns",
       "repo": "wshobson/agents",
-      "installs": 621,
-      "rank": 291,
-      "url": "https://skills.sh/wshobson/agents/unity-ecs-patterns"
+      "installs": 685,
+      "rank": 288,
+      "url": "https://skills.sh/wshobson/agents/dbt-transformation-patterns"
+    },
+    {
+      "id": "wshobson/paypal-integration",
+      "name": "paypal-integration",
+      "repo": "wshobson/agents",
+      "installs": 683,
+      "rank": 289,
+      "url": "https://skills.sh/wshobson/agents/paypal-integration"
     },
     {
       "id": "wshobson/risk-metrics-calculation",
       "name": "risk-metrics-calculation",
       "repo": "wshobson/agents",
-      "installs": 621,
-      "rank": 292,
+      "installs": 683,
+      "rank": 290,
       "url": "https://skills.sh/wshobson/agents/risk-metrics-calculation"
     },
     {
-      "id": "cloudai-x/threejs-shaders",
-      "name": "threejs-shaders",
-      "repo": "cloudai-x/threejs-skills",
-      "installs": 620,
-      "rank": 293,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-shaders"
+      "id": "wshobson/helm-chart-scaffolding",
+      "name": "helm-chart-scaffolding",
+      "repo": "wshobson/agents",
+      "installs": 682,
+      "rank": 291,
+      "url": "https://skills.sh/wshobson/agents/helm-chart-scaffolding"
     },
     {
-      "id": "wshobson/postmortem-writing",
-      "name": "postmortem-writing",
+      "id": "wshobson/billing-automation",
+      "name": "billing-automation",
       "repo": "wshobson/agents",
-      "installs": 619,
-      "rank": 294,
-      "url": "https://skills.sh/wshobson/agents/postmortem-writing"
+      "installs": 680,
+      "rank": 292,
+      "url": "https://skills.sh/wshobson/agents/billing-automation"
     },
     {
       "id": "wshobson/memory-forensics",
       "name": "memory-forensics",
       "repo": "wshobson/agents",
-      "installs": 618,
-      "rank": 295,
+      "installs": 677,
+      "rank": 293,
       "url": "https://skills.sh/wshobson/agents/memory-forensics"
     },
     {
-      "id": "stripe/stripe-best-practices",
-      "name": "stripe-best-practices",
-      "repo": "stripe/ai",
-      "installs": 618,
+      "id": "sickn33/clean-code",
+      "name": "clean-code",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "installs": 677,
+      "rank": 294,
+      "url": "https://skills.sh/sickn33/antigravity-awesome-skills/clean-code"
+    },
+    {
+      "id": "waynesutton/convex",
+      "name": "convex",
+      "repo": "waynesutton/convexskills",
+      "installs": 676,
+      "rank": 295,
+      "url": "https://skills.sh/waynesutton/convexskills/convex"
+    },
+    {
+      "id": "wshobson/unity-ecs-patterns",
+      "name": "unity-ecs-patterns",
+      "repo": "wshobson/agents",
+      "installs": 676,
       "rank": 296,
-      "url": "https://skills.sh/stripe/ai/stripe-best-practices"
-    },
-    {
-      "id": "wshobson/track-management",
-      "name": "track-management",
-      "repo": "wshobson/agents",
-      "installs": 616,
-      "rank": 297,
-      "url": "https://skills.sh/wshobson/agents/track-management"
-    },
-    {
-      "id": "wshobson/hybrid-cloud-networking",
-      "name": "hybrid-cloud-networking",
-      "repo": "wshobson/agents",
-      "installs": 616,
-      "rank": 298,
-      "url": "https://skills.sh/wshobson/agents/hybrid-cloud-networking"
+      "url": "https://skills.sh/wshobson/agents/unity-ecs-patterns"
     },
     {
       "id": "wshobson/protocol-reverse-engineering",
       "name": "protocol-reverse-engineering",
       "repo": "wshobson/agents",
-      "installs": 616,
-      "rank": 299,
+      "installs": 676,
+      "rank": 297,
       "url": "https://skills.sh/wshobson/agents/protocol-reverse-engineering"
     },
     {
-      "id": "langgenius/vercel-react-best-practices",
-      "name": "vercel-react-best-practices",
-      "repo": "langgenius/dify",
-      "installs": 612,
+      "id": "wshobson/postmortem-writing",
+      "name": "postmortem-writing",
+      "repo": "wshobson/agents",
+      "installs": 674,
+      "rank": 298,
+      "url": "https://skills.sh/wshobson/agents/postmortem-writing"
+    },
+    {
+      "id": "wshobson/hybrid-cloud-networking",
+      "name": "hybrid-cloud-networking",
+      "repo": "wshobson/agents",
+      "installs": 674,
+      "rank": 299,
+      "url": "https://skills.sh/wshobson/agents/hybrid-cloud-networking"
+    },
+    {
+      "id": "wshobson/track-management",
+      "name": "track-management",
+      "repo": "wshobson/agents",
+      "installs": 673,
       "rank": 300,
-      "url": "https://skills.sh/langgenius/dify/vercel-react-best-practices"
+      "url": "https://skills.sh/wshobson/agents/track-management"
+    },
+    {
+      "id": "ibelick/fixing-accessibility",
+      "name": "fixing-accessibility",
+      "repo": "ibelick/ui-skills",
+      "installs": 668,
+      "rank": 301,
+      "url": "https://skills.sh/ibelick/ui-skills/fixing-accessibility"
     },
     {
       "id": "wshobson/airflow-dag-patterns",
       "name": "airflow-dag-patterns",
       "repo": "wshobson/agents",
-      "installs": 610,
-      "rank": 301,
+      "installs": 666,
+      "rank": 302,
       "url": "https://skills.sh/wshobson/agents/airflow-dag-patterns"
     },
     {
       "id": "wshobson/defi-protocol-templates",
       "name": "defi-protocol-templates",
       "repo": "wshobson/agents",
-      "installs": 610,
-      "rank": 302,
-      "url": "https://skills.sh/wshobson/agents/defi-protocol-templates"
-    },
-    {
-      "id": "wshobson/bats-testing-patterns",
-      "name": "bats-testing-patterns",
-      "repo": "wshobson/agents",
-      "installs": 609,
+      "installs": 665,
       "rank": 303,
-      "url": "https://skills.sh/wshobson/agents/bats-testing-patterns"
+      "url": "https://skills.sh/wshobson/agents/defi-protocol-templates"
     },
     {
       "id": "wshobson/threat-mitigation-mapping",
       "name": "threat-mitigation-mapping",
       "repo": "wshobson/agents",
-      "installs": 609,
+      "installs": 664,
       "rank": 304,
       "url": "https://skills.sh/wshobson/agents/threat-mitigation-mapping"
     },
@@ -2431,369 +2431,369 @@
       "id": "wshobson/team-composition-analysis",
       "name": "team-composition-analysis",
       "repo": "wshobson/agents",
-      "installs": 608,
+      "installs": 664,
       "rank": 305,
       "url": "https://skills.sh/wshobson/agents/team-composition-analysis"
-    },
-    {
-      "id": "wshobson/service-mesh-observability",
-      "name": "service-mesh-observability",
-      "repo": "wshobson/agents",
-      "installs": 608,
-      "rank": 306,
-      "url": "https://skills.sh/wshobson/agents/service-mesh-observability"
-    },
-    {
-      "id": "ibelick/fixing-accessibility",
-      "name": "fixing-accessibility",
-      "repo": "ibelick/ui-skills",
-      "installs": 607,
-      "rank": 307,
-      "url": "https://skills.sh/ibelick/ui-skills/fixing-accessibility"
-    },
-    {
-      "id": "cloudai-x/threejs-interaction",
-      "name": "threejs-interaction",
-      "repo": "cloudai-x/threejs-skills",
-      "installs": 607,
-      "rank": 308,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-interaction"
     },
     {
       "id": "wshobson/anti-reversing-techniques",
       "name": "anti-reversing-techniques",
       "repo": "wshobson/agents",
-      "installs": 607,
-      "rank": 309,
+      "installs": 663,
+      "rank": 306,
       "url": "https://skills.sh/wshobson/agents/anti-reversing-techniques"
+    },
+    {
+      "id": "wshobson/service-mesh-observability",
+      "name": "service-mesh-observability",
+      "repo": "wshobson/agents",
+      "installs": 663,
+      "rank": 307,
+      "url": "https://skills.sh/wshobson/agents/service-mesh-observability"
+    },
+    {
+      "id": "wshobson/bats-testing-patterns",
+      "name": "bats-testing-patterns",
+      "repo": "wshobson/agents",
+      "installs": 662,
+      "rank": 308,
+      "url": "https://skills.sh/wshobson/agents/bats-testing-patterns"
     },
     {
       "id": "wshobson/incident-runbook-templates",
       "name": "incident-runbook-templates",
       "repo": "wshobson/agents",
-      "installs": 605,
-      "rank": 310,
+      "installs": 659,
+      "rank": 309,
       "url": "https://skills.sh/wshobson/agents/incident-runbook-templates"
     },
     {
       "id": "wshobson/distributed-tracing",
       "name": "distributed-tracing",
       "repo": "wshobson/agents",
-      "installs": 605,
-      "rank": 311,
+      "installs": 659,
+      "rank": 310,
       "url": "https://skills.sh/wshobson/agents/distributed-tracing"
     },
     {
       "id": "wshobson/shellcheck-configuration",
       "name": "shellcheck-configuration",
       "repo": "wshobson/agents",
-      "installs": 605,
-      "rank": 312,
+      "installs": 659,
+      "rank": 311,
       "url": "https://skills.sh/wshobson/agents/shellcheck-configuration"
-    },
-    {
-      "id": "wshobson/angular-migration",
-      "name": "angular-migration",
-      "repo": "wshobson/agents",
-      "installs": 602,
-      "rank": 313,
-      "url": "https://skills.sh/wshobson/agents/angular-migration"
     },
     {
       "id": "wshobson/employment-contract-templates",
       "name": "employment-contract-templates",
       "repo": "wshobson/agents",
-      "installs": 601,
-      "rank": 314,
+      "installs": 655,
+      "rank": 312,
       "url": "https://skills.sh/wshobson/agents/employment-contract-templates"
     },
     {
-      "id": "cloudai-x/threejs-materials",
-      "name": "threejs-materials",
-      "repo": "cloudai-x/threejs-skills",
-      "installs": 600,
-      "rank": 315,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-materials"
-    },
-    {
-      "id": "waynesutton/convex",
-      "name": "convex",
-      "repo": "waynesutton/convexskills",
-      "installs": 599,
-      "rank": 316,
-      "url": "https://skills.sh/waynesutton/convexskills/convex"
-    },
-    {
-      "id": "wshobson/on-call-handoff-patterns",
-      "name": "on-call-handoff-patterns",
+      "id": "wshobson/angular-migration",
+      "name": "angular-migration",
       "repo": "wshobson/agents",
-      "installs": 599,
-      "rank": 317,
-      "url": "https://skills.sh/wshobson/agents/on-call-handoff-patterns"
+      "installs": 655,
+      "rank": 313,
+      "url": "https://skills.sh/wshobson/agents/angular-migration"
     },
     {
       "id": "wshobson/nft-standards",
       "name": "nft-standards",
       "repo": "wshobson/agents",
-      "installs": 598,
-      "rank": 318,
+      "installs": 653,
+      "rank": 314,
       "url": "https://skills.sh/wshobson/agents/nft-standards"
+    },
+    {
+      "id": "wshobson/on-call-handoff-patterns",
+      "name": "on-call-handoff-patterns",
+      "repo": "wshobson/agents",
+      "installs": 652,
+      "rank": 315,
+      "url": "https://skills.sh/wshobson/agents/on-call-handoff-patterns"
     },
     {
       "id": "wshobson/attack-tree-construction",
       "name": "attack-tree-construction",
       "repo": "wshobson/agents",
-      "installs": 598,
-      "rank": 319,
+      "installs": 652,
+      "rank": 316,
       "url": "https://skills.sh/wshobson/agents/attack-tree-construction"
+    },
+    {
+      "id": "cloudai-x/threejs-shaders",
+      "name": "threejs-shaders",
+      "repo": "cloudai-x/threejs-skills",
+      "installs": 650,
+      "rank": 317,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-shaders"
     },
     {
       "id": "wshobson/sast-configuration",
       "name": "sast-configuration",
       "repo": "wshobson/agents",
-      "installs": 597,
-      "rank": 320,
+      "installs": 650,
+      "rank": 318,
       "url": "https://skills.sh/wshobson/agents/sast-configuration"
+    },
+    {
+      "id": "stripe/stripe-best-practices",
+      "name": "stripe-best-practices",
+      "repo": "stripe/ai",
+      "installs": 650,
+      "rank": 319,
+      "url": "https://skills.sh/stripe/ai/stripe-best-practices"
     },
     {
       "id": "wshobson/spark-optimization",
       "name": "spark-optimization",
       "repo": "wshobson/agents",
-      "installs": 596,
-      "rank": 321,
+      "installs": 649,
+      "rank": 320,
       "url": "https://skills.sh/wshobson/agents/spark-optimization"
-    },
-    {
-      "id": "napoleond/clawdirect",
-      "name": "clawdirect",
-      "repo": "napoleond/clawdirect",
-      "installs": 593,
-      "rank": 322,
-      "url": "https://skills.sh/napoleond/clawdirect/clawdirect"
     },
     {
       "id": "wshobson/mtls-configuration",
       "name": "mtls-configuration",
       "repo": "wshobson/agents",
-      "installs": 593,
-      "rank": 323,
+      "installs": 649,
+      "rank": 321,
       "url": "https://skills.sh/wshobson/agents/mtls-configuration"
-    },
-    {
-      "id": "wshobson/istio-traffic-management",
-      "name": "istio-traffic-management",
-      "repo": "wshobson/agents",
-      "installs": 592,
-      "rank": 324,
-      "url": "https://skills.sh/wshobson/agents/istio-traffic-management"
     },
     {
       "id": "wshobson/binary-analysis-patterns",
       "name": "binary-analysis-patterns",
       "repo": "wshobson/agents",
-      "installs": 591,
-      "rank": 325,
+      "installs": 647,
+      "rank": 322,
       "url": "https://skills.sh/wshobson/agents/binary-analysis-patterns"
-    },
-    {
-      "id": "wshobson/bazel-build-optimization",
-      "name": "bazel-build-optimization",
-      "repo": "wshobson/agents",
-      "installs": 591,
-      "rank": 326,
-      "url": "https://skills.sh/wshobson/agents/bazel-build-optimization"
     },
     {
       "id": "wshobson/slo-implementation",
       "name": "slo-implementation",
       "repo": "wshobson/agents",
-      "installs": 590,
-      "rank": 327,
+      "installs": 646,
+      "rank": 323,
       "url": "https://skills.sh/wshobson/agents/slo-implementation"
     },
     {
-      "id": "cloudai-x/threejs-geometry",
-      "name": "threejs-geometry",
-      "repo": "cloudai-x/threejs-skills",
-      "installs": 589,
-      "rank": 328,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-geometry"
+      "id": "wshobson/istio-traffic-management",
+      "name": "istio-traffic-management",
+      "repo": "wshobson/agents",
+      "installs": 645,
+      "rank": 324,
+      "url": "https://skills.sh/wshobson/agents/istio-traffic-management"
     },
     {
       "id": "wshobson/pci-compliance",
       "name": "pci-compliance",
       "repo": "wshobson/agents",
-      "installs": 589,
-      "rank": 329,
+      "installs": 644,
+      "rank": 325,
       "url": "https://skills.sh/wshobson/agents/pci-compliance"
+    },
+    {
+      "id": "wshobson/bazel-build-optimization",
+      "name": "bazel-build-optimization",
+      "repo": "wshobson/agents",
+      "installs": 644,
+      "rank": 326,
+      "url": "https://skills.sh/wshobson/agents/bazel-build-optimization"
     },
     {
       "id": "wshobson/stride-analysis-patterns",
       "name": "stride-analysis-patterns",
       "repo": "wshobson/agents",
-      "installs": 588,
-      "rank": 330,
+      "installs": 643,
+      "rank": 327,
       "url": "https://skills.sh/wshobson/agents/stride-analysis-patterns"
-    },
-    {
-      "id": "wshobson/linkerd-patterns",
-      "name": "linkerd-patterns",
-      "repo": "wshobson/agents",
-      "installs": 585,
-      "rank": 331,
-      "url": "https://skills.sh/wshobson/agents/linkerd-patterns"
-    },
-    {
-      "id": "emzod/speakturbo-tts",
-      "name": "speakturbo-tts",
-      "repo": "emzod/speak-turbo",
-      "installs": 585,
-      "rank": 332,
-      "url": "https://skills.sh/emzod/speak-turbo/speakturbo-tts"
-    },
-    {
-      "id": "cloudai-x/threejs-textures",
-      "name": "threejs-textures",
-      "repo": "cloudai-x/threejs-skills",
-      "installs": 582,
-      "rank": 333,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-textures"
     },
     {
       "id": "ibelick/fixing-metadata",
       "name": "fixing-metadata",
       "repo": "ibelick/ui-skills",
-      "installs": 579,
-      "rank": 334,
+      "installs": 640,
+      "rank": 328,
       "url": "https://skills.sh/ibelick/ui-skills/fixing-metadata"
     },
     {
-      "id": "cloudai-x/threejs-lighting",
-      "name": "threejs-lighting",
+      "id": "wshobson/linkerd-patterns",
+      "name": "linkerd-patterns",
+      "repo": "wshobson/agents",
+      "installs": 637,
+      "rank": 329,
+      "url": "https://skills.sh/wshobson/agents/linkerd-patterns"
+    },
+    {
+      "id": "cloudai-x/threejs-interaction",
+      "name": "threejs-interaction",
       "repo": "cloudai-x/threejs-skills",
-      "installs": 578,
-      "rank": 335,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-lighting"
+      "installs": 635,
+      "rank": 330,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-interaction"
+    },
+    {
+      "id": "cloudai-x/threejs-materials",
+      "name": "threejs-materials",
+      "repo": "cloudai-x/threejs-skills",
+      "installs": 626,
+      "rank": 331,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-materials"
     },
     {
       "id": "anthropics/skill development",
       "name": "skill development",
       "repo": "anthropics/claude-code",
-      "installs": 576,
-      "rank": 336,
+      "installs": 619,
+      "rank": 332,
       "url": "https://skills.sh/anthropics/claude-code/skill development"
     },
     {
-      "id": "cloudai-x/threejs-loaders",
-      "name": "threejs-loaders",
+      "id": "cloudai-x/threejs-geometry",
+      "name": "threejs-geometry",
       "repo": "cloudai-x/threejs-skills",
-      "installs": 575,
-      "rank": 337,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-loaders"
+      "installs": 616,
+      "rank": 333,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-geometry"
     },
     {
       "id": "sickn33/nextjs-best-practices",
       "name": "nextjs-best-practices",
       "repo": "sickn33/antigravity-awesome-skills",
-      "installs": 575,
-      "rank": 338,
+      "installs": 613,
+      "rank": 334,
       "url": "https://skills.sh/sickn33/antigravity-awesome-skills/nextjs-best-practices"
     },
     {
-      "id": "cloudai-x/threejs-postprocessing",
-      "name": "threejs-postprocessing",
-      "repo": "cloudai-x/threejs-skills",
-      "installs": 570,
-      "rank": 339,
-      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-postprocessing"
+      "id": "langgenius/vercel-react-best-practices",
+      "name": "vercel-react-best-practices",
+      "repo": "langgenius/dify",
+      "installs": 612,
+      "rank": 335,
+      "url": "https://skills.sh/langgenius/dify/vercel-react-best-practices"
     },
     {
-      "id": "adithya-s-k/manimce-best-practices",
-      "name": "manimce-best-practices",
-      "repo": "adithya-s-k/manim_skill",
-      "installs": 565,
-      "rank": 340,
-      "url": "https://skills.sh/adithya-s-k/manim_skill/manimce-best-practices"
+      "id": "cloudai-x/threejs-textures",
+      "name": "threejs-textures",
+      "repo": "cloudai-x/threejs-skills",
+      "installs": 609,
+      "rank": 336,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-textures"
+    },
+    {
+      "id": "cloudai-x/threejs-lighting",
+      "name": "threejs-lighting",
+      "repo": "cloudai-x/threejs-skills",
+      "installs": 604,
+      "rank": 337,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-lighting"
+    },
+    {
+      "id": "cloudai-x/threejs-loaders",
+      "name": "threejs-loaders",
+      "repo": "cloudai-x/threejs-skills",
+      "installs": 601,
+      "rank": 338,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-loaders"
     },
     {
       "id": "kepano/obsidian-bases",
       "name": "obsidian-bases",
       "repo": "kepano/obsidian-skills",
-      "installs": 559,
-      "rank": 341,
+      "installs": 597,
+      "rank": 339,
       "url": "https://skills.sh/kepano/obsidian-skills/obsidian-bases"
     },
     {
-      "id": "emzod/speak-tts",
-      "name": "speak-tts",
-      "repo": "emzod/speak",
-      "installs": 556,
-      "rank": 342,
-      "url": "https://skills.sh/emzod/speak/speak-tts"
+      "id": "cloudai-x/threejs-postprocessing",
+      "name": "threejs-postprocessing",
+      "repo": "cloudai-x/threejs-skills",
+      "installs": 595,
+      "rank": 340,
+      "url": "https://skills.sh/cloudai-x/threejs-skills/threejs-postprocessing"
     },
     {
       "id": "anthropics/agent development",
       "name": "agent development",
       "repo": "anthropics/claude-code",
-      "installs": 545,
-      "rank": 343,
+      "installs": 591,
+      "rank": 341,
       "url": "https://skills.sh/anthropics/claude-code/agent development"
+    },
+    {
+      "id": "emzod/speakturbo-tts",
+      "name": "speakturbo-tts",
+      "repo": "emzod/speak-turbo",
+      "installs": 588,
+      "rank": 342,
+      "url": "https://skills.sh/emzod/speak-turbo/speakturbo-tts"
     },
     {
       "id": "vuejs-ai/vue-best-practices",
       "name": "vue-best-practices",
       "repo": "vuejs-ai/skills",
-      "installs": 530,
-      "rank": 344,
+      "installs": 581,
+      "rank": 343,
       "url": "https://skills.sh/vuejs-ai/skills/vue-best-practices"
     },
     {
-      "id": "dimillian/swiftui-ui-patterns",
-      "name": "swiftui-ui-patterns",
-      "repo": "dimillian/skills",
-      "installs": 528,
+      "id": "adithya-s-k/manimce-best-practices",
+      "name": "manimce-best-practices",
+      "repo": "adithya-s-k/manim_skill",
+      "installs": 577,
+      "rank": 344,
+      "url": "https://skills.sh/adithya-s-k/manim_skill/manimce-best-practices"
+    },
+    {
+      "id": "inference-sh/twitter-automation",
+      "name": "twitter-automation",
+      "repo": "inference-sh/skills",
+      "installs": 574,
       "rank": 345,
-      "url": "https://skills.sh/dimillian/skills/swiftui-ui-patterns"
+      "url": "https://skills.sh/inference-sh/skills/twitter-automation"
+    },
+    {
+      "id": "inference-sh/web-search",
+      "name": "web-search",
+      "repo": "inference-sh/skills",
+      "installs": 573,
+      "rank": 346,
+      "url": "https://skills.sh/inference-sh/skills/web-search"
+    },
+    {
+      "id": "inference-sh/ai-video-generation",
+      "name": "ai-video-generation",
+      "repo": "inference-sh/skills",
+      "installs": 569,
+      "rank": 347,
+      "url": "https://skills.sh/inference-sh/skills/ai-video-generation"
+    },
+    {
+      "id": "sickn33/security-review",
+      "name": "security-review",
+      "repo": "sickn33/antigravity-awesome-skills",
+      "installs": 567,
+      "rank": 348,
+      "url": "https://skills.sh/sickn33/antigravity-awesome-skills/security-review"
+    },
+    {
+      "id": "inference-sh/ai-image-generation",
+      "name": "ai-image-generation",
+      "repo": "inference-sh/skills",
+      "installs": 560,
+      "rank": 349,
+      "url": "https://skills.sh/inference-sh/skills/ai-image-generation"
     },
     {
       "id": "kepano/json-canvas",
       "name": "json-canvas",
       "repo": "kepano/obsidian-skills",
-      "installs": 516,
-      "rank": 346,
-      "url": "https://skills.sh/kepano/obsidian-skills/json-canvas"
-    },
-    {
-      "id": "onmax/vueuse",
-      "name": "vueuse",
-      "repo": "onmax/nuxt-skills",
-      "installs": 511,
-      "rank": 347,
-      "url": "https://skills.sh/onmax/nuxt-skills/vueuse"
-    },
-    {
-      "id": "dimillian/swiftui-liquid-glass",
-      "name": "swiftui-liquid-glass",
-      "repo": "dimillian/skills",
-      "installs": 507,
-      "rank": 348,
-      "url": "https://skills.sh/dimillian/skills/swiftui-liquid-glass"
-    },
-    {
-      "id": "anthropics/mcp integration",
-      "name": "mcp integration",
-      "repo": "anthropics/claude-code",
-      "installs": 506,
-      "rank": 349,
-      "url": "https://skills.sh/anthropics/claude-code/mcp integration"
-    },
-    {
-      "id": "adithya-s-k/manim-composer",
-      "name": "manim-composer",
-      "repo": "adithya-s-k/manim_skill",
-      "installs": 496,
+      "installs": 558,
       "rank": 350,
-      "url": "https://skills.sh/adithya-s-k/manim_skill/manim-composer"
+      "url": "https://skills.sh/kepano/obsidian-skills/json-canvas"
     }
   ]
 }
