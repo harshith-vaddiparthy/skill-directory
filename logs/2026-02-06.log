@@ -1,0 +1,6 @@
+[2026-02-06T06:01:39.425Z] === Skill Directory Update Started ===
+[2026-02-06T06:01:39.469Z] Previous skill count: 3853
+[2026-02-06T06:01:39.470Z] Step 1: Scraping skills.sh...
+[2026-02-06T06:01:39.471Z] Running: node scripts/scrape-skills-sh.js --limit=300
+[2026-02-06T06:01:56.608Z] Step 2: Scraping clawdhub.com...
+[2026-02-06T06:01:56.608Z] Running: node scripts/scrape-clawdhub.js
