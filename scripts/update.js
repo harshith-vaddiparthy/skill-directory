@@ -75,9 +75,9 @@ async function main() {
   log('Step 1: Scraping skills.sh...');
   const skillsShResult = run('node scripts/scrape-skills-sh.js --limit=300', { silent: true });
   
-  // Step 2: Scrape ClawdHub
+  // Step 2: Scrape ClawdHub (5 min timeout — Puppeteer can hang)
   log('Step 2: Scraping clawdhub.com...');
-  const clawdhubResult = run('node scripts/scrape-clawdhub.js', { silent: true });
+  const clawdhubResult = run('node scripts/scrape-clawdhub.js', { silent: true, timeout: 300000 });
   
   // Step 3: Transform
   log('Step 3: Transforming data...');
@@ -95,6 +95,22 @@ async function main() {
   }
   
   log(`New skill count: ${newCount} (${changes.added > 0 ? '+' : ''}${changes.added - changes.removed})`);
+  
+  // Safety check: refuse to commit if count drops by more than 10%
+  if (previousCount > 0 && newCount < previousCount * 0.9) {
+    log(`⚠️  SAFETY ABORT: Skill count dropped by ${previousCount - newCount} (${Math.round((1 - newCount / previousCount) * 100)}%). Likely a scraper failure. Restoring previous data.`);
+    // Restore combined.json from git
+    run('git checkout -- data/combined.json data/data.js', { silent: true });
+    log('Restored previous data files. Skipping commit.');
+    return {
+      success: false,
+      previousCount,
+      newCount,
+      changes,
+      aborted: true,
+      reason: 'Safety check: count dropped >10%'
+    };
+  }
   
   // Step 4: Update STATUS.md
   log('Step 4: Updating STATUS.md...');
