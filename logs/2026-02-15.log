@@ -1,0 +1,40 @@
+[2026-02-15T06:00:53.107Z] === Skill Directory Update Started ===
+[2026-02-15T06:00:53.137Z] Previous skill count: 3852
+[2026-02-15T06:00:53.137Z] Step 1: Scraping skills.sh...
+[2026-02-15T06:00:53.137Z] Running: node scripts/scrape-skills-sh.js --limit=300
+[2026-02-15T06:01:09.677Z] Step 2: Scraping clawdhub.com...
+[2026-02-15T06:01:09.677Z] Running: node scripts/scrape-clawdhub.js
+[2026-02-15T06:01:35.789Z] === Skill Directory Update Started ===
+[2026-02-15T06:01:35.821Z] Previous skill count: 3852
+[2026-02-15T06:01:35.823Z] Step 1: Scraping skills.sh...
+[2026-02-15T06:01:35.825Z] Running: node scripts/scrape-skills-sh.js --limit=300
+[2026-02-15T06:01:52.733Z] Step 2: Scraping clawdhub.com...
+[2026-02-15T06:01:52.734Z] Running: node scripts/scrape-clawdhub.js
+[2026-02-15T06:01:55.486Z] === Skill Directory Update Started ===
+[2026-02-15T06:01:55.526Z] Previous skill count: 3852
+[2026-02-15T06:01:55.526Z] Step 1: Scraping skills.sh...
+[2026-02-15T06:01:55.526Z] Running: node scripts/scrape-skills-sh.js --limit=300
+[2026-02-15T06:02:12.907Z] Step 2: Scraping clawdhub.com...
+[2026-02-15T06:02:12.907Z] Running: node scripts/scrape-clawdhub.js
+[2026-02-15T06:03:18.085Z] Step 3: Transforming data...
+[2026-02-15T06:03:18.087Z] Running: node scripts/transform.js
+[2026-02-15T06:03:18.093Z] Step 3: Transforming data...
+[2026-02-15T06:03:18.093Z] Running: node scripts/transform.js
+[2026-02-15T06:03:18.153Z] New skill count: 330 (-3522)
+[2026-02-15T06:03:18.153Z] ⚠️  SAFETY ABORT: Skill count dropped by 3522 (91%). Likely a scraper failure. Restoring previous data.
+[2026-02-15T06:03:18.153Z] Running: git checkout -- data/combined.json data/data.js
+[2026-02-15T06:03:18.159Z] Error: Command failed: git checkout -- data/combined.json data/data.js
+error: pathspec 'data/data.js' did not match any file(s) known to git
+
+[2026-02-15T06:03:18.160Z] Restored previous data files. Skipping commit.
+[2026-02-15T06:03:18.163Z] New skill count: 330 (-3522)
+[2026-02-15T06:03:18.164Z] ⚠️  SAFETY ABORT: Skill count dropped by 3522 (91%). Likely a scraper failure. Restoring previous data.
+[2026-02-15T06:03:18.164Z] Running: git checkout -- data/combined.json data/data.js
+[2026-02-15T06:03:18.168Z] Error: Command failed: git checkout -- data/combined.json data/data.js
+error: pathspec 'data/data.js' did not match any file(s) known to git
+
+[2026-02-15T06:03:18.168Z] Restored previous data files. Skipping commit.
+[2026-02-15T12:00:18.928Z] === Skill Directory Update Started ===
+[2026-02-15T12:00:18.932Z] Previous skill count: 330
+[2026-02-15T12:00:18.932Z] Step 1: Scraping skills.sh...
+[2026-02-15T12:00:18.932Z] Running: node scripts/scrape-skills-sh.js --limit=300
