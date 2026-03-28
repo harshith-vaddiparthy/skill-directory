@@ -27,7 +27,7 @@ async function scrapeClawdhub() {
   const skills = [];
   
   try {
-    await page.goto('https://clawdhub.com/skills', { waitUntil: 'networkidle2', timeout: 30000 });
+    await page.goto('https://clawhub.ai/skills', { waitUntil: 'networkidle2', timeout: 30000 });
     await new Promise(r => setTimeout(r, 3000)); // Wait for JS to render
     
     // Scroll to load all skills

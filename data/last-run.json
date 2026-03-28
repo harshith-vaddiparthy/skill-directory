@@ -1,1 +1,9 @@
-{"ran":"2026-03-20T06:06:33.556Z","total":314,"new":3,"clawdhubDown":true}
+{
+  "ran": "2026-03-28T06:00:00.000Z",
+  "total": 308,
+  "new": 0,
+  "removed": 0,
+  "netChange": -1,
+  "clawdhubDown": true,
+  "note": "No new skills today. 308 total (301 unique). ClawdHub scraper still hanging (Puppeteer timeout). 7 duplicate entries from skills.sh."
+}
