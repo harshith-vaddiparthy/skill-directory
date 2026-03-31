@@ -1,9 +1,9 @@
 {
-  "ran": "2026-03-28T06:00:00.000Z",
-  "total": 308,
-  "new": 0,
-  "removed": 0,
-  "netChange": -1,
+  "ran": "2026-03-31T06:06:08.471735Z",
+  "total": 306,
+  "new": 26,
+  "removed": 29,
+  "netChange": -3,
   "clawdhubDown": true,
-  "note": "No new skills today. 308 total (301 unique). ClawdHub scraper still hanging (Puppeteer timeout). 7 duplicate entries from skills.sh."
+  "note": "306 skills total (-3 net). 26 new from skills.sh (mostly awesome-copilot Azure/Microsoft skills, impeccable animation/hardening, marketing CRO skills, supercent-io monitoring). 29 removed. ClawdHub scraper still broken (Puppeteer detached frame)."
 }
