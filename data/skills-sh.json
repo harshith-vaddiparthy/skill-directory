@@ -1,6 +1,6 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-03-31T06:02:35.810Z",
+  "scrapedAt": "2026-04-03T06:03:57.383Z",
   "count": 306,
   "skills": [
     {
@@ -471,7 +471,7 @@
       "id": "pbakaus/onboard",
       "name": "onboard",
       "repo": "pbakaus/impeccable",
-      "installs": 33500,
+      "installs": 33600,
       "rank": 109,
       "url": "https://skills.sh/pbakaus/impeccable/onboard"
     },
@@ -527,7 +527,7 @@
       "id": "obra/subagent-driven-development",
       "name": "subagent-driven-development",
       "repo": "obra/superpowers",
-      "installs": 31300,
+      "installs": 31400,
       "rank": 116,
       "url": "https://skills.sh/obra/superpowers/subagent-driven-development"
     },
@@ -775,7 +775,7 @@
       "id": "google-labs-code/enhance-prompt",
       "name": "enhance-prompt",
       "repo": "google-labs-code/stitch-skills",
-      "installs": 22100,
+      "installs": 22200,
       "rank": 158,
       "url": "https://skills.sh/google-labs-code/stitch-skills/enhance-prompt"
     },
@@ -799,7 +799,7 @@
       "id": "firecrawl/firecrawl",
       "name": "firecrawl",
       "repo": "firecrawl/cli",
-      "installs": 21500,
+      "installs": 21600,
       "rank": 161,
       "url": "https://skills.sh/firecrawl/cli/firecrawl"
     },
@@ -959,7 +959,7 @@
       "id": "expo/native-data-fetching",
       "name": "native-data-fetching",
       "repo": "expo/skills",
-      "installs": 17200,
+      "installs": 17300,
       "rank": 182,
       "url": "https://skills.sh/expo/skills/native-data-fetching"
     },
@@ -1047,7 +1047,7 @@
       "id": "expo/upgrading-expo",
       "name": "upgrading-expo",
       "repo": "expo/skills",
-      "installs": 15400,
+      "installs": 15500,
       "rank": 199,
       "url": "https://skills.sh/expo/skills/upgrading-expo"
     },
@@ -1055,7 +1055,7 @@
       "id": "larksuite/lark-whiteboard",
       "name": "lark-whiteboard",
       "repo": "larksuite/cli",
-      "installs": 15400,
+      "installs": 15500,
       "rank": 200,
       "url": "https://skills.sh/larksuite/cli/lark-whiteboard"
     },
@@ -1127,7 +1127,7 @@
       "id": "google-labs-code/remotion",
       "name": "remotion",
       "repo": "google-labs-code/stitch-skills",
-      "installs": 14200,
+      "installs": 14300,
       "rank": 220,
       "url": "https://skills.sh/google-labs-code/stitch-skills/remotion"
     },
@@ -1215,7 +1215,7 @@
       "id": "hyf0/vue-best-practices",
       "name": "vue-best-practices",
       "repo": "hyf0/vue-skills",
-      "installs": 13700,
+      "installs": 13800,
       "rank": 235,
       "url": "https://skills.sh/hyf0/vue-skills/vue-best-practices"
     },
@@ -1479,7 +1479,7 @@
       "id": "github/documentation-writer",
       "name": "documentation-writer",
       "repo": "github/awesome-copilot",
-      "installs": 12000,
+      "installs": 12100,
       "rank": 269,
       "url": "https://skills.sh/github/awesome-copilot/documentation-writer"
     },
@@ -1596,20 +1596,20 @@
       "url": "https://skills.sh/hexiaochun/seedance2-api/seedance2-api"
     },
     {
-      "id": "supercent-io/performance-optimization",
-      "name": "performance-optimization",
-      "repo": "supercent-io/skills-template",
-      "installs": 11500,
-      "rank": 284,
-      "url": "https://skills.sh/supercent-io/skills-template/performance-optimization"
-    },
-    {
       "id": "kepano/obsidian-bases",
       "name": "obsidian-bases",
       "repo": "kepano/obsidian-skills",
       "installs": 11500,
-      "rank": 285,
+      "rank": 284,
       "url": "https://skills.sh/kepano/obsidian-skills/obsidian-bases"
+    },
+    {
+      "id": "supercent-io/performance-optimization",
+      "name": "performance-optimization",
+      "repo": "supercent-io/skills-template",
+      "installs": 11500,
+      "rank": 285,
+      "url": "https://skills.sh/supercent-io/skills-template/performance-optimization"
     },
     {
       "id": "jimliu/baoyu-format-markdown",
@@ -1728,22 +1728,22 @@
       "name": "gws-docs-write",
       "repo": "googleworkspace/cli",
       "installs": 10500,
-      "rank": 319,
+      "rank": 318,
       "url": "https://skills.sh/googleworkspace/cli/gws-docs-write"
     },
     {
-      "id": "supercent-io/skill-standardization",
-      "name": "skill-standardization",
+      "id": "supercent-io/standup-meeting",
+      "name": "standup-meeting",
       "repo": "supercent-io/skills-template",
       "installs": 10500,
-      "rank": 320,
-      "url": "https://skills.sh/supercent-io/skills-template/skill-standardization"
+      "rank": 319,
+      "url": "https://skills.sh/supercent-io/skills-template/standup-meeting"
     },
     {
       "id": "antfu/vitest",
       "name": "vitest",
       "repo": "antfu/skills",
-      "installs": 10400,
+      "installs": 10500,
       "rank": 326,
       "url": "https://skills.sh/antfu/skills/vitest"
     },
@@ -1788,28 +1788,20 @@
       "url": "https://skills.sh/supercent-io/skills-template/git-submodule"
     },
     {
-      "id": "supercent-io/plannotator",
-      "name": "plannotator",
-      "repo": "supercent-io/skills-template",
-      "installs": 10400,
-      "rank": 332,
-      "url": "https://skills.sh/supercent-io/skills-template/plannotator"
-    },
-    {
       "id": "get-convex/convex-create-component",
       "name": "convex-create-component",
       "repo": "get-convex/agent-skills",
       "installs": 10400,
-      "rank": 333,
+      "rank": 332,
       "url": "https://skills.sh/get-convex/agent-skills/convex-create-component"
     },
     {
-      "id": "supercent-io/omc",
-      "name": "omc",
+      "id": "supercent-io/plannotator",
+      "name": "plannotator",
       "repo": "supercent-io/skills-template",
       "installs": 10400,
-      "rank": 334,
-      "url": "https://skills.sh/supercent-io/skills-template/omc"
+      "rank": 333,
+      "url": "https://skills.sh/supercent-io/skills-template/plannotator"
     },
     {
       "id": "wshobson/architecture-patterns",
@@ -2007,7 +1999,7 @@
       "id": "kadajett/nestjs-best-practices",
       "name": "nestjs-best-practices",
       "repo": "kadajett/agent-nestjs-skills",
-      "installs": 9700,
+      "installs": 9800,
       "rank": 366,
       "url": "https://skills.sh/kadajett/agent-nestjs-skills/nestjs-best-practices"
     },
@@ -2119,7 +2111,7 @@
       "id": "sickn33/docker-expert",
       "name": "docker-expert",
       "repo": "sickn33/antigravity-awesome-skills",
-      "installs": 9000,
+      "installs": 9100,
       "rank": 383,
       "url": "https://skills.sh/sickn33/antigravity-awesome-skills/docker-expert"
     },
@@ -2340,20 +2332,20 @@
       "url": "https://skills.sh/github/awesome-copilot/azure-deployment-preflight"
     },
     {
-      "id": "github/appinsights-instrumentation",
-      "name": "appinsights-instrumentation",
-      "repo": "github/awesome-copilot",
-      "installs": 8100,
-      "rank": 420,
-      "url": "https://skills.sh/github/awesome-copilot/appinsights-instrumentation"
-    },
-    {
       "id": "inferen-sh/product-hunt-launch",
       "name": "product-hunt-launch",
       "repo": "inferen-sh/skills",
       "installs": 8100,
-      "rank": 421,
+      "rank": 420,
       "url": "https://skills.sh/inferen-sh/skills/product-hunt-launch"
+    },
+    {
+      "id": "github/appinsights-instrumentation",
+      "name": "appinsights-instrumentation",
+      "repo": "github/awesome-copilot",
+      "installs": 8100,
+      "rank": 421,
+      "url": "https://skills.sh/github/awesome-copilot/appinsights-instrumentation"
     },
     {
       "id": "github/azure-role-selector",
@@ -2447,9 +2439,17 @@
       "id": "github/agentic-eval",
       "name": "agentic-eval",
       "repo": "github/awesome-copilot",
-      "installs": 8000,
+      "installs": 8100,
       "rank": 433,
       "url": "https://skills.sh/github/awesome-copilot/agentic-eval"
+    },
+    {
+      "id": "github/dotnet-design-pattern-review",
+      "name": "dotnet-design-pattern-review",
+      "repo": "github/awesome-copilot",
+      "installs": 8000,
+      "rank": 434,
+      "url": "https://skills.sh/github/awesome-copilot/dotnet-design-pattern-review"
     }
   ]
 }

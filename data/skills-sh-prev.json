@@ -1,6 +1,6 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-03-31T06:02:35.810Z",
+  "scrapedAt": "2026-04-02T06:07:49.658Z",
   "count": 306,
   "skills": [
     {
@@ -471,7 +471,7 @@
       "id": "pbakaus/onboard",
       "name": "onboard",
       "repo": "pbakaus/impeccable",
-      "installs": 33500,
+      "installs": 33600,
       "rank": 109,
       "url": "https://skills.sh/pbakaus/impeccable/onboard"
     },
@@ -527,7 +527,7 @@
       "id": "obra/subagent-driven-development",
       "name": "subagent-driven-development",
       "repo": "obra/superpowers",
-      "installs": 31300,
+      "installs": 31400,
       "rank": 116,
       "url": "https://skills.sh/obra/superpowers/subagent-driven-development"
     },
@@ -775,7 +775,7 @@
       "id": "google-labs-code/enhance-prompt",
       "name": "enhance-prompt",
       "repo": "google-labs-code/stitch-skills",
-      "installs": 22100,
+      "installs": 22200,
       "rank": 158,
       "url": "https://skills.sh/google-labs-code/stitch-skills/enhance-prompt"
     },
@@ -959,7 +959,7 @@
       "id": "expo/native-data-fetching",
       "name": "native-data-fetching",
       "repo": "expo/skills",
-      "installs": 17200,
+      "installs": 17300,
       "rank": 182,
       "url": "https://skills.sh/expo/skills/native-data-fetching"
     },
@@ -1048,16 +1048,16 @@
       "name": "upgrading-expo",
       "repo": "expo/skills",
       "installs": 15400,
-      "rank": 199,
+      "rank": 200,
       "url": "https://skills.sh/expo/skills/upgrading-expo"
     },
     {
-      "id": "larksuite/lark-whiteboard",
-      "name": "lark-whiteboard",
+      "id": "larksuite/lark-contact",
+      "name": "lark-contact",
       "repo": "larksuite/cli",
       "installs": 15400,
-      "rank": 200,
-      "url": "https://skills.sh/larksuite/cli/lark-whiteboard"
+      "rank": 201,
+      "url": "https://skills.sh/larksuite/cli/lark-contact"
     },
     {
       "id": "jimliu/baoyu-image-gen",
@@ -1127,7 +1127,7 @@
       "id": "google-labs-code/remotion",
       "name": "remotion",
       "repo": "google-labs-code/stitch-skills",
-      "installs": 14200,
+      "installs": 14300,
       "rank": 220,
       "url": "https://skills.sh/google-labs-code/stitch-skills/remotion"
     },
@@ -2119,7 +2119,7 @@
       "id": "sickn33/docker-expert",
       "name": "docker-expert",
       "repo": "sickn33/antigravity-awesome-skills",
-      "installs": 9000,
+      "installs": 9100,
       "rank": 383,
       "url": "https://skills.sh/sickn33/antigravity-awesome-skills/docker-expert"
     },
@@ -2340,20 +2340,20 @@
       "url": "https://skills.sh/github/awesome-copilot/azure-deployment-preflight"
     },
     {
-      "id": "github/appinsights-instrumentation",
-      "name": "appinsights-instrumentation",
-      "repo": "github/awesome-copilot",
-      "installs": 8100,
-      "rank": 420,
-      "url": "https://skills.sh/github/awesome-copilot/appinsights-instrumentation"
-    },
-    {
       "id": "inferen-sh/product-hunt-launch",
       "name": "product-hunt-launch",
       "repo": "inferen-sh/skills",
       "installs": 8100,
-      "rank": 421,
+      "rank": 420,
       "url": "https://skills.sh/inferen-sh/skills/product-hunt-launch"
+    },
+    {
+      "id": "github/appinsights-instrumentation",
+      "name": "appinsights-instrumentation",
+      "repo": "github/awesome-copilot",
+      "installs": 8100,
+      "rank": 421,
+      "url": "https://skills.sh/github/awesome-copilot/appinsights-instrumentation"
     },
     {
       "id": "github/azure-role-selector",
@@ -2447,7 +2447,7 @@
       "id": "github/agentic-eval",
       "name": "agentic-eval",
       "repo": "github/awesome-copilot",
-      "installs": 8000,
+      "installs": 8100,
       "rank": 433,
       "url": "https://skills.sh/github/awesome-copilot/agentic-eval"
     }
