@@ -1,6 +1,6 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-04-03T06:03:57.383Z",
+  "scrapedAt": "2026-04-04T06:03:21.239Z",
   "count": 306,
   "skills": [
     {
@@ -783,7 +783,7 @@
       "id": "anthropics/algorithmic-art",
       "name": "algorithmic-art",
       "repo": "anthropics/skills",
-      "installs": 22100,
+      "installs": 22200,
       "rank": 159,
       "url": "https://skills.sh/anthropics/skills/algorithmic-art"
     },
@@ -823,7 +823,7 @@
       "id": "anthropics/theme-factory",
       "name": "theme-factory",
       "repo": "anthropics/skills",
-      "installs": 21300,
+      "installs": 21400,
       "rank": 164,
       "url": "https://skills.sh/anthropics/skills/theme-factory"
     },
@@ -1079,7 +1079,7 @@
       "id": "github/gh-cli",
       "name": "gh-cli",
       "repo": "github/awesome-copilot",
-      "installs": 14900,
+      "installs": 15000,
       "rank": 214,
       "url": "https://skills.sh/github/awesome-copilot/gh-cli"
     },
@@ -1700,52 +1700,52 @@
       "url": "https://skills.sh/supercent-io/skills-template/user-guide-writing"
     },
     {
-      "id": "supercent-io/ui-component-patterns",
-      "name": "ui-component-patterns",
-      "repo": "supercent-io/skills-template",
-      "installs": 10700,
-      "rank": 305,
-      "url": "https://skills.sh/supercent-io/skills-template/ui-component-patterns"
-    },
-    {
       "id": "wshobson/nextjs-app-router-patterns",
       "name": "nextjs-app-router-patterns",
       "repo": "wshobson/agents",
       "installs": 10700,
-      "rank": 306,
+      "rank": 305,
       "url": "https://skills.sh/wshobson/agents/nextjs-app-router-patterns"
     },
     {
-      "id": "supercent-io/ralph",
-      "name": "ralph",
+      "id": "supercent-io/ui-component-patterns",
+      "name": "ui-component-patterns",
       "repo": "supercent-io/skills-template",
       "installs": 10700,
-      "rank": 307,
-      "url": "https://skills.sh/supercent-io/skills-template/ralph"
+      "rank": 306,
+      "url": "https://skills.sh/supercent-io/skills-template/ui-component-patterns"
     },
     {
       "id": "googleworkspace/gws-docs-write",
       "name": "gws-docs-write",
       "repo": "googleworkspace/cli",
       "installs": 10500,
-      "rank": 318,
+      "rank": 317,
       "url": "https://skills.sh/googleworkspace/cli/gws-docs-write"
     },
     {
-      "id": "supercent-io/standup-meeting",
-      "name": "standup-meeting",
+      "id": "supercent-io/prompt-repetition",
+      "name": "prompt-repetition",
       "repo": "supercent-io/skills-template",
       "installs": 10500,
-      "rank": 319,
-      "url": "https://skills.sh/supercent-io/skills-template/standup-meeting"
+      "rank": 318,
+      "url": "https://skills.sh/supercent-io/skills-template/prompt-repetition"
     },
     {
       "id": "antfu/vitest",
       "name": "vitest",
       "repo": "antfu/skills",
       "installs": 10500,
-      "rank": 326,
+      "rank": 325,
       "url": "https://skills.sh/antfu/skills/vitest"
+    },
+    {
+      "id": "supercent-io/sprint-retrospective",
+      "name": "sprint-retrospective",
+      "repo": "supercent-io/skills-template",
+      "installs": 10500,
+      "rank": 326,
+      "url": "https://skills.sh/supercent-io/skills-template/sprint-retrospective"
     },
     {
       "id": "get-convex/convex-setup-auth",
@@ -2228,20 +2228,20 @@
       "url": "https://skills.sh/inferen-sh/skills/ai-social-media-content"
     },
     {
-      "id": "supercent-io/frontend-design-system",
-      "name": "frontend-design-system",
-      "repo": "supercent-io/skills-template",
-      "installs": 8500,
-      "rank": 401,
-      "url": "https://skills.sh/supercent-io/skills-template/frontend-design-system"
-    },
-    {
       "id": "steipete/summarize",
       "name": "summarize",
       "repo": "steipete/clawdis",
       "installs": 8500,
-      "rank": 402,
+      "rank": 401,
       "url": "https://skills.sh/steipete/clawdis/summarize"
+    },
+    {
+      "id": "supercent-io/frontend-design-system",
+      "name": "frontend-design-system",
+      "repo": "supercent-io/skills-template",
+      "installs": 8500,
+      "rank": 402,
+      "url": "https://skills.sh/supercent-io/skills-template/frontend-design-system"
     },
     {
       "id": "github/sql-optimization",
