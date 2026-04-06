@@ -1,6 +1,6 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-04-05T06:03:39.933Z",
+  "scrapedAt": "2026-04-06T06:01:26.860Z",
   "count": 307,
   "skills": [
     {
@@ -271,7 +271,7 @@
       "id": "anthropics/docx",
       "name": "docx",
       "repo": "anthropics/skills",
-      "installs": 43400,
+      "installs": 43500,
       "rank": 78,
       "url": "https://skills.sh/anthropics/skills/docx"
     },
@@ -863,7 +863,7 @@
       "id": "anthropics/internal-comms",
       "name": "internal-comms",
       "repo": "anthropics/skills",
-      "installs": 17700,
+      "installs": 17800,
       "rank": 177,
       "url": "https://skills.sh/anthropics/skills/internal-comms"
     },
@@ -1175,7 +1175,7 @@
       "id": "hyf0/vue-best-practices",
       "name": "vue-best-practices",
       "repo": "hyf0/vue-skills",
-      "installs": 13600,
+      "installs": 13700,
       "rank": 216,
       "url": "https://skills.sh/hyf0/vue-skills/vue-best-practices"
     },
@@ -2364,20 +2364,20 @@
       "url": "https://skills.sh/github/awesome-copilot/mcp-cli"
     },
     {
-      "id": "supercent-io/pptx-presentation-builder",
-      "name": "pptx-presentation-builder",
-      "repo": "supercent-io/skills-template",
-      "installs": 8000,
-      "rank": 434,
-      "url": "https://skills.sh/supercent-io/skills-template/pptx-presentation-builder"
-    },
-    {
       "id": "github/dotnet-design-pattern-review",
       "name": "dotnet-design-pattern-review",
       "repo": "github/awesome-copilot",
       "installs": 8000,
-      "rank": 435,
+      "rank": 434,
       "url": "https://skills.sh/github/awesome-copilot/dotnet-design-pattern-review"
+    },
+    {
+      "id": "supercent-io/pptx-presentation-builder",
+      "name": "pptx-presentation-builder",
+      "repo": "supercent-io/skills-template",
+      "installs": 8000,
+      "rank": 435,
+      "url": "https://skills.sh/supercent-io/skills-template/pptx-presentation-builder"
     },
     {
       "id": "supercent-io/marketing-skills-collection",
