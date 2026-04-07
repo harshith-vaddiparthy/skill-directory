@@ -1,7 +1,7 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-04-06T06:01:26.860Z",
-  "count": 307,
+  "scrapedAt": "2026-04-07T06:02:54.066Z",
+  "count": 308,
   "skills": [
     {
       "id": "vercel-labs/find-skills",
@@ -495,7 +495,7 @@
       "id": "coreyhaines31/copy-editing",
       "name": "copy-editing",
       "repo": "coreyhaines31/marketingskills",
-      "installs": 29600,
+      "installs": 29700,
       "rank": 117,
       "url": "https://skills.sh/coreyhaines31/marketingskills/copy-editing"
     },
@@ -1119,7 +1119,7 @@
       "id": "inferen-sh/agent-ui",
       "name": "agent-ui",
       "repo": "inferen-sh/skills",
-      "installs": 13900,
+      "installs": 14000,
       "rank": 209,
       "url": "https://skills.sh/inferen-sh/skills/agent-ui"
     },
@@ -1316,20 +1316,20 @@
       "url": "https://skills.sh/microsoft/playwright-cli/playwright-cli"
     },
     {
-      "id": "supercent-io/code-review",
-      "name": "code-review",
-      "repo": "supercent-io/skills-template",
-      "installs": 12500,
-      "rank": 238,
-      "url": "https://skills.sh/supercent-io/skills-template/code-review"
-    },
-    {
       "id": "googleworkspace/gws-drive",
       "name": "gws-drive",
       "repo": "googleworkspace/cli",
       "installs": 12500,
-      "rank": 239,
+      "rank": 238,
       "url": "https://skills.sh/googleworkspace/cli/gws-drive"
+    },
+    {
+      "id": "supercent-io/code-review",
+      "name": "code-review",
+      "repo": "supercent-io/skills-template",
+      "installs": 12500,
+      "rank": 239,
+      "url": "https://skills.sh/supercent-io/skills-template/code-review"
     },
     {
       "id": "github/prd",
@@ -1356,20 +1356,20 @@
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-danger-gemini-web"
     },
     {
-      "id": "supercent-io/database-schema-design",
-      "name": "database-schema-design",
-      "repo": "supercent-io/skills-template",
-      "installs": 12100,
-      "rank": 243,
-      "url": "https://skills.sh/supercent-io/skills-template/database-schema-design"
-    },
-    {
       "id": "jimliu/baoyu-compress-image",
       "name": "baoyu-compress-image",
       "repo": "jimliu/baoyu-skills",
       "installs": 12100,
-      "rank": 244,
+      "rank": 243,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-compress-image"
+    },
+    {
+      "id": "supercent-io/database-schema-design",
+      "name": "database-schema-design",
+      "repo": "supercent-io/skills-template",
+      "installs": 12100,
+      "rank": 244,
+      "url": "https://skills.sh/supercent-io/skills-template/database-schema-design"
     },
     {
       "id": "googleworkspace/gws-docs",
@@ -1535,7 +1535,7 @@
       "id": "kepano/obsidian-markdown",
       "name": "obsidian-markdown",
       "repo": "kepano/obsidian-skills",
-      "installs": 11300,
+      "installs": 11400,
       "rank": 265,
       "url": "https://skills.sh/kepano/obsidian-skills/obsidian-markdown"
     },
@@ -1564,12 +1564,36 @@
       "url": "https://skills.sh/supercent-io/skills-template/task-planning"
     },
     {
+      "id": "supercent-io/responsive-design",
+      "name": "responsive-design",
+      "repo": "supercent-io/skills-template",
+      "installs": 11200,
+      "rank": 269,
+      "url": "https://skills.sh/supercent-io/skills-template/responsive-design"
+    },
+    {
+      "id": "supercent-io/testing-strategies",
+      "name": "testing-strategies",
+      "repo": "supercent-io/skills-template",
+      "installs": 11200,
+      "rank": 270,
+      "url": "https://skills.sh/supercent-io/skills-template/testing-strategies"
+    },
+    {
       "id": "kepano/obsidian-bases",
       "name": "obsidian-bases",
       "repo": "kepano/obsidian-skills",
       "installs": 11200,
-      "rank": 272,
+      "rank": 271,
       "url": "https://skills.sh/kepano/obsidian-skills/obsidian-bases"
+    },
+    {
+      "id": "supercent-io/deployment-automation",
+      "name": "deployment-automation",
+      "repo": "supercent-io/skills-template",
+      "installs": 11200,
+      "rank": 272,
+      "url": "https://skills.sh/supercent-io/skills-template/deployment-automation"
     },
     {
       "id": "jimliu/baoyu-format-markdown",
@@ -1692,36 +1716,36 @@
       "url": "https://skills.sh/antfu/skills/vitest"
     },
     {
-      "id": "antfu/vue-best-practices",
-      "name": "vue-best-practices",
-      "repo": "antfu/skills",
-      "installs": 10200,
-      "rank": 316,
-      "url": "https://skills.sh/antfu/skills/vue-best-practices"
-    },
-    {
       "id": "wshobson/architecture-patterns",
       "name": "architecture-patterns",
       "repo": "wshobson/agents",
       "installs": 10200,
-      "rank": 317,
+      "rank": 316,
       "url": "https://skills.sh/wshobson/agents/architecture-patterns"
     },
     {
-      "id": "supercent-io/pollinations-ai",
-      "name": "pollinations-ai",
-      "repo": "supercent-io/skills-template",
+      "id": "antfu/vue-best-practices",
+      "name": "vue-best-practices",
+      "repo": "antfu/skills",
       "installs": 10200,
-      "rank": 318,
-      "url": "https://skills.sh/supercent-io/skills-template/pollinations-ai"
+      "rank": 317,
+      "url": "https://skills.sh/antfu/skills/vue-best-practices"
     },
     {
       "id": "googleworkspace/gws-docs-write",
       "name": "gws-docs-write",
       "repo": "googleworkspace/cli",
       "installs": 10200,
-      "rank": 319,
+      "rank": 318,
       "url": "https://skills.sh/googleworkspace/cli/gws-docs-write"
+    },
+    {
+      "id": "supercent-io/pollinations-ai",
+      "name": "pollinations-ai",
+      "repo": "supercent-io/skills-template",
+      "installs": 10200,
+      "rank": 319,
+      "url": "https://skills.sh/supercent-io/skills-template/pollinations-ai"
     },
     {
       "id": "supercent-io/agentic-workflow",
@@ -2316,20 +2340,20 @@
       "url": "https://skills.sh/github/awesome-copilot/webapp-testing"
     },
     {
-      "id": "googleworkspace/gws-tasks",
-      "name": "gws-tasks",
-      "repo": "googleworkspace/cli",
-      "installs": 8000,
-      "rank": 428,
-      "url": "https://skills.sh/googleworkspace/cli/gws-tasks"
-    },
-    {
       "id": "github/create-specification",
       "name": "create-specification",
       "repo": "github/awesome-copilot",
       "installs": 8000,
-      "rank": 429,
+      "rank": 428,
       "url": "https://skills.sh/github/awesome-copilot/create-specification"
+    },
+    {
+      "id": "googleworkspace/gws-tasks",
+      "name": "gws-tasks",
+      "repo": "googleworkspace/cli",
+      "installs": 8000,
+      "rank": 429,
+      "url": "https://skills.sh/googleworkspace/cli/gws-tasks"
     },
     {
       "id": "github/agentic-eval",
@@ -2442,22 +2466,6 @@
       "installs": 7900,
       "rank": 448,
       "url": "https://skills.sh/github/awesome-copilot/apple-appstore-reviewer"
-    },
-    {
-      "id": "wshobson/sql-optimization-patterns",
-      "name": "sql-optimization-patterns",
-      "repo": "wshobson/agents",
-      "installs": 7800,
-      "rank": 459,
-      "url": "https://skills.sh/wshobson/agents/sql-optimization-patterns"
-    },
-    {
-      "id": "github/scoutqa-test",
-      "name": "scoutqa-test",
-      "repo": "github/awesome-copilot",
-      "installs": 7800,
-      "rank": 460,
-      "url": "https://skills.sh/github/awesome-copilot/scoutqa-test"
     }
   ]
 }

@@ -1,29 +1,6 @@
 {
   "source": "clawdhub.com",
-  "scrapedAt": "2026-04-05T08:40:54.092Z",
-  "count": 2,
-  "skills": [
-    {
-      "id": "add-wish — Universal Add to Wishlist",
-      "name": "v1.1.0",
-      "slug": "/add-wish — Universal Add to Wishlist",
-      "description": "Save any product to a universal wishlist. Converts any product URL into a one-click \"save for later\" link. Works with any retailer, any AI platform, zero setup.",
-      "downloads": 0,
-      "installs": 0,
-      "stars": 0,
-      "versions": 1,
-      "url": "https://clawdhub.com/leebellon/add-wish"
-    },
-    {
-      "id": "Message",
-      "name": "v1.0.0",
-      "slug": "/Message",
-      "description": "Send a message to Jarvis by typing \"/message\" followed by your text. Works as a text command - triggers when you type \"/message\" in chat.",
-      "downloads": 0,
-      "installs": 0,
-      "stars": 0,
-      "versions": 1,
-      "url": "https://clawdhub.com/kishyxd/discordanywhere"
-    }
-  ]
+  "scrapedAt": "2026-04-07T06:02:18.097Z",
+  "count": 0,
+  "skills": []
 }
