@@ -1,6 +1,6 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-04-07T06:02:54.066Z",
+  "scrapedAt": "2026-04-08T06:02:36.569Z",
   "count": 308,
   "skills": [
     {
@@ -55,7 +55,7 @@
       "id": "vercel-labs/agent-browser",
       "name": "agent-browser",
       "repo": "vercel-labs/agent-browser",
-      "installs": 140400,
+      "installs": 140500,
       "rank": 22,
       "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser"
     },
@@ -519,7 +519,7 @@
       "id": "obra/verification-before-completion",
       "name": "verification-before-completion",
       "repo": "obra/superpowers",
-      "installs": 28700,
+      "installs": 28800,
       "rank": 120,
       "url": "https://skills.sh/obra/superpowers/verification-before-completion"
     },
@@ -1015,7 +1015,7 @@
       "id": "expo/expo-tailwind-setup",
       "name": "expo-tailwind-setup",
       "repo": "expo/skills",
-      "installs": 14600,
+      "installs": 14700,
       "rank": 196,
       "url": "https://skills.sh/expo/skills/expo-tailwind-setup"
     },
@@ -1359,7 +1359,7 @@
       "id": "jimliu/baoyu-compress-image",
       "name": "baoyu-compress-image",
       "repo": "jimliu/baoyu-skills",
-      "installs": 12100,
+      "installs": 12200,
       "rank": 243,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-compress-image"
     },
@@ -1716,20 +1716,20 @@
       "url": "https://skills.sh/antfu/skills/vitest"
     },
     {
-      "id": "wshobson/architecture-patterns",
-      "name": "architecture-patterns",
-      "repo": "wshobson/agents",
-      "installs": 10200,
-      "rank": 316,
-      "url": "https://skills.sh/wshobson/agents/architecture-patterns"
-    },
-    {
       "id": "antfu/vue-best-practices",
       "name": "vue-best-practices",
       "repo": "antfu/skills",
       "installs": 10200,
-      "rank": 317,
+      "rank": 316,
       "url": "https://skills.sh/antfu/skills/vue-best-practices"
+    },
+    {
+      "id": "wshobson/architecture-patterns",
+      "name": "architecture-patterns",
+      "repo": "wshobson/agents",
+      "installs": 10200,
+      "rank": 317,
+      "url": "https://skills.sh/wshobson/agents/architecture-patterns"
     },
     {
       "id": "googleworkspace/gws-docs-write",
@@ -1975,7 +1975,7 @@
       "id": "firecrawl/firecrawl-scrape",
       "name": "firecrawl-scrape",
       "repo": "firecrawl/cli",
-      "installs": 9400,
+      "installs": 9500,
       "rank": 348,
       "url": "https://skills.sh/firecrawl/cli/firecrawl-scrape"
     },
@@ -2136,16 +2136,16 @@
       "name": "gws-shared",
       "repo": "googleworkspace/cli",
       "installs": 8800,
-      "rank": 375,
+      "rank": 376,
       "url": "https://skills.sh/googleworkspace/cli/gws-shared"
     },
     {
-      "id": "larksuite/lark-task",
-      "name": "lark-task",
+      "id": "larksuite/lark-contact",
+      "name": "lark-contact",
       "repo": "larksuite/cli",
       "installs": 8800,
-      "rank": 376,
-      "url": "https://skills.sh/larksuite/cli/lark-task"
+      "rank": 377,
+      "url": "https://skills.sh/larksuite/cli/lark-contact"
     },
     {
       "id": "github/create-readme",
@@ -2167,7 +2167,7 @@
       "id": "github/playwright-generate-test",
       "name": "playwright-generate-test",
       "repo": "github/awesome-copilot",
-      "installs": 8700,
+      "installs": 8800,
       "rank": 391,
       "url": "https://skills.sh/github/awesome-copilot/playwright-generate-test"
     },
@@ -2223,7 +2223,7 @@
       "id": "inferen-sh/ai-social-media-content",
       "name": "ai-social-media-content",
       "repo": "inferen-sh/skills",
-      "installs": 8400,
+      "installs": 8500,
       "rank": 401,
       "url": "https://skills.sh/inferen-sh/skills/ai-social-media-content"
     },
@@ -2340,20 +2340,20 @@
       "url": "https://skills.sh/github/awesome-copilot/webapp-testing"
     },
     {
-      "id": "github/create-specification",
-      "name": "create-specification",
-      "repo": "github/awesome-copilot",
-      "installs": 8000,
-      "rank": 428,
-      "url": "https://skills.sh/github/awesome-copilot/create-specification"
-    },
-    {
       "id": "googleworkspace/gws-tasks",
       "name": "gws-tasks",
       "repo": "googleworkspace/cli",
       "installs": 8000,
-      "rank": 429,
+      "rank": 428,
       "url": "https://skills.sh/googleworkspace/cli/gws-tasks"
+    },
+    {
+      "id": "github/create-specification",
+      "name": "create-specification",
+      "repo": "github/awesome-copilot",
+      "installs": 8000,
+      "rank": 429,
+      "url": "https://skills.sh/github/awesome-copilot/create-specification"
     },
     {
       "id": "github/agentic-eval",
@@ -2420,28 +2420,20 @@
       "url": "https://skills.sh/wshobson/agents/mobile-android-design"
     },
     {
-      "id": "github/python-mcp-server-generator",
-      "name": "python-mcp-server-generator",
-      "repo": "github/awesome-copilot",
-      "installs": 7900,
-      "rank": 438,
-      "url": "https://skills.sh/github/awesome-copilot/python-mcp-server-generator"
-    },
-    {
       "id": "inferen-sh/speech-to-text",
       "name": "speech-to-text",
       "repo": "inferen-sh/skills",
       "installs": 7900,
-      "rank": 439,
+      "rank": 438,
       "url": "https://skills.sh/inferen-sh/skills/speech-to-text"
     },
     {
-      "id": "github/breakdown-feature-prd",
-      "name": "breakdown-feature-prd",
+      "id": "github/python-mcp-server-generator",
+      "name": "python-mcp-server-generator",
       "repo": "github/awesome-copilot",
       "installs": 7900,
-      "rank": 440,
-      "url": "https://skills.sh/github/awesome-copilot/breakdown-feature-prd"
+      "rank": 439,
+      "url": "https://skills.sh/github/awesome-copilot/python-mcp-server-generator"
     },
     {
       "id": "googleworkspace/gws-meet",
@@ -2466,6 +2458,14 @@
       "installs": 7900,
       "rank": 448,
       "url": "https://skills.sh/github/awesome-copilot/apple-appstore-reviewer"
+    },
+    {
+      "id": "wshobson/sql-optimization-patterns",
+      "name": "sql-optimization-patterns",
+      "repo": "wshobson/agents",
+      "installs": 7800,
+      "rank": 459,
+      "url": "https://skills.sh/wshobson/agents/sql-optimization-patterns"
     }
   ]
 }
