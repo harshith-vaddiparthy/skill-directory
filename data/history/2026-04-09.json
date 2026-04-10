@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T06:07:34.249Z",
+  "generatedAt": "2026-04-09T06:07:56.175Z",
   "totalSkills": 321,
   "bySource": {
     "skills.sh": 321,
@@ -32,7 +32,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/skills/find-skills",
       "installCommand": "npx skills add vercel-labs/find-skills",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/vercel-react-best-practices",
@@ -51,7 +51,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-best-practices",
       "installCommand": "npx skills add vercel-labs/vercel-react-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/frontend-design",
@@ -67,7 +67,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/frontend-design",
       "installCommand": "npx skills add anthropics/frontend-design",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/web-design-guidelines",
@@ -83,7 +83,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-skills/web-design-guidelines",
       "installCommand": "npx skills add vercel-labs/web-design-guidelines",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "remotion-dev/remotion-best-practices",
@@ -99,7 +99,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/remotion-dev/skills/remotion-best-practices",
       "installCommand": "npx skills add remotion-dev/remotion-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/agent-browser",
@@ -117,7 +117,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser",
       "installCommand": "npx skills add vercel-labs/agent-browser",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/microsoft-foundry",
@@ -133,7 +133,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/azure-skills/microsoft-foundry",
       "installCommand": "npx skills add microsoft/microsoft-foundry",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/entra-app-registration",
@@ -149,7 +149,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/github-copilot-for-azure/entra-app-registration",
       "installCommand": "npx skills add microsoft/entra-app-registration",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-cost-optimization",
@@ -165,7 +165,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/azure-skills/azure-cost-optimization",
       "installCommand": "npx skills add microsoft/azure-cost-optimization",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-quotas",
@@ -181,7 +181,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/azure-skills/azure-quotas",
       "installCommand": "npx skills add microsoft/azure-quotas",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-messaging",
@@ -197,7 +197,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-messaging",
       "installCommand": "npx skills add microsoft/azure-messaging",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/skill-creator",
@@ -213,7 +213,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/skill-creator",
       "installCommand": "npx skills add anthropics/skill-creator",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-upgrade",
@@ -229,7 +229,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/azure-skills/azure-upgrade",
       "installCommand": "npx skills add microsoft/azure-upgrade",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/vercel-composition-patterns",
@@ -247,7 +247,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-skills/vercel-composition-patterns",
       "installCommand": "npx skills add vercel-labs/vercel-composition-patterns",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/brainstorming",
@@ -265,7 +265,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/brainstorming",
       "installCommand": "npx skills add obra/brainstorming",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-observability",
@@ -281,7 +281,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-observability",
       "installCommand": "npx skills add microsoft/azure-observability",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-hosted-copilot-sdk",
@@ -297,7 +297,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-hosted-copilot-sdk",
       "installCommand": "npx skills add microsoft/azure-hosted-copilot-sdk",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "nextlevelbuilder/ui-ux-pro-max",
@@ -313,7 +313,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
       "installCommand": "npx skills add nextlevelbuilder/ui-ux-pro-max",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supabase/supabase-postgres-best-practices",
@@ -331,7 +331,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supabase/agent-skills/supabase-postgres-best-practices",
       "installCommand": "npx skills add supabase/supabase-postgres-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "shadcn/shadcn",
@@ -347,7 +347,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/shadcn/ui/shadcn",
       "installCommand": "npx skills add shadcn/shadcn",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/vercel-react-native-skills",
@@ -366,7 +366,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills",
       "installCommand": "npx skills add vercel-labs/vercel-react-native-skills",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "browser-use/browser-use",
@@ -384,7 +384,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/browser-use/browser-use/browser-use",
       "installCommand": "npx skills add browser-use/browser-use",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-enterprise-infra-planner",
@@ -400,7 +400,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/azure-skills/azure-enterprise-infra-planner",
       "installCommand": "npx skills add microsoft/azure-enterprise-infra-planner",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "soultrace-ai/soultrace",
@@ -416,7 +416,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/soultrace-ai/soultrace-skill/soultrace",
       "installCommand": "npx skills add soultrace-ai/soultrace",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/copywriting",
@@ -432,7 +432,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/copywriting",
       "installCommand": "npx skills add coreyhaines31/copywriting",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/seo-audit",
@@ -450,7 +450,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/seo-audit",
       "installCommand": "npx skills add coreyhaines31/seo-audit",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "roin-orca/simple",
@@ -466,7 +466,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/roin-orca/skills/simple",
       "installCommand": "npx skills add roin-orca/simple",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/pdf",
@@ -484,7 +484,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/pdf",
       "installCommand": "npx skills add anthropics/pdf",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/next-best-practices",
@@ -502,7 +502,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/next-skills/next-best-practices",
       "installCommand": "npx skills add vercel-labs/next-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-kubernetes",
@@ -518,7 +518,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/azure-skills/azure-kubernetes",
       "installCommand": "npx skills add microsoft/azure-kubernetes",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/pptx",
@@ -534,7 +534,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/pptx",
       "installCommand": "npx skills add anthropics/pptx",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-compute",
@@ -550,7 +550,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-compute",
       "installCommand": "npx skills add microsoft/azure-compute",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/writing-plans",
@@ -566,7 +566,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/writing-plans",
       "installCommand": "npx skills add obra/writing-plans",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/docx",
@@ -582,7 +582,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/docx",
       "installCommand": "npx skills add anthropics/docx",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/polish",
@@ -598,7 +598,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/polish",
       "installCommand": "npx skills add pbakaus/polish",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/running-claude-code-via-litellm-copilot",
@@ -614,7 +614,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/running-claude-code-via-litellm-copilot",
       "installCommand": "npx skills add xixu-me/running-claude-code-via-litellm-copilot",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/skills-cli",
@@ -632,7 +632,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/skills-cli",
       "installCommand": "npx skills add xixu-me/skills-cli",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/secure-linux-web-hosting",
@@ -648,7 +648,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/secure-linux-web-hosting",
       "installCommand": "npx skills add xixu-me/secure-linux-web-hosting",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/frontend-design",
@@ -664,7 +664,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/frontend-design",
       "installCommand": "npx skills add pbakaus/frontend-design",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/openclaw-secure-linux-cloud",
@@ -680,7 +680,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/openclaw-secure-linux-cloud",
       "installCommand": "npx skills add xixu-me/openclaw-secure-linux-cloud",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/opensource-guide-coach",
@@ -696,7 +696,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/opensource-guide-coach",
       "installCommand": "npx skills add xixu-me/opensource-guide-coach",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/teach-impeccable",
@@ -712,7 +712,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/teach-impeccable",
       "installCommand": "npx skills add pbakaus/teach-impeccable",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/critique",
@@ -728,7 +728,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/critique",
       "installCommand": "npx skills add pbakaus/critique",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/using-superpowers",
@@ -744,7 +744,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/using-superpowers",
       "installCommand": "npx skills add obra/using-superpowers",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/adapt",
@@ -760,7 +760,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/adapt",
       "installCommand": "npx skills add pbakaus/adapt",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/use-my-browser",
@@ -778,7 +778,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/use-my-browser",
       "installCommand": "npx skills add xixu-me/use-my-browser",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/audit",
@@ -794,7 +794,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/audit",
       "installCommand": "npx skills add pbakaus/audit",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/readme-i18n",
@@ -810,7 +810,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/readme-i18n",
       "installCommand": "npx skills add xixu-me/readme-i18n",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/animate",
@@ -826,7 +826,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/animate",
       "installCommand": "npx skills add pbakaus/animate",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/normalize",
@@ -842,7 +842,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/normalize",
       "installCommand": "npx skills add pbakaus/normalize",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/quieter",
@@ -858,7 +858,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/quieter",
       "installCommand": "npx skills add pbakaus/quieter",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/xget",
@@ -874,7 +874,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/xget",
       "installCommand": "npx skills add xixu-me/xget",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/tzst",
@@ -890,7 +890,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/tzst",
       "installCommand": "npx skills add xixu-me/tzst",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/clarify",
@@ -906,7 +906,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/clarify",
       "installCommand": "npx skills add pbakaus/clarify",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/xdrop",
@@ -922,7 +922,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/xdrop",
       "installCommand": "npx skills add xixu-me/xdrop",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/colorize",
@@ -938,7 +938,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/colorize",
       "installCommand": "npx skills add pbakaus/colorize",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/onboard",
@@ -954,7 +954,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/onboard",
       "installCommand": "npx skills add pbakaus/onboard",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "squirrelscan/audit-website",
@@ -970,7 +970,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/squirrelscan/skills/audit-website",
       "installCommand": "npx skills add squirrelscan/audit-website",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "xixu-me/github-actions-docs",
@@ -988,7 +988,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/xixu-me/skills/github-actions-docs",
       "installCommand": "npx skills add xixu-me/github-actions-docs",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/bolder",
@@ -1004,7 +1004,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/bolder",
       "installCommand": "npx skills add pbakaus/bolder",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/delight",
@@ -1020,7 +1020,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/delight",
       "installCommand": "npx skills add pbakaus/delight",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/extract",
@@ -1036,7 +1036,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/extract",
       "installCommand": "npx skills add pbakaus/extract",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/systematic-debugging",
@@ -1052,7 +1052,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/systematic-debugging",
       "installCommand": "npx skills add obra/systematic-debugging",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "sleekdotdesign/sleek-design-mobile-apps",
@@ -1068,7 +1068,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/sleekdotdesign/agent-skills/sleek-design-mobile-apps",
       "installCommand": "npx skills add sleekdotdesign/sleek-design-mobile-apps",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/harden",
@@ -1084,7 +1084,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/harden",
       "installCommand": "npx skills add pbakaus/harden",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/distill",
@@ -1100,7 +1100,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/distill",
       "installCommand": "npx skills add pbakaus/distill",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/optimize",
@@ -1116,7 +1116,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/optimize",
       "installCommand": "npx skills add pbakaus/optimize",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/requesting-code-review",
@@ -1132,7 +1132,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/requesting-code-review",
       "installCommand": "npx skills add obra/requesting-code-review",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/executing-plans",
@@ -1148,7 +1148,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/executing-plans",
       "installCommand": "npx skills add obra/executing-plans",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/webapp-testing",
@@ -1166,7 +1166,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/webapp-testing",
       "installCommand": "npx skills add anthropics/webapp-testing",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/xlsx",
@@ -1182,7 +1182,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/xlsx",
       "installCommand": "npx skills add anthropics/xlsx",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/content-strategy",
@@ -1198,7 +1198,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/content-strategy",
       "installCommand": "npx skills add coreyhaines31/content-strategy",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/test-driven-development",
@@ -1214,7 +1214,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/test-driven-development",
       "installCommand": "npx skills add obra/test-driven-development",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-cloud-migrate",
@@ -1230,7 +1230,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-cloud-migrate",
       "installCommand": "npx skills add microsoft/azure-cloud-migrate",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-postgres",
@@ -1246,7 +1246,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/github-copilot-for-azure/azure-postgres",
       "installCommand": "npx skills add microsoft/azure-postgres",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/marketing-psychology",
@@ -1264,7 +1264,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/marketing-psychology",
       "installCommand": "npx skills add coreyhaines31/marketing-psychology",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/subagent-driven-development",
@@ -1280,7 +1280,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/subagent-driven-development",
       "installCommand": "npx skills add obra/subagent-driven-development",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/social-content",
@@ -1296,7 +1296,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/social-content",
       "installCommand": "npx skills add coreyhaines31/social-content",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/copy-editing",
@@ -1312,7 +1312,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/copy-editing",
       "installCommand": "npx skills add coreyhaines31/copy-editing",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/programmatic-seo",
@@ -1330,7 +1330,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/programmatic-seo",
       "installCommand": "npx skills add coreyhaines31/programmatic-seo",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/receiving-code-review",
@@ -1346,7 +1346,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/receiving-code-review",
       "installCommand": "npx skills add obra/receiving-code-review",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "better-auth/better-auth-best-practices",
@@ -1362,7 +1362,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/better-auth/skills/better-auth-best-practices",
       "installCommand": "npx skills add better-auth/better-auth-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/analytics-tracking",
@@ -1378,7 +1378,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/analytics-tracking",
       "installCommand": "npx skills add coreyhaines31/analytics-tracking",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/canvas-design",
@@ -1394,7 +1394,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/canvas-design",
       "installCommand": "npx skills add anthropics/canvas-design",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/pricing-strategy",
@@ -1410,7 +1410,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/pricing-strategy",
       "installCommand": "npx skills add coreyhaines31/pricing-strategy",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/marketing-ideas",
@@ -1428,11 +1428,11 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/marketing-ideas",
       "installCommand": "npx skills add coreyhaines31/marketing-ideas",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
-      "id": "larksuite/lark-doc",
-      "name": "lark-doc",
+      "id": "larksuite/lark-im",
+      "name": "lark-im",
       "author": "larksuite",
       "repo": "larksuite/cli",
       "description": "",
@@ -1442,9 +1442,9 @@
       "category": "Frontend",
       "tags": [],
       "source": "skills.sh",
-      "url": "https://skills.sh/larksuite/cli/lark-doc",
-      "installCommand": "npx skills add larksuite/lark-doc",
-      "lastUpdated": "2026-04-10"
+      "url": "https://skills.sh/larksuite/cli/lark-im",
+      "installCommand": "npx skills add larksuite/lark-im",
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/email-sequence",
@@ -1463,7 +1463,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/email-sequence",
       "installCommand": "npx skills add coreyhaines31/email-sequence",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "larksuite/lark-drive",
@@ -1479,7 +1479,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/larksuite/cli/lark-drive",
       "installCommand": "npx skills add larksuite/lark-drive",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/dispatching-parallel-agents",
@@ -1495,7 +1495,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/dispatching-parallel-agents",
       "installCommand": "npx skills add obra/dispatching-parallel-agents",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/product-marketing-context",
@@ -1513,7 +1513,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/product-marketing-context",
       "installCommand": "npx skills add coreyhaines31/product-marketing-context",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/competitor-alternatives",
@@ -1529,7 +1529,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/competitor-alternatives",
       "installCommand": "npx skills add coreyhaines31/competitor-alternatives",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "google-labs-code/design-md",
@@ -1545,7 +1545,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/google-labs-code/stitch-skills/design-md",
       "installCommand": "npx skills add google-labs-code/design-md",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/verification-before-completion",
@@ -1561,7 +1561,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/verification-before-completion",
       "installCommand": "npx skills add obra/verification-before-completion",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/overdrive",
@@ -1577,7 +1577,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/overdrive",
       "installCommand": "npx skills add pbakaus/overdrive",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/typeset",
@@ -1593,7 +1593,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/typeset",
       "installCommand": "npx skills add pbakaus/typeset",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/writing-skills",
@@ -1609,7 +1609,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/writing-skills",
       "installCommand": "npx skills add obra/writing-skills",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/tailwind-design-system",
@@ -1627,7 +1627,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/tailwind-design-system",
       "installCommand": "npx skills add wshobson/tailwind-design-system",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pbakaus/arrange",
@@ -1643,7 +1643,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pbakaus/impeccable/arrange",
       "installCommand": "npx skills add pbakaus/arrange",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/ab-test-setup",
@@ -1659,7 +1659,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/ab-test-setup",
       "installCommand": "npx skills add coreyhaines31/ab-test-setup",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/page-cro",
@@ -1675,7 +1675,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/page-cro",
       "installCommand": "npx skills add coreyhaines31/page-cro",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/mcp-builder",
@@ -1693,7 +1693,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/mcp-builder",
       "installCommand": "npx skills add anthropics/mcp-builder",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/using-git-worktrees",
@@ -1709,7 +1709,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/using-git-worktrees",
       "installCommand": "npx skills add obra/using-git-worktrees",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/schema-markup",
@@ -1725,7 +1725,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/schema-markup",
       "installCommand": "npx skills add coreyhaines31/schema-markup",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "google-labs-code/enhance-prompt",
@@ -1741,7 +1741,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/google-labs-code/stitch-skills/enhance-prompt",
       "installCommand": "npx skills add google-labs-code/enhance-prompt",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/launch-strategy",
@@ -1757,7 +1757,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/launch-strategy",
       "installCommand": "npx skills add coreyhaines31/launch-strategy",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "google-labs-code/react:components",
@@ -1775,7 +1775,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/google-labs-code/stitch-skills/react:components",
       "installCommand": "npx skills add google-labs-code/react:components",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/referral-program",
@@ -1791,7 +1791,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/referral-program",
       "installCommand": "npx skills add coreyhaines31/referral-program",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "obra/finishing-a-development-branch",
@@ -1807,7 +1807,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/obra/superpowers/finishing-a-development-branch",
       "installCommand": "npx skills add obra/finishing-a-development-branch",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/free-tool-strategy",
@@ -1823,7 +1823,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/free-tool-strategy",
       "installCommand": "npx skills add coreyhaines31/free-tool-strategy",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "expo/building-native-ui",
@@ -1839,7 +1839,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/expo/skills/building-native-ui",
       "installCommand": "npx skills add expo/building-native-ui",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/algorithmic-art",
@@ -1855,7 +1855,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/algorithmic-art",
       "installCommand": "npx skills add anthropics/algorithmic-art",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/paywall-upgrade-cro",
@@ -1871,7 +1871,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/paywall-upgrade-cro",
       "installCommand": "npx skills add coreyhaines31/paywall-upgrade-cro",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/signup-flow-cro",
@@ -1887,7 +1887,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/signup-flow-cro",
       "installCommand": "npx skills add coreyhaines31/signup-flow-cro",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/popup-cro",
@@ -1903,7 +1903,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/popup-cro",
       "installCommand": "npx skills add coreyhaines31/popup-cro",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firecrawl/firecrawl",
@@ -1919,7 +1919,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firecrawl/cli/firecrawl",
       "installCommand": "npx skills add firecrawl/firecrawl",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/typescript-advanced-types",
@@ -1937,7 +1937,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/typescript-advanced-types",
       "installCommand": "npx skills add wshobson/typescript-advanced-types",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/deploy-to-vercel",
@@ -1955,7 +1955,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-skills/deploy-to-vercel",
       "installCommand": "npx skills add vercel-labs/deploy-to-vercel",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/ai-seo",
@@ -1974,7 +1974,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/ai-seo",
       "installCommand": "npx skills add coreyhaines31/ai-seo",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "google-labs-code/stitch-loop",
@@ -1990,7 +1990,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/google-labs-code/stitch-skills/stitch-loop",
       "installCommand": "npx skills add google-labs-code/stitch-loop",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/doc-coauthoring",
@@ -2006,7 +2006,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/doc-coauthoring",
       "installCommand": "npx skills add anthropics/doc-coauthoring",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/cold-email",
@@ -2025,7 +2025,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/cold-email",
       "installCommand": "npx skills add coreyhaines31/cold-email",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/brand-guidelines",
@@ -2041,7 +2041,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/brand-guidelines",
       "installCommand": "npx skills add anthropics/brand-guidelines",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/web-artifacts-builder",
@@ -2057,7 +2057,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/web-artifacts-builder",
       "installCommand": "npx skills add anthropics/web-artifacts-builder",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "google-labs-code/shadcn-ui",
@@ -2073,7 +2073,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/google-labs-code/stitch-skills/shadcn-ui",
       "installCommand": "npx skills add google-labs-code/shadcn-ui",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/ad-creative",
@@ -2089,7 +2089,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/ad-creative",
       "installCommand": "npx skills add coreyhaines31/ad-creative",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "charon-fan/self-improving-agent",
@@ -2105,7 +2105,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/charon-fan/agent-playbook/self-improving-agent",
       "installCommand": "npx skills add charon-fan/self-improving-agent",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "currents-dev/playwright-best-practices",
@@ -2121,7 +2121,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/currents-dev/playwright-best-practices-skill/playwright-best-practices",
       "installCommand": "npx skills add currents-dev/playwright-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/churn-prevention",
@@ -2137,7 +2137,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/churn-prevention",
       "installCommand": "npx skills add coreyhaines31/churn-prevention",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/theme-factory",
@@ -2153,7 +2153,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/theme-factory",
       "installCommand": "npx skills add anthropics/theme-factory",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "resciencelab/seo-geo",
@@ -2171,7 +2171,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/resciencelab/opc-skills/seo-geo",
       "installCommand": "npx skills add resciencelab/seo-geo",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pexoai/pexo-agent",
@@ -2187,7 +2187,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pexoai/pexo-skills/pexo-agent",
       "installCommand": "npx skills add pexoai/pexo-agent",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/sales-enablement",
@@ -2203,7 +2203,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/sales-enablement",
       "installCommand": "npx skills add coreyhaines31/sales-enablement",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/site-architecture",
@@ -2219,7 +2219,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/site-architecture",
       "installCommand": "npx skills add coreyhaines31/site-architecture",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/revops",
@@ -2235,7 +2235,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/revops",
       "installCommand": "npx skills add coreyhaines31/revops",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/git-commit",
@@ -2251,7 +2251,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/git-commit",
       "installCommand": "npx skills add github/git-commit",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "lllllllama/repo-intake-and-plan",
@@ -2267,7 +2267,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/repo-intake-and-plan",
       "installCommand": "npx skills add lllllllama/repo-intake-and-plan",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "neondatabase/neon-postgres",
@@ -2283,7 +2283,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/neondatabase/agent-skills/neon-postgres",
       "installCommand": "npx skills add neondatabase/neon-postgres",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/nodejs-backend-patterns",
@@ -2301,7 +2301,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/nodejs-backend-patterns",
       "installCommand": "npx skills add wshobson/nodejs-backend-patterns",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "expo/native-data-fetching",
@@ -2317,7 +2317,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/expo/skills/native-data-fetching",
       "installCommand": "npx skills add expo/native-data-fetching",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "hugmouse/value",
@@ -2333,7 +2333,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/hugmouse/skills/value",
       "installCommand": "npx skills add hugmouse/value",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "mattpocock/grill-me",
@@ -2349,7 +2349,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/mattpocock/skills/grill-me",
       "installCommand": "npx skills add mattpocock/grill-me",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "expo/expo-tailwind-setup",
@@ -2367,7 +2367,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/expo/skills/expo-tailwind-setup",
       "installCommand": "npx skills add expo/expo-tailwind-setup",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/dogfood",
@@ -2383,7 +2383,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-browser/dogfood",
       "installCommand": "npx skills add vercel-labs/dogfood",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-post-to-wechat",
@@ -2399,7 +2399,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat",
       "installCommand": "npx skills add jimliu/baoyu-post-to-wechat",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/internal-comms",
@@ -2415,7 +2415,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/internal-comms",
       "installCommand": "npx skills add anthropics/internal-comms",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "lllllllama/paper-context-resolver",
@@ -2431,7 +2431,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/paper-context-resolver",
       "installCommand": "npx skills add lllllllama/paper-context-resolver",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "lllllllama/minimal-run-and-audit",
@@ -2447,7 +2447,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/minimal-run-and-audit",
       "installCommand": "npx skills add lllllllama/minimal-run-and-audit",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "lllllllama/env-and-assets-bootstrap",
@@ -2463,7 +2463,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/env-and-assets-bootstrap",
       "installCommand": "npx skills add lllllllama/env-and-assets-bootstrap",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/slack-gif-creator",
@@ -2481,7 +2481,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/slack-gif-creator",
       "installCommand": "npx skills add anthropics/slack-gif-creator",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "get-convex/convex-quickstart",
@@ -2497,7 +2497,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/get-convex/agent-skills/convex-quickstart",
       "installCommand": "npx skills add get-convex/convex-quickstart",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel/ai-sdk",
@@ -2515,7 +2515,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel/ai/ai-sdk",
       "installCommand": "npx skills add vercel/ai-sdk",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/template-skill",
@@ -2531,7 +2531,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/template-skill",
       "installCommand": "npx skills add anthropics/template-skill",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-image-gen",
@@ -2547,7 +2547,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-image-gen",
       "installCommand": "npx skills add jimliu/baoyu-image-gen",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/api-design-principles",
@@ -2565,7 +2565,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/api-design-principles",
       "installCommand": "npx skills add wshobson/api-design-principles",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "get-convex/convex-setup-auth",
@@ -2581,7 +2581,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/get-convex/agent-skills/convex-setup-auth",
       "installCommand": "npx skills add get-convex/convex-setup-auth",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "expo/expo-api-routes",
@@ -2599,7 +2599,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/expo/skills/expo-api-routes",
       "installCommand": "npx skills add expo/expo-api-routes",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "get-convex/convex-migration-helper",
@@ -2615,7 +2615,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/get-convex/agent-skills/convex-migration-helper",
       "installCommand": "npx skills add get-convex/convex-migration-helper",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "get-convex/convex-create-component",
@@ -2631,7 +2631,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/get-convex/agent-skills/convex-create-component",
       "installCommand": "npx skills add get-convex/convex-create-component",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/next-cache-components",
@@ -2649,7 +2649,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/next-skills/next-cache-components",
       "installCommand": "npx skills add vercel-labs/next-cache-components",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "get-convex/convex-performance-audit",
@@ -2665,7 +2665,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/get-convex/agent-skills/convex-performance-audit",
       "installCommand": "npx skills add get-convex/convex-performance-audit",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel/turborepo",
@@ -2681,7 +2681,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel/turborepo/turborepo",
       "installCommand": "npx skills add vercel/turborepo",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "expo/expo-cicd-workflows",
@@ -2697,7 +2697,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/expo/skills/expo-cicd-workflows",
       "installCommand": "npx skills add expo/expo-cicd-workflows",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/azure-cost",
@@ -2713,7 +2713,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/azure-skills/azure-cost",
       "installCommand": "npx skills add microsoft/azure-cost",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-xhs-images",
@@ -2729,7 +2729,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-xhs-images",
       "installCommand": "npx skills add jimliu/baoyu-xhs-images",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "expo/expo-dev-client",
@@ -2747,7 +2747,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/expo/skills/expo-dev-client",
       "installCommand": "npx skills add expo/expo-dev-client",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "expo/expo-deployment",
@@ -2763,7 +2763,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/expo/skills/expo-deployment",
       "installCommand": "npx skills add expo/expo-deployment",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-markdown-to-html",
@@ -2779,7 +2779,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-markdown-to-html",
       "installCommand": "npx skills add jimliu/baoyu-markdown-to-html",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "aaron-he-zhu/backlink-analyzer",
@@ -2795,7 +2795,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/aaron-he-zhu/seo-geo-claude-skills/backlink-analyzer",
       "installCommand": "npx skills add aaron-he-zhu/backlink-analyzer",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "microsoft/playwright-cli",
@@ -2813,7 +2813,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/microsoft/playwright-cli/playwright-cli",
       "installCommand": "npx skills add microsoft/playwright-cli",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-article-illustrator",
@@ -2829,7 +2829,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-article-illustrator",
       "installCommand": "npx skills add jimliu/baoyu-article-illustrator",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-cover-image",
@@ -2845,7 +2845,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-cover-image",
       "installCommand": "npx skills add jimliu/baoyu-cover-image",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-gmail",
@@ -2863,7 +2863,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-gmail",
       "installCommand": "npx skills add googleworkspace/gws-gmail",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/python-performance-optimization",
@@ -2881,7 +2881,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/python-performance-optimization",
       "installCommand": "npx skills add wshobson/python-performance-optimization",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "hyf0/vue-best-practices",
@@ -2899,7 +2899,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/hyf0/vue-skills/vue-best-practices",
       "installCommand": "npx skills add hyf0/vue-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "expo/upgrading-expo",
@@ -2915,7 +2915,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/expo/skills/upgrading-expo",
       "installCommand": "npx skills add expo/upgrading-expo",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "google-labs-code/remotion",
@@ -2931,7 +2931,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/google-labs-code/stitch-skills/remotion",
       "installCommand": "npx skills add google-labs-code/remotion",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-drive",
@@ -2947,7 +2947,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-drive",
       "installCommand": "npx skills add googleworkspace/gws-drive",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "arvindrk/extract-design-system",
@@ -2963,7 +2963,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/arvindrk/extract-design-system/extract-design-system",
       "installCommand": "npx skills add arvindrk/extract-design-system",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "useai-pro/skill-vetter",
@@ -2979,7 +2979,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/useai-pro/openclaw-skills-security/skill-vetter",
       "installCommand": "npx skills add useai-pro/skill-vetter",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-slide-deck",
@@ -2995,7 +2995,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-slide-deck",
       "installCommand": "npx skills add jimliu/baoyu-slide-deck",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-docs",
@@ -3011,7 +3011,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-docs",
       "installCommand": "npx skills add googleworkspace/gws-docs",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/gh-cli",
@@ -3029,7 +3029,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/gh-cli",
       "installCommand": "npx skills add github/gh-cli",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-infographic",
@@ -3045,7 +3045,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-infographic",
       "installCommand": "npx skills add jimliu/baoyu-infographic",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-url-to-markdown",
@@ -3061,7 +3061,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-url-to-markdown",
       "installCommand": "npx skills add jimliu/baoyu-url-to-markdown",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "antfu/vue",
@@ -3079,7 +3079,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/antfu/skills/vue",
       "installCommand": "npx skills add antfu/vue",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "kepano/obsidian-markdown",
@@ -3095,7 +3095,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/kepano/obsidian-skills/obsidian-markdown",
       "installCommand": "npx skills add kepano/obsidian-markdown",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-comic",
@@ -3111,7 +3111,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-comic",
       "installCommand": "npx skills add jimliu/baoyu-comic",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-post-to-x",
@@ -3127,7 +3127,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-post-to-x",
       "installCommand": "npx skills add jimliu/baoyu-post-to-x",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-calendar",
@@ -3143,7 +3143,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-calendar",
       "installCommand": "npx skills add googleworkspace/gws-calendar",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firecrawl/firecrawl-scrape",
@@ -3159,7 +3159,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firecrawl/cli/firecrawl-scrape",
       "installCommand": "npx skills add firecrawl/firecrawl-scrape",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-sheets",
@@ -3175,7 +3175,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-sheets",
       "installCommand": "npx skills add googleworkspace/gws-sheets",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/firebase-basics",
@@ -3191,7 +3191,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/firebase-basics",
       "installCommand": "npx skills add firebase/firebase-basics",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firecrawl/firecrawl-search",
@@ -3207,7 +3207,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firecrawl/cli/firecrawl-search",
       "installCommand": "npx skills add firecrawl/firecrawl-search",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-danger-x-to-markdown",
@@ -3223,7 +3223,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-danger-x-to-markdown",
       "installCommand": "npx skills add jimliu/baoyu-danger-x-to-markdown",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "kepano/obsidian-bases",
@@ -3239,7 +3239,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/kepano/obsidian-skills/obsidian-bases",
       "installCommand": "npx skills add kepano/obsidian-bases",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "othmanadi/planning-with-files",
@@ -3255,7 +3255,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/othmanadi/planning-with-files/planning-with-files",
       "installCommand": "npx skills add othmanadi/planning-with-files",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/firebase-auth-basics",
@@ -3271,7 +3271,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/firebase-auth-basics",
       "installCommand": "npx skills add firebase/firebase-auth-basics",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firecrawl/firecrawl-agent",
@@ -3287,7 +3287,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firecrawl/cli/firecrawl-agent",
       "installCommand": "npx skills add firecrawl/firecrawl-agent",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firecrawl/firecrawl-map",
@@ -3303,7 +3303,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firecrawl/cli/firecrawl-map",
       "installCommand": "npx skills add firecrawl/firecrawl-map",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firecrawl/firecrawl-download",
@@ -3319,7 +3319,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firecrawl/cli/firecrawl-download",
       "installCommand": "npx skills add firecrawl/firecrawl-download",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "coreyhaines31/lead-magnets",
@@ -3335,7 +3335,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/coreyhaines31/marketingskills/lead-magnets",
       "installCommand": "npx skills add coreyhaines31/lead-magnets",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "google-labs-code/stitch-design",
@@ -3351,7 +3351,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/google-labs-code/stitch-skills/stitch-design",
       "installCommand": "npx skills add google-labs-code/stitch-design",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-compress-image",
@@ -3367,7 +3367,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-compress-image",
       "installCommand": "npx skills add jimliu/baoyu-compress-image",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-danger-gemini-web",
@@ -3383,7 +3383,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-danger-gemini-web",
       "installCommand": "npx skills add jimliu/baoyu-danger-gemini-web",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "better-auth/create-auth-skill",
@@ -3399,7 +3399,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/better-auth/skills/create-auth-skill",
       "installCommand": "npx skills add better-auth/create-auth-skill",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firecrawl/firecrawl-crawl",
@@ -3415,7 +3415,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firecrawl/cli/firecrawl-crawl",
       "installCommand": "npx skills add firecrawl/firecrawl-crawl",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/electron",
@@ -3431,7 +3431,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-browser/electron",
       "installCommand": "npx skills add vercel-labs/electron",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "avdlee/swiftui-expert-skill",
@@ -3447,7 +3447,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/avdlee/swiftui-agent-skill/swiftui-expert-skill",
       "installCommand": "npx skills add avdlee/swiftui-expert-skill",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/python-testing-patterns",
@@ -3466,7 +3466,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/python-testing-patterns",
       "installCommand": "npx skills add wshobson/python-testing-patterns",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/firebase-app-hosting-basics",
@@ -3482,7 +3482,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/firebase-app-hosting-basics",
       "installCommand": "npx skills add firebase/firebase-app-hosting-basics",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/workflow-automation",
@@ -3500,7 +3500,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/workflow-automation",
       "installCommand": "npx skills add supercent-io/workflow-automation",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/firebase-data-connect",
@@ -3516,7 +3516,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/firebase-data-connect",
       "installCommand": "npx skills add firebase/firebase-data-connect",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/slack",
@@ -3534,7 +3534,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-browser/slack",
       "installCommand": "npx skills add vercel-labs/slack",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "kepano/obsidian-cli",
@@ -3552,7 +3552,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/kepano/obsidian-skills/obsidian-cli",
       "installCommand": "npx skills add kepano/obsidian-cli",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/code-review",
@@ -3568,7 +3568,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/code-review",
       "installCommand": "npx skills add supercent-io/code-review",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-format-markdown",
@@ -3584,7 +3584,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-format-markdown",
       "installCommand": "npx skills add jimliu/baoyu-format-markdown",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/firebase-ai-logic",
@@ -3602,7 +3602,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/firebase-ai-logic",
       "installCommand": "npx skills add firebase/firebase-ai-logic",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/documentation-writer",
@@ -3618,7 +3618,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/documentation-writer",
       "installCommand": "npx skills add github/documentation-writer",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-docs-write",
@@ -3634,7 +3634,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-docs-write",
       "installCommand": "npx skills add googleworkspace/gws-docs-write",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "giuseppe-trisciuoglio/shadcn-ui",
@@ -3650,7 +3650,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/giuseppe-trisciuoglio/developer-kit/shadcn-ui",
       "installCommand": "npx skills add giuseppe-trisciuoglio/shadcn-ui",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-sheets-read",
@@ -3666,7 +3666,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-sheets-read",
       "installCommand": "npx skills add googleworkspace/gws-sheets-read",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/web-accessibility",
@@ -3682,7 +3682,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/web-accessibility",
       "installCommand": "npx skills add supercent-io/web-accessibility",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "madteacher/flutter-animations",
@@ -3698,7 +3698,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/madteacher/mad-agents-skills/flutter-animations",
       "installCommand": "npx skills add madteacher/flutter-animations",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-drive-upload",
@@ -3714,7 +3714,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-drive-upload",
       "installCommand": "npx skills add googleworkspace/gws-drive-upload",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/firebase-hosting-basics",
@@ -3730,7 +3730,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/firebase-hosting-basics",
       "installCommand": "npx skills add firebase/firebase-hosting-basics",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "franalgaba/grimoire-polymarket",
@@ -3746,7 +3746,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/franalgaba/grimoire/grimoire-polymarket",
       "installCommand": "npx skills add franalgaba/grimoire-polymarket",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/fastapi-templates",
@@ -3764,7 +3764,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/fastapi-templates",
       "installCommand": "npx skills add wshobson/fastapi-templates",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-calendar-agenda",
@@ -3780,7 +3780,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-calendar-agenda",
       "installCommand": "npx skills add googleworkspace/gws-calendar-agenda",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/code-refactoring",
@@ -3796,7 +3796,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/code-refactoring",
       "installCommand": "npx skills add supercent-io/code-refactoring",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/excalidraw-diagram-generator",
@@ -3812,7 +3812,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/excalidraw-diagram-generator",
       "installCommand": "npx skills add github/excalidraw-diagram-generator",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/release-skills",
@@ -3828,7 +3828,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/release-skills",
       "installCommand": "npx skills add jimliu/release-skills",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/backend-testing",
@@ -3846,7 +3846,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/backend-testing",
       "installCommand": "npx skills add supercent-io/backend-testing",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/prd",
@@ -3862,7 +3862,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/prd",
       "installCommand": "npx skills add github/prd",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-sheets-append",
@@ -3878,7 +3878,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-sheets-append",
       "installCommand": "npx skills add googleworkspace/gws-sheets-append",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/api-documentation",
@@ -3896,7 +3896,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/api-documentation",
       "installCommand": "npx skills add supercent-io/api-documentation",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/architecture-patterns",
@@ -3912,7 +3912,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/architecture-patterns",
       "installCommand": "npx skills add wshobson/architecture-patterns",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/api-design",
@@ -3930,7 +3930,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/api-design",
       "installCommand": "npx skills add supercent-io/api-design",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/firebase-firestore-standard",
@@ -3946,7 +3946,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/firebase-firestore-standard",
       "installCommand": "npx skills add firebase/firebase-firestore-standard",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "antfu/vite",
@@ -3962,7 +3962,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/antfu/skills/vite",
       "installCommand": "npx skills add antfu/vite",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/postgresql-table-design",
@@ -3978,7 +3978,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/postgresql-table-design",
       "installCommand": "npx skills add wshobson/postgresql-table-design",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-calendar-insert",
@@ -3994,7 +3994,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-calendar-insert",
       "installCommand": "npx skills add googleworkspace/gws-calendar-insert",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-gmail-triage",
@@ -4012,7 +4012,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-gmail-triage",
       "installCommand": "npx skills add googleworkspace/gws-gmail-triage",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-gmail-send",
@@ -4030,7 +4030,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-gmail-send",
       "installCommand": "npx skills add googleworkspace/gws-gmail-send",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/technical-writing",
@@ -4046,7 +4046,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/technical-writing",
       "installCommand": "npx skills add supercent-io/technical-writing",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/code-review-excellence",
@@ -4062,7 +4062,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/code-review-excellence",
       "installCommand": "npx skills add wshobson/code-review-excellence",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firecrawl/firecrawl-browser",
@@ -4080,7 +4080,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firecrawl/cli/firecrawl-browser",
       "installCommand": "npx skills add firecrawl/firecrawl-browser",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "halthelobster/proactive-agent",
@@ -4096,7 +4096,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/halthelobster/proactive-agent/proactive-agent",
       "installCommand": "npx skills add halthelobster/proactive-agent",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "sickn33/docker-expert",
@@ -4112,7 +4112,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/sickn33/antigravity-awesome-skills/docker-expert",
       "installCommand": "npx skills add sickn33/docker-expert",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "sentry/sentry-cli",
@@ -4130,7 +4130,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/sentry/dev/sentry-cli",
       "installCommand": "npx skills add sentry/sentry-cli",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "tavily-ai/search",
@@ -4146,7 +4146,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/tavily-ai/skills/search",
       "installCommand": "npx skills add tavily-ai/search",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "hyf0/vue-debug-guides",
@@ -4164,7 +4164,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/hyf0/vue-skills/vue-debug-guides",
       "installCommand": "npx skills add hyf0/vue-debug-guides",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/nextjs-app-router-patterns",
@@ -4182,7 +4182,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/nextjs-app-router-patterns",
       "installCommand": "npx skills add wshobson/nextjs-app-router-patterns",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "anthropics/claude-api",
@@ -4200,7 +4200,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/anthropics/skills/claude-api",
       "installCommand": "npx skills add anthropics/claude-api",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/developing-genkit-js",
@@ -4216,7 +4216,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/developing-genkit-js",
       "installCommand": "npx skills add firebase/developing-genkit-js",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-slides",
@@ -4232,7 +4232,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-slides",
       "installCommand": "npx skills add googleworkspace/gws-slides",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/developing-genkit-dart",
@@ -4248,7 +4248,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/developing-genkit-dart",
       "installCommand": "npx skills add firebase/developing-genkit-dart",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/vercel-cli-with-tokens",
@@ -4267,7 +4267,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-skills/vercel-cli-with-tokens",
       "installCommand": "npx skills add vercel-labs/vercel-cli-with-tokens",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "firebase/firebase-firestore-enterprise-native-mode",
@@ -4283,7 +4283,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/firebase/agent-skills/firebase-firestore-enterprise-native-mode",
       "installCommand": "npx skills add firebase/firebase-firestore-enterprise-native-mode",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/refactor",
@@ -4299,7 +4299,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/refactor",
       "installCommand": "npx skills add github/refactor",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/task-planning",
@@ -4315,7 +4315,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/task-planning",
       "installCommand": "npx skills add supercent-io/task-planning",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/testing-strategies",
@@ -4333,7 +4333,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/testing-strategies",
       "installCommand": "npx skills add supercent-io/testing-strategies",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "mattpocock/tdd",
@@ -4349,7 +4349,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/mattpocock/skills/tdd",
       "installCommand": "npx skills add mattpocock/tdd",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/security-best-practices",
@@ -4365,7 +4365,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/security-best-practices",
       "installCommand": "npx skills add supercent-io/security-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/e2e-testing-patterns",
@@ -4383,7 +4383,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/e2e-testing-patterns",
       "installCommand": "npx skills add wshobson/e2e-testing-patterns",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/codebase-search",
@@ -4399,7 +4399,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/codebase-search",
       "installCommand": "npx skills add supercent-io/codebase-search",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/data-analysis",
@@ -4415,7 +4415,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/data-analysis",
       "installCommand": "npx skills add supercent-io/data-analysis",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-shared",
@@ -4431,7 +4431,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-shared",
       "installCommand": "npx skills add googleworkspace/gws-shared",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "antfu/vue-best-practices",
@@ -4449,7 +4449,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/antfu/skills/vue-best-practices",
       "installCommand": "npx skills add antfu/vue-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "kadajett/nestjs-best-practices",
@@ -4465,7 +4465,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/kadajett/agent-nestjs-skills/nestjs-best-practices",
       "installCommand": "npx skills add kadajett/nestjs-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/authentication-setup",
@@ -4481,7 +4481,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/authentication-setup",
       "installCommand": "npx skills add supercent-io/authentication-setup",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "steipete/summarize",
@@ -4497,7 +4497,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/steipete/clawdis/summarize",
       "installCommand": "npx skills add steipete/summarize",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "op7418/humanizer-zh",
@@ -4513,7 +4513,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/op7418/humanizer-zh/humanizer-zh",
       "installCommand": "npx skills add op7418/humanizer-zh",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/bmad-orchestrator",
@@ -4529,7 +4529,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/bmad-orchestrator",
       "installCommand": "npx skills add supercent-io/bmad-orchestrator",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/mobile-ios-design",
@@ -4545,7 +4545,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/mobile-ios-design",
       "installCommand": "npx skills add wshobson/mobile-ios-design",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "expo/use-dom",
@@ -4561,7 +4561,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/expo/skills/use-dom",
       "installCommand": "npx skills add expo/use-dom",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "antfu/nuxt",
@@ -4579,23 +4579,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/antfu/skills/nuxt",
       "installCommand": "npx skills add antfu/nuxt",
-      "lastUpdated": "2026-04-10"
-    },
-    {
-      "id": "supercent-io/state-management",
-      "name": "state-management",
-      "author": "supercent-io",
-      "repo": "supercent-io/skills-template",
-      "description": "",
-      "installs": 9700,
-      "downloads": 0,
-      "stars": 0,
-      "category": "Clawdbot",
-      "tags": [],
-      "source": "skills.sh",
-      "url": "https://skills.sh/supercent-io/skills-template/state-management",
-      "installCommand": "npx skills add supercent-io/state-management",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-gmail-watch",
@@ -4613,7 +4597,23 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-gmail-watch",
       "installCommand": "npx skills add googleworkspace/gws-gmail-watch",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
+    },
+    {
+      "id": "supercent-io/state-management",
+      "name": "state-management",
+      "author": "supercent-io",
+      "repo": "supercent-io/skills-template",
+      "description": "",
+      "installs": 9700,
+      "downloads": 0,
+      "stars": 0,
+      "category": "Clawdbot",
+      "tags": [],
+      "source": "skills.sh",
+      "url": "https://skills.sh/supercent-io/skills-template/state-management",
+      "installCommand": "npx skills add supercent-io/state-management",
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "tavily-ai/tavily-search",
@@ -4629,7 +4629,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/tavily-ai/skills/tavily-search",
       "installCommand": "npx skills add tavily-ai/tavily-search",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/next-upgrade",
@@ -4647,7 +4647,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/next-skills/next-upgrade",
       "installCommand": "npx skills add vercel-labs/next-upgrade",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/web-design-guidelines",
@@ -4663,7 +4663,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/web-design-guidelines",
       "installCommand": "npx skills add supercent-io/web-design-guidelines",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "twostraws/swiftui-pro",
@@ -4679,7 +4679,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/twostraws/swiftui-agent-skill/swiftui-pro",
       "installCommand": "npx skills add twostraws/swiftui-pro",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/vercel-deploy",
@@ -4697,7 +4697,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/vercel-deploy",
       "installCommand": "npx skills add supercent-io/vercel-deploy",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "mastra-ai/mastra",
@@ -4713,7 +4713,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/mastra-ai/skills/mastra",
       "installCommand": "npx skills add mastra-ai/mastra",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "mattpocock/write-a-prd",
@@ -4729,7 +4729,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/mattpocock/skills/write-a-prd",
       "installCommand": "npx skills add mattpocock/write-a-prd",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "antfu/vueuse-functions",
@@ -4747,7 +4747,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/antfu/skills/vueuse-functions",
       "installCommand": "npx skills add antfu/vueuse-functions",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/mobile-android-design",
@@ -4763,7 +4763,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/mobile-android-design",
       "installCommand": "npx skills add wshobson/mobile-android-design",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/agent-browser",
@@ -4781,7 +4781,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/agent-browser",
       "installCommand": "npx skills add supercent-io/agent-browser",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/vibe-kanban",
@@ -4797,7 +4797,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/vibe-kanban",
       "installCommand": "npx skills add supercent-io/vibe-kanban",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-tasks",
@@ -4813,7 +4813,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-tasks",
       "installCommand": "npx skills add googleworkspace/gws-tasks",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/sql-optimization-patterns",
@@ -4829,7 +4829,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/sql-optimization-patterns",
       "installCommand": "npx skills add wshobson/sql-optimization-patterns",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "sugarforever/china-stock-analysis",
@@ -4845,7 +4845,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/sugarforever/01coder-agent-skills/china-stock-analysis",
       "installCommand": "npx skills add sugarforever/china-stock-analysis",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pexoai/videoagent-video-studio",
@@ -4861,7 +4861,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pexoai/pexo-skills/videoagent-video-studio",
       "installCommand": "npx skills add pexoai/videoagent-video-studio",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "ibelick/fixing-motion-performance",
@@ -4877,7 +4877,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/ibelick/ui-skills/fixing-motion-performance",
       "installCommand": "npx skills add ibelick/fixing-motion-performance",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "addyosmani/seo",
@@ -4895,7 +4895,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/addyosmani/web-quality-skills/seo",
       "installCommand": "npx skills add addyosmani/seo",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/java-springboot",
@@ -4911,7 +4911,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/java-springboot",
       "installCommand": "npx skills add github/java-springboot",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/deployment-automation",
@@ -4929,7 +4929,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/deployment-automation",
       "installCommand": "npx skills add supercent-io/deployment-automation",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/agentic-workflow",
@@ -4945,7 +4945,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/agentic-workflow",
       "installCommand": "npx skills add supercent-io/agentic-workflow",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-meet",
@@ -4961,7 +4961,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-meet",
       "installCommand": "npx skills add googleworkspace/gws-meet",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "vercel-labs/vercel-sandbox",
@@ -4979,7 +4979,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/vercel-labs/agent-browser/vercel-sandbox",
       "installCommand": "npx skills add vercel-labs/vercel-sandbox",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/agentic-development-principles",
@@ -4995,7 +4995,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/agentic-development-principles",
       "installCommand": "npx skills add supercent-io/agentic-development-principles",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/agent-configuration",
@@ -5011,7 +5011,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/agent-configuration",
       "installCommand": "npx skills add supercent-io/agent-configuration",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/agent-evaluation",
@@ -5027,7 +5027,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/agent-evaluation",
       "installCommand": "npx skills add supercent-io/agent-evaluation",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "kepano/json-canvas",
@@ -5043,7 +5043,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/kepano/obsidian-skills/json-canvas",
       "installCommand": "npx skills add kepano/json-canvas",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/changelog-maintenance",
@@ -5061,7 +5061,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/changelog-maintenance",
       "installCommand": "npx skills add supercent-io/changelog-maintenance",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "antfu/vitest",
@@ -5077,7 +5077,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/antfu/skills/vitest",
       "installCommand": "npx skills add antfu/vitest",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "supercent-io/database-schema-design",
@@ -5095,7 +5095,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/supercent-io/skills-template/database-schema-design",
       "installCommand": "npx skills add supercent-io/database-schema-design",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "emilkowalski/emil-design-eng",
@@ -5111,7 +5111,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/emilkowalski/skill/emil-design-eng",
       "installCommand": "npx skills add emilkowalski/emil-design-eng",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "googleworkspace/gws-forms",
@@ -5127,7 +5127,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/googleworkspace/cli/gws-forms",
       "installCommand": "npx skills add googleworkspace/gws-forms",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "antfu/web-design-guidelines",
@@ -5143,7 +5143,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/antfu/skills/web-design-guidelines",
       "installCommand": "npx skills add antfu/web-design-guidelines",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "addyosmani/accessibility",
@@ -5159,7 +5159,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/addyosmani/web-quality-skills/accessibility",
       "installCommand": "npx skills add addyosmani/accessibility",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "antfu/vue-router-best-practices",
@@ -5177,7 +5177,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/antfu/skills/vue-router-best-practices",
       "installCommand": "npx skills add antfu/vue-router-best-practices",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "pluginagentmarketplace/java-spring-boot",
@@ -5193,7 +5193,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/pluginagentmarketplace/custom-plugin-java/java-spring-boot",
       "installCommand": "npx skills add pluginagentmarketplace/java-spring-boot",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/security-requirement-extraction",
@@ -5209,7 +5209,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/security-requirement-extraction",
       "installCommand": "npx skills add wshobson/security-requirement-extraction",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "wshobson/prompt-engineering-patterns",
@@ -5225,7 +5225,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/wshobson/agents/prompt-engineering-patterns",
       "installCommand": "npx skills add wshobson/prompt-engineering-patterns",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "jimliu/baoyu-translate",
@@ -5241,7 +5241,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-translate",
       "installCommand": "npx skills add jimliu/baoyu-translate",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/memory-merger",
@@ -5257,7 +5257,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/memory-merger",
       "installCommand": "npx skills add github/memory-merger",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "leonxlnx/design-taste-frontend",
@@ -5273,7 +5273,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/leonxlnx/taste-skill/design-taste-frontend",
       "installCommand": "npx skills add leonxlnx/design-taste-frontend",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/chrome-devtools",
@@ -5289,7 +5289,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/chrome-devtools",
       "installCommand": "npx skills add github/chrome-devtools",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     },
     {
       "id": "github/create-readme",
@@ -5305,7 +5305,7 @@
       "source": "skills.sh",
       "url": "https://skills.sh/github/awesome-copilot/create-readme",
       "installCommand": "npx skills add github/create-readme",
-      "lastUpdated": "2026-04-10"
+      "lastUpdated": "2026-04-09"
     }
   ]
 }
