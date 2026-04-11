@@ -5099,6 +5099,28 @@ const skills = [
     "url": "https://skills.sh/wshobson/agents/sql-optimization-patterns",
     "installCommand": "npx skills add wshobson/sql-optimization-patterns",
     "lastUpdated": "2026-04-08"
+  },
+  {
+    "id": "nowork-studio/toprank",
+    "name": "toprank",
+    "author": "nowork-studio",
+    "repo": "nowork-studio/toprank",
+    "description": "Open-source Claude Code plugin and skill set for SEO, Google Ads, content writing, and CMS optimization workflows.",
+    "installs": 0,
+    "downloads": 0,
+    "stars": 115,
+    "category": "AI & ML",
+    "tags": [
+      "claude-code",
+      "seo",
+      "google-ads",
+      "content-writing",
+      "cms"
+    ],
+    "source": "github",
+    "url": "https://github.com/nowork-studio/toprank",
+    "installCommand": "gh repo clone nowork-studio/toprank ~/.claude/plugins/toprank",
+    "lastUpdated": "2026-04-10"
   }
 ];
 
