@@ -1,9 +1,9 @@
 {
-  "ran": "2026-04-01T06:00:00.000Z",
-  "total": 306,
+  "ran": "2026-04-14T06:00:00.000Z",
+  "total": 314,
   "new": 0,
   "removed": 0,
   "netChange": 0,
   "clawdhubDown": true,
-  "note": "306 skills total (no changes since yesterday). ClawdHub scraper still broken (Puppeteer detached frame). No new skills to report."
+  "note": "314 skills total (no changes from yesterday). ClawdHub scraper still broken (Puppeteer detached frame)."
 }
