@@ -1,9 +1,9 @@
 {
-  "ran": "2026-04-14T06:00:00.000Z",
-  "total": 314,
-  "new": 0,
-  "removed": 0,
-  "netChange": 0,
-  "clawdhubDown": true,
-  "note": "314 skills total (no changes from yesterday). ClawdHub scraper still broken (Puppeteer detached frame)."
+  "date": "2026-04-16T06:08:27.632864Z",
+  "totalSkills": 319,
+  "previousSkills": 317,
+  "newSkills": 2,
+  "newEntries": 22,
+  "status": "partial-success",
+  "note": "ClawdHub scraper returned 0 (site issue), skills.sh OK"
 }
