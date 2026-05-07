@@ -47,8 +47,13 @@ skill-directory/
 ├── index.html    # Main HTML structure
 ├── app.js        # Alpine.js app logic
 ├── data.js       # Directory data (items, categories)
+├── skills/       # Pullable local skill definitions
 └── README.md     # This file
 ```
+
+### Pullable Skills
+
+Full local skill definitions live in `skills/`. Copy a skill folder into the target runtime's skills directory to make it available on another machine.
 
 ### Adding New Items
 
