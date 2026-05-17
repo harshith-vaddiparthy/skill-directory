@@ -1,18 +1,6 @@
 {
   "source": "clawdhub.com",
-  "scrapedAt": "2026-05-08T14:04:23.386Z",
-  "count": 1,
-  "skills": [
-    {
-      "id": "",
-      "name": "@pskoett",
-      "slug": "/",
-      "description": "Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Clau...",
-      "downloads": 0,
-      "installs": 0,
-      "stars": 0,
-      "versions": 0,
-      "url": "https://clawdhub.com/pskoett/self-improving-agent"
-    }
-  ]
+  "scrapedAt": "2026-05-15T10:35:14.326Z",
+  "count": 0,
+  "skills": []
 }
