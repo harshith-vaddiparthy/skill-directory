@@ -1,6 +1,6 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-05-22T06:06:00.441Z",
+  "scrapedAt": "2026-05-23T06:08:04.587Z",
   "count": 324,
   "skills": [
     {
@@ -87,7 +87,7 @@
       "id": "vercel-labs/agent-browser",
       "name": "agent-browser",
       "repo": "vercel-labs/agent-browser",
-      "installs": 281500,
+      "installs": 281600,
       "rank": 22,
       "url": "https://skills.sh/vercel-labs/agent-browser/agent-browser"
     },
@@ -1239,7 +1239,7 @@
       "id": "agentspace-so/face-swap",
       "name": "face-swap",
       "repo": "agentspace-so/runcomfy-agent-skills",
-      "installs": 49200,
+      "installs": 49300,
       "rank": 233,
       "url": "https://skills.sh/agentspace-so/runcomfy-agent-skills/face-swap"
     },
@@ -1727,7 +1727,7 @@
       "id": "hugmouse/value",
       "name": "value",
       "repo": "hugmouse/skills",
-      "installs": 35400,
+      "installs": 35500,
       "rank": 296,
       "url": "https://skills.sh/hugmouse/skills/value"
     },
@@ -2127,7 +2127,7 @@
       "id": "google-labs-code/remotion",
       "name": "remotion",
       "repo": "google-labs-code/stitch-skills",
-      "installs": 25300,
+      "installs": 25400,
       "rank": 346,
       "url": "https://skills.sh/google-labs-code/stitch-skills/remotion"
     },
@@ -2204,20 +2204,20 @@
       "url": "https://skills.sh/googleworkspace/cli/gws-sheets-read"
     },
     {
-      "id": "firecrawl/firecrawl-build-scrape",
-      "name": "firecrawl-build-scrape",
-      "repo": "firecrawl/skills",
-      "installs": 23900,
-      "rank": 356,
-      "url": "https://skills.sh/firecrawl/skills/firecrawl-build-scrape"
-    },
-    {
       "id": "firecrawl/firecrawl-build-search",
       "name": "firecrawl-build-search",
       "repo": "firecrawl/skills",
       "installs": 23900,
-      "rank": 357,
+      "rank": 356,
       "url": "https://skills.sh/firecrawl/skills/firecrawl-build-search"
+    },
+    {
+      "id": "firecrawl/firecrawl-build-scrape",
+      "name": "firecrawl-build-scrape",
+      "repo": "firecrawl/skills",
+      "installs": 23900,
+      "rank": 357,
+      "url": "https://skills.sh/firecrawl/skills/firecrawl-build-scrape"
     },
     {
       "id": "kepano/json-canvas",
