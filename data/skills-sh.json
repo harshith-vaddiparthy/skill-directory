@@ -1,6 +1,6 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-05-23T06:08:04.587Z",
+  "scrapedAt": "2026-05-24T06:00:33.020Z",
   "count": 324,
   "skills": [
     {
@@ -327,7 +327,7 @@
       "id": "lllllllama/minimal-run-and-audit",
       "name": "minimal-run-and-audit",
       "repo": "lllllllama/ai-paper-reproduction-skill",
-      "installs": 118400,
+      "installs": 118500,
       "rank": 77,
       "url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/minimal-run-and-audit"
     },
@@ -2015,7 +2015,7 @@
       "id": "googleworkspace/gws-sheets",
       "name": "gws-sheets",
       "repo": "googleworkspace/cli",
-      "installs": 27100,
+      "installs": 27200,
       "rank": 332,
       "url": "https://skills.sh/googleworkspace/cli/gws-sheets"
     },
@@ -2287,7 +2287,7 @@
       "id": "googleworkspace/gws-calendar-insert",
       "name": "gws-calendar-insert",
       "repo": "googleworkspace/cli",
-      "installs": 22500,
+      "installs": 22600,
       "rank": 368,
       "url": "https://skills.sh/googleworkspace/cli/gws-calendar-insert"
     },
