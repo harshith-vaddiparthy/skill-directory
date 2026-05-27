@@ -1,6 +1,6 @@
 {
   "source": "skills.sh",
-  "scrapedAt": "2026-05-25T06:05:39.564Z",
+  "scrapedAt": "2026-05-27T06:00:30.085Z",
   "count": 324,
   "skills": [
     {
@@ -311,7 +311,7 @@
       "id": "lllllllama/env-and-assets-bootstrap",
       "name": "env-and-assets-bootstrap",
       "repo": "lllllllama/ai-paper-reproduction-skill",
-      "installs": 119200,
+      "installs": 119300,
       "rank": 75,
       "url": "https://skills.sh/lllllllama/ai-paper-reproduction-skill/env-and-assets-bootstrap"
     },
@@ -335,7 +335,7 @@
       "id": "vercel-labs/vercel-react-native-skills",
       "name": "vercel-react-native-skills",
       "repo": "vercel-labs/agent-skills",
-      "installs": 115600,
+      "installs": 115700,
       "rank": 78,
       "url": "https://skills.sh/vercel-labs/agent-skills/vercel-react-native-skills"
     },
@@ -607,7 +607,7 @@
       "id": "juliusbrussee/caveman-commit",
       "name": "caveman-commit",
       "repo": "juliusbrussee/caveman",
-      "installs": 87100,
+      "installs": 87200,
       "rank": 118,
       "url": "https://skills.sh/juliusbrussee/caveman/caveman-commit"
     },
@@ -1039,7 +1039,7 @@
       "id": "firebase/firebase-app-hosting-basics",
       "name": "firebase-app-hosting-basics",
       "repo": "firebase/agent-skills",
-      "installs": 54100,
+      "installs": 54200,
       "rank": 205,
       "url": "https://skills.sh/firebase/agent-skills/firebase-app-hosting-basics"
     },
@@ -1335,7 +1335,7 @@
       "id": "agentspace-so/image-inpainting",
       "name": "image-inpainting",
       "repo": "agentspace-so/runcomfy-agent-skills",
-      "installs": 47100,
+      "installs": 47200,
       "rank": 245,
       "url": "https://skills.sh/agentspace-so/runcomfy-agent-skills/image-inpainting"
     },
@@ -1383,7 +1383,7 @@
       "id": "agentspace-so/image-outpainting",
       "name": "image-outpainting",
       "repo": "agentspace-so/runcomfy-agent-skills",
-      "installs": 46800,
+      "installs": 46900,
       "rank": 251,
       "url": "https://skills.sh/agentspace-so/runcomfy-agent-skills/image-outpainting"
     },
@@ -1551,7 +1551,7 @@
       "id": "firecrawl/firecrawl-scrape",
       "name": "firecrawl-scrape",
       "repo": "firecrawl/cli",
-      "installs": 41100,
+      "installs": 41200,
       "rank": 273,
       "url": "https://skills.sh/firecrawl/cli/firecrawl-scrape"
     },
@@ -2167,7 +2167,7 @@
       "id": "jimliu/baoyu-post-to-wechat",
       "name": "baoyu-post-to-wechat",
       "repo": "jimliu/baoyu-skills",
-      "installs": 24600,
+      "installs": 24700,
       "rank": 351,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-post-to-wechat"
     },
@@ -2231,7 +2231,7 @@
       "id": "leonxlnx/imagegen-frontend-web",
       "name": "imagegen-frontend-web",
       "repo": "leonxlnx/taste-skill",
-      "installs": 23500,
+      "installs": 23600,
       "rank": 360,
       "url": "https://skills.sh/leonxlnx/taste-skill/imagegen-frontend-web"
     },
@@ -2396,19 +2396,11 @@
       "url": "https://skills.sh/antfu/skills/vue"
     },
     {
-      "id": "vercel-labs/dogfood",
-      "name": "dogfood",
-      "repo": "vercel-labs/agent-browser",
-      "installs": 21200,
-      "rank": 384,
-      "url": "https://skills.sh/vercel-labs/agent-browser/dogfood"
-    },
-    {
       "id": "jimliu/baoyu-infographic",
       "name": "baoyu-infographic",
       "repo": "jimliu/baoyu-skills",
       "installs": 21100,
-      "rank": 385,
+      "rank": 384,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-infographic"
     },
     {
@@ -2416,7 +2408,7 @@
       "name": "replicas-agent",
       "repo": "replicas-group/skill",
       "installs": 21100,
-      "rank": 386,
+      "rank": 385,
       "url": "https://skills.sh/replicas-group/skill/replicas-agent"
     },
     {
@@ -2424,7 +2416,7 @@
       "name": "brand-landingpage",
       "repo": "wshobson/agents",
       "installs": 21100,
-      "rank": 387,
+      "rank": 386,
       "url": "https://skills.sh/wshobson/agents/brand-landingpage"
     },
     {
@@ -2432,7 +2424,7 @@
       "name": "create-auth-skill",
       "repo": "better-auth/skills",
       "installs": 21100,
-      "rank": 388,
+      "rank": 387,
       "url": "https://skills.sh/better-auth/skills/create-auth-skill"
     },
     {
@@ -2440,7 +2432,7 @@
       "name": "baoyu-slide-deck",
       "repo": "jimliu/baoyu-skills",
       "installs": 21100,
-      "rank": 389,
+      "rank": 388,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-slide-deck"
     },
     {
@@ -2448,7 +2440,7 @@
       "name": "gh-cli",
       "repo": "github/awesome-copilot",
       "installs": 21000,
-      "rank": 390,
+      "rank": 389,
       "url": "https://skills.sh/github/awesome-copilot/gh-cli"
     },
     {
@@ -2456,7 +2448,7 @@
       "name": "gws-shared",
       "repo": "googleworkspace/cli",
       "installs": 20900,
-      "rank": 391,
+      "rank": 390,
       "url": "https://skills.sh/googleworkspace/cli/gws-shared"
     },
     {
@@ -2464,7 +2456,7 @@
       "name": "python-performance-optimization",
       "repo": "wshobson/agents",
       "installs": 20900,
-      "rank": 392,
+      "rank": 391,
       "url": "https://skills.sh/wshobson/agents/python-performance-optimization"
     },
     {
@@ -2472,7 +2464,7 @@
       "name": "api-design-principles",
       "repo": "wshobson/agents",
       "installs": 20800,
-      "rank": 393,
+      "rank": 392,
       "url": "https://skills.sh/wshobson/agents/api-design-principles"
     },
     {
@@ -2480,7 +2472,7 @@
       "name": "humanizer-zh",
       "repo": "op7418/humanizer-zh",
       "installs": 20600,
-      "rank": 395,
+      "rank": 394,
       "url": "https://skills.sh/op7418/humanizer-zh/humanizer-zh"
     },
     {
@@ -2488,7 +2480,7 @@
       "name": "vite",
       "repo": "antfu/skills",
       "installs": 20600,
-      "rank": 396,
+      "rank": 395,
       "url": "https://skills.sh/antfu/skills/vite"
     },
     {
@@ -2496,7 +2488,7 @@
       "name": "firebase-security-rules-auditor",
       "repo": "firebase/agent-skills",
       "installs": 20500,
-      "rank": 397,
+      "rank": 396,
       "url": "https://skills.sh/firebase/agent-skills/firebase-security-rules-auditor"
     },
     {
@@ -2504,7 +2496,7 @@
       "name": "baoyu-url-to-markdown",
       "repo": "jimliu/baoyu-skills",
       "installs": 20500,
-      "rank": 398,
+      "rank": 397,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-url-to-markdown"
     },
     {
@@ -2512,7 +2504,7 @@
       "name": "python-testing-patterns",
       "repo": "wshobson/agents",
       "installs": 20400,
-      "rank": 399,
+      "rank": 398,
       "url": "https://skills.sh/wshobson/agents/python-testing-patterns"
     },
     {
@@ -2520,7 +2512,7 @@
       "name": "firebase-ai-logic-basics",
       "repo": "firebase/agent-skills",
       "installs": 20300,
-      "rank": 400,
+      "rank": 399,
       "url": "https://skills.sh/firebase/agent-skills/firebase-ai-logic-basics"
     },
     {
@@ -2528,7 +2520,7 @@
       "name": "vue-best-practices",
       "repo": "hyf0/vue-skills",
       "installs": 20200,
-      "rank": 401,
+      "rank": 400,
       "url": "https://skills.sh/hyf0/vue-skills/vue-best-practices"
     },
     {
@@ -2536,7 +2528,7 @@
       "name": "firestore-security-rules-auditor",
       "repo": "firebase/agent-skills",
       "installs": 20200,
-      "rank": 402,
+      "rank": 401,
       "url": "https://skills.sh/firebase/agent-skills/firestore-security-rules-auditor"
     },
     {
@@ -2544,7 +2536,7 @@
       "name": "gws-slides",
       "repo": "googleworkspace/cli",
       "installs": 20100,
-      "rank": 403,
+      "rank": 402,
       "url": "https://skills.sh/googleworkspace/cli/gws-slides"
     },
     {
@@ -2552,7 +2544,7 @@
       "name": "huashu-design",
       "repo": "alchaincyf/huashu-design",
       "installs": 20100,
-      "rank": 404,
+      "rank": 403,
       "url": "https://skills.sh/alchaincyf/huashu-design/huashu-design"
     },
     {
@@ -2560,7 +2552,7 @@
       "name": "baoyu-comic",
       "repo": "jimliu/baoyu-skills",
       "installs": 20000,
-      "rank": 405,
+      "rank": 404,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-comic"
     },
     {
@@ -2568,7 +2560,7 @@
       "name": "make-interfaces-feel-better",
       "repo": "jakubkrehel/make-interfaces-feel-better",
       "installs": 20000,
-      "rank": 406,
+      "rank": 405,
       "url": "https://skills.sh/jakubkrehel/make-interfaces-feel-better/make-interfaces-feel-better"
     },
     {
@@ -2576,7 +2568,7 @@
       "name": "gws-tasks",
       "repo": "googleworkspace/cli",
       "installs": 19900,
-      "rank": 407,
+      "rank": 406,
       "url": "https://skills.sh/googleworkspace/cli/gws-tasks"
     },
     {
@@ -2584,7 +2576,7 @@
       "name": "baoyu-post-to-x",
       "repo": "jimliu/baoyu-skills",
       "installs": 19800,
-      "rank": 408,
+      "rank": 407,
       "url": "https://skills.sh/jimliu/baoyu-skills/baoyu-post-to-x"
     },
     {
@@ -2592,8 +2584,16 @@
       "name": "higgsfield-product-photoshoot",
       "repo": "higgsfield-ai/skills",
       "installs": 19600,
-      "rank": 409,
+      "rank": 408,
       "url": "https://skills.sh/higgsfield-ai/skills/higgsfield-product-photoshoot"
+    },
+    {
+      "id": "aaron-he-zhu/backlink-analyzer",
+      "name": "backlink-analyzer",
+      "repo": "aaron-he-zhu/seo-geo-claude-skills",
+      "installs": 19600,
+      "rank": 409,
+      "url": "https://skills.sh/aaron-he-zhu/seo-geo-claude-skills/backlink-analyzer"
     }
   ]
 }
