@@ -1,6 +1,6 @@
 # Skill Directory - System Status
 
-**Last Updated:** 2026-05-31T06:05:29.256Z
+**Last Updated:** 2026-06-01T06:10:38.301Z
 **System Status:** 🟢 OPERATIONAL
 
 ---
@@ -10,9 +10,9 @@
 | Component | Status | Last Run | Notes |
 |-----------|--------|----------|-------|
 | Frontend | 🟢 Live | - | https://skill-directory-teal.vercel.app |
-| skills.sh Scraper | 🟢 | 2026-05-31T06:05:29.256Z | OK |
-| ClawdHub Scraper | 🔴 | 2026-05-31T06:05:29.256Z | Failed |
-| Transform Pipeline | 🟢 | 2026-05-31T06:05:29.256Z | OK |
+| skills.sh Scraper | 🟢 | 2026-06-01T06:10:38.301Z | OK |
+| ClawdHub Scraper | 🔴 | 2026-06-01T06:10:38.301Z | Failed |
+| Transform Pipeline | 🟢 | 2026-06-01T06:10:38.301Z | OK |
 | Cron Automation | 🟢 Active | - | Daily 6 AM UTC |
 | Notifications | 🟢 | - | Enabled |
 
@@ -20,17 +20,17 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Skills | 321 |
+| Total Skills | 319 |
 | From skills.sh | TBD |
 | From ClawdHub | TBD |
-| Last Scrape | 2026-05-31T06:05:29.256Z |
-| Change | -4 skills |
+| Last Scrape | 2026-06-01T06:10:38.301Z |
+| Change | -2 skills |
 
 ## Recent Activity
 
 | Timestamp | Event |
 |-----------|-------|
-| 2026-05-31T06:05:29.256Z | Pipeline run completed |
+| 2026-06-01T06:10:38.301Z | Pipeline run completed |
 
 ---
 
