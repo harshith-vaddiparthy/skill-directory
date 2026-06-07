@@ -130,12 +130,25 @@ async function scrapeClawdhub() {
   } catch (error) {
     console.error(`[clawdhub] Error during scrape: ${error.message}`);
   } finally {
-    await browser.close();
+    try {
+      await Promise.race([
+        browser.close(),
+        new Promise((_, reject) => setTimeout(() => reject(new Error('browser.close timeout')), 10000))
+      ]);
+    } catch (error) {
+      console.error(`[clawdhub] Browser close warning: ${error.message}`);
+      try { browser.disconnect(); } catch {}
+    }
   }
   
   // Sort by downloads
   skills.sort((a, b) => (b.downloads || 0) - (a.downloads || 0));
   
+  if (skills.length === 0 && fs.existsSync(OUTPUT_FILE)) {
+    console.error('[clawdhub] Found 0 skills; preserving previous clawdhub.json');
+    return JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf8'));
+  }
+
   // Add metadata
   const output = {
     source: 'clawdhub.com',

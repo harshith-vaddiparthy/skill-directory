@@ -77,7 +77,7 @@ async function main() {
   
   // Step 2: Scrape ClawdHub (5 min timeout — Puppeteer can hang)
   log('Step 2: Scraping clawdhub.com...');
-  const clawdhubResult = run('node scripts/scrape-clawdhub.js', { silent: true, timeout: 300000 });
+  const clawdhubResult = run('timeout 300s node scripts/scrape-clawdhub.js', { silent: true });
   
   // Step 3: Transform
   log('Step 3: Transforming data...');
